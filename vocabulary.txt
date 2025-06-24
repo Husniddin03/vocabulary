@@ -1,0 +1,1056 @@
+a - indefinite article - a1 - biror - artikl - I have a cat. - Menda mushuk bor.
+about - adverb/preposition - a1 - haqida - ravish/prielog - Tell me about your family. - Oilang haqida gapirib ber.
+above - adverb/preposition - a1 - ustida, yuqorida - ravish/prielog - The lamp is above the table. - Chiroq stol ustida.
+across - adverb/preposition - a1 - orqali, kesib - ravish/prielog - She walked across the street. - U ko‘chani kesib o‘tdi.
+action - noun - a1 - harakat - ot - His action was brave. - Uning harakati jasur edi.
+activity - noun - a1 - faoliyat - ot - Swimming is my favorite activity. - Suzish mening sevimli faoliyatim.
+actor - noun - a1 - aktyor - ot - He is a famous actor. - U mashhur aktyor.
+actress - noun - a1 - aktrisa - ot - The actress won an award. - Aktrisa mukofot oldi.
+add - verb - a1 - qo‘shmoq - fel - Can I add some sugar to my tea? - Choyimga biroz shakar qo‘shsam bo‘ladimi?
+address - noun - a1 - manzil - ot - What is your address? - Sizning manzilingiz qanday?
+adult - noun - a1 - kattalar - ot - Only adults can enter. - Faqat kattalar kirishi mumkin.
+advice - noun - a1 - maslahat - ot - Can you give me some advice? - Menga maslahat bera olasizmi?
+afraid - adjective - a1 - qo‘rqmoq - sifat - I am afraid of dogs. - Men itlardan qo‘rqaman.
+after - preposition - a1 - dan keyin - prielog - We will go after lunch. - Biz tushlikdan keyin boramiz.
+afternoon - noun - a1 - peshin, tushdan keyin - ot - See you this afternoon. - Bugun tushdan keyin ko‘rishamiz.
+again - adverb - a1 - yana - ravish - Please say it again. - Iltimos, yana ayting.
+age - noun - a1 - yosh - ot - What is your age? - Yoshingiz nechida?
+ago - adverb - a1 - oldin - ravish - I saw him two days ago. - Uni ikki kun oldin ko‘rdim.
+agree - verb - a1 - rozi bo‘lmoq - fel - I agree with you. - Men siz bilan roziman.
+air - noun - a1 - havo - ot - The air is fresh today. - Bugun havo toza.
+airport - noun - a1 - aeroport - ot - I am at the airport. - Men aeroportdaman.
+all - determiner/pronoun - a1 - hamma - aniqlovchi/olmosh - All students are here. - Hamma talabalar shu yerda.
+also - adverb - a1 - ham, shuningdek - ravish - She is also a teacher. - U ham o‘qituvchi.
+always - adverb - a1 - har doim - ravish - He always wakes up early. - U har doim erta turadi.
+amazing - adjective - a1 - ajoyib - sifat - The view is amazing. - Manzara ajoyib.
+and - conjunction - a1 - va - bog‘lovchi - I like tea and coffee. - Men choy va qahvani yoqtiraman.
+angry - adjective - a1 - jahli chiqqan - sifat - He is angry with me. - U menga jahli chiqqan.
+animal - noun - a1 - hayvon - ot - The zoo has many animals. - Hayvonot bog‘ida ko‘p hayvonlar bor.
+another - determiner/pronoun - a1 - boshqa, yana bir - aniqlovchi/olmosh - Can I have another cup? - Yana bir piyola olsam bo‘ladimi?
+answer - noun/verb - a1 - javob, javob bermoq - ot/fel - Please answer the question. - Iltimos, savolga javob bering.
+any - determiner/pronoun - a1 - biror, hech qanday - aniqlovchi/olmosh - Do you have any questions? - Sizda biror savol bormi?
+anyone - pronoun - a1 - hech kim, biror kishi - olmosh - Anyone can join the club. - Klubga istalgan kishi qo‘shilishi mumkin.
+anything - pronoun - a1 - biror narsa - olmosh - Is there anything to eat? - Yeyishga biror narsa bormi?
+apartment - noun - a1 - kvartira - ot - I live in an apartment. - Men kvartirada yashayman.
+apple - noun - a1 - olma - ot - I eat an apple every day. - Men har kuni olma yeyman.
+April - noun - a1 - aprel - ot - My birthday is in April. - Mening tug‘ilgan kunim aprelda.
+area - noun - a1 - hudud, maydon - ot - This area is very quiet. - Bu hudud juda tinch.
+arm - noun - a1 - qo‘l - ot - My arm hurts. - Qo‘lim og‘riyapti.
+around - adverb/preposition - a1 - atrofida - ravish/prielog - We walked around the park. - Biz park atrofida yurib chiqdik.
+arrive - verb - a1 - yetib kelmoq - fel - The train will arrive soon. - Poyezd tez orada yetib keladi.
+art - noun - a1 - san’at - ot - She loves art. - U san’atni yaxshi ko‘radi.
+article - noun - a1 - maqola - ot - I read an interesting article. - Men qiziqarli maqola o‘qidim.
+artist - noun - a1 - rassom, san’atkor - ot - He is a famous artist. - U mashhur rassom.
+as - preposition - a1 - sifatida - prielog - He works as a teacher. - U o‘qituvchi sifatida ishlaydi.
+ask - verb - a1 - so‘ramoq - fel - Can I ask a question? - Savol bersam bo‘ladimi?
+at - preposition - a1 - da, ustida - prielog - I am at home. - Men uyda(man).
+August - noun - a1 - avgust - ot - School starts in August. - Maktab avgustda boshlanadi.
+aunt - noun - a1 - xola, amma - ot - My aunt lives in Tashkent. - Xolam Toshkentda yashaydi.
+autumn - noun - a1 - kuz - ot - Autumn is my favorite season. - Kuz mening sevimli faslim.
+away - adverb - a1 - uzoqda, ketib - ravish - He is far away. - U uzoqda.
+baby - noun - a1 - chaqaloq - ot - The baby is sleeping. - Chaqaloq uxlayapti.
+back - adverb/noun - a1 - orqaga, orqa - ravish/ot - I will come back soon. - Tez orada qaytaman.
+bad - adjective - a1 - yomon - sifat - The weather is bad today. - Bugun ob-havo yomon.
+bag - noun - a1 - sumka - ot - My bag is heavy. - Sumkam og‘ir.
+ball - noun - a1 - to‘p - ot - The children are playing with a ball. - Bolalar to‘p bilan o‘ynayapti.
+banana - noun - a1 - banan - ot - I like bananas. - Men bananni yaxshi ko‘raman.
+band - noun - a1 - guruh - ot - She plays in a band. - U guruhda o‘ynaydi.
+bank - noun - a1 - bank - ot - I work at a bank. - Men bankda ishlayman.
+bath - noun - a1 - vanna, cho‘milish - ot - I take a bath every evening. - Men har kecha cho‘milaman.
+bathroom - noun - a1 - hojatxona, hammom - ot - The bathroom is upstairs. - Hojatxona yuqorida.
+be - verb/auxiliary verb - a1 - bo‘lmoq - fel/yordamchi fel - I want to be a doctor. - Men shifokor bo‘lishni xohlayman.
+beach - noun - a1 - plyaj - ot - We went to the beach. - Biz plyajga bordik.
+beautiful - adjective - a1 - chiroyli - sifat - The garden is beautiful. - Bog‘ chiroyli.
+because - conjunction - a1 - chunki - bog‘lovchi - I am happy because it is sunny. - Men baxtliman, chunki quyoshli.
+become - verb - a1 - bo‘lmoq, aylanish - fel - He wants to become a pilot. - U uchuvchi bo‘lishni xohlaydi.
+bed - noun - a1 - karavot, to‘shak - ot - I am tired, I need my bed. - Men charchadim, to‘shagim kerak.
+bedroom - noun - a1 - yotoqxona - ot - My bedroom is small. - Mening yotoqxonam kichik.
+beer - noun - a1 - pivo - ot - He does not drink beer. - U pivo ichmaydi.
+before - preposition - a1 - oldin - prielog - Wash your hands before eating. - Ovqatdan oldin qo‘llaringizni yuving.
+begin - verb - a1 - boshlamoq - fel - The lesson will begin soon. - Dars tez orada boshlanadi.
+beginning - noun - a1 - boshlanish - ot - This is the beginning of the story. - Bu hikoyaning boshlanishi.
+behind - adverb/preposition - a1 - orqasida - ravish/prielog - The cat is behind the door. - Mushuk eshik orqasida.
+believe - verb - a1 - ishonmoq - fel - I believe you. - Men sizga ishonaman.
+below - adverb/preposition - a1 - pastda, ostida - ravish/prielog - The temperature is below zero. - Harorat nol darajadan past.
+best - adjective - a1 - eng yaxshi - sifat - She is my best friend. - U mening eng yaxshi do‘stim.
+better - adjective - a1 - yaxshiroq - sifat - I feel better now. - Hozir o‘zimni yaxshiroq his qilyapman.
+between - preposition - a1 - o‘rtasida - prielog - The ball is between the shoes. - To‘p tuflilar o‘rtasida.
+bicycle - noun - a1 - velosiped - ot - I ride my bicycle to school. - Men maktabga velosipedda boraman.
+big - adjective - a1 - katta - sifat - The house is big. - Uy katta.
+bike - noun - a1 - velosiped - ot - My bike is new. - Mening velosipedim yangi.
+bill - noun - a1 - hisob, kvitansiya - ot - Can I have the bill, please? - Hisobni bera olasizmi?
+bird - noun - a1 - qush - ot - The bird is singing. - Qush kuylayapti.
+birthday - noun - a1 - tug‘ilgan kun - ot - My birthday is in May. - Mening tug‘ilgan kunim mayda.
+black - adjective/noun - a1 - qora - sifat/ot - She has black hair. - Uning sochi qora.
+blog - noun - a1 - blog - ot - I write a travel blog. - Men sayohat blogi yozaman.
+blonde - adjective - a1 - sarg‘ish - sifat - She has blonde hair. - Uning sochi sarg‘ish.
+blue - adjective/noun - a1 - ko‘k - sifat/ot - The sky is blue. - Osmon ko‘k.
+boat - noun - a1 - qayiq - ot - We went on a boat. - Biz qayiqda sayr qildik.
+body - noun - a1 - tana - ot - Exercise is good for your body. - Mashq qilish tana uchun foydali.
+book - noun - a1 - kitob - ot - I am reading a book. - Men kitob o‘qiyapman.
+boot - noun - a1 - etik - ot - My boots are dirty. - Mening etiklarim kir.
+bored - adjective - a1 - zerikkan - sifat - I am bored at home. - Uyda zerikdim.
+boring - adjective - a1 - zerikarli - sifat - The movie was boring. - Film zerikarli edi.
+born - verb - a1 - tug‘ilmoq - fel - I was born in 2000. - Men 2000 yilda tug‘ilganman.
+both - determiner/pronoun - a1 - ikkalasi - aniqlovchi/olmosh - Both answers are correct. - Ikkala javob ham to‘g‘ri.
+bottle - noun - a1 - shisha, butilka - ot - I bought a bottle of water. - Men bir shisha suv sotib oldim.
+box - noun - a1 - quti - ot - The box is full of toys. - Quti o‘yinchoqlarga to‘la.
+boy - noun - a1 - bola - ot - The boy is playing football. - Bola futbol o‘ynayapti.
+boyfriend - noun - a1 - yigit (sevgan) - ot - Her boyfriend is very kind. - Uning yigit do‘sti juda mehribon.
+bread - noun - a1 - non - ot - I eat bread for breakfast. - Men nonushtada non yeyman.
+break - noun/verb - a1 - tanaffus, sindirmoq - ot/fel - Let’s take a break. - Keling, tanaffus qilaylik.
+breakfast - noun - a1 - nonushta - ot - I had eggs for breakfast. - Men nonushtada tuxum yedim.
+bring - verb - a1 - olib kelmoq - fel - Please bring your book. - Iltimos, kitobingizni olib keling.
+brother - noun - a1 - aka, uka - ot - My brother is older than me. - Akam mendan katta.
+brown - adjective/noun - a1 - jigarrang - sifat/ot - She has brown eyes. - Uning ko‘zlari jigarrang.
+build - verb - a1 - qurmoq - fel - They will build a new house. - Ular yangi uy qurishadi.
+building - noun - a1 - bino - ot - This building is very tall. - Bu bino juda baland.
+bus - noun - a1 - avtobus - ot - I go to work by bus. - Men ishga avtobusda boraman.
+business - noun - a1 - biznes, ish - ot - He has his own business. - Uning o‘z biznesi bor.
+busy - adjective - a1 - band - sifat - I am busy today. - Bugun bandman.
+but - conjunction - a1 - lekin - bog‘lovchi - I like tea but not coffee. - Men choyni yoqtiraman, lekin qahvani emas.
+butter - noun - a1 - sariyog‘ - ot - I put butter on my bread. - Men nonimga sariyog‘ suraman.
+buy - verb - a1 - sotib olmoq - fel - I want to buy a new phone. - Men yangi telefon sotib olmoqchiman.
+by - preposition - a1 - orqali, tomonidan - prielog - The book was written by him. - Kitob u tomonidan yozilgan.
+bye - exclamation - a1 - xayr - undov - Bye! See you tomorrow. - Xayr! Ertaga ko‘rishamiz.
+cafe - noun - a1 - kafe - ot - Let’s meet at the cafe. - Kafeda uchrashamiz.
+cake - noun - a1 - tort - ot - She made a chocolate cake. - U shokoladli tort tayyorladi.
+call - noun/verb - a1 - qo‘ng‘iroq, chaqirmoq - ot/fel - I will call you later. - Men sizga keyinroq qo‘ng‘iroq qilaman.
+camera - noun - a1 - kamera, fotoapparat - ot - I bought a new camera. - Men yangi kamera sotib oldim.
+can - modal verb - a1 - mumkin, qila olmoq - modal fel - Can you help me? - Menga yordam bera olasizmi?
+cannot - modal verb - a1 - mumkin emas, qila olmaydi - modal fel - I cannot swim. - Men suzolmayman.
+capital - adjective/noun - a1 - bosh, poytaxt - sifat/ot - Tashkent is the capital of Uzbekistan. - Toshkent O‘zbekistonning poytaxti.
+car - noun - a1 - mashina - ot - My car is red. - Mening mashinam qizil.
+card - noun - a1 - karta - ot - Do you have a credit card? - Sizda kredit karta bormi?
+career - noun - a1 - kasb, faoliyat - ot - She wants a career in medicine. - U tibbiyot sohasida ishlamoqchi.
+carrot - noun - a1 - sabzi - ot - Rabbits like carrots. - Quyonlar sabzini yaxshi ko‘radi.
+carry - verb - a1 - ko‘tarmoq, olib yurmoq - fel - Can you carry this bag? - Bu sumkani ko‘tarsangiz bo‘ladimi?
+cat - noun - a1 - mushuk - ot - The cat is sleeping. - Mushuk uxlayapti.
+CD - noun - a1 - CD disk - ot - I bought a new music CD. - Men yangi musiqa CDsi sotib oldim.
+cent - noun - a1 - sent (pul birligi) - ot - It costs fifty cents. - Bu ellik sent turadi.
+centre - noun - a1 - markaz - ot - The shop is in the city centre. - Do‘kon shahar markazida.
+century - noun - a1 - asr - ot - We live in the 21st century. - Biz 21-asrda yashayapmiz.
+chair - noun - a1 - stul - ot - Sit on the chair. - Stulga o‘tiring.
+change - noun/verb - a1 - o‘zgarish, o‘zgartirmoq - ot/fel - I want to change my job. - Men ishimi o‘zgartirmoqchiman.
+chart - noun - a1 - jadval, diagramma - ot - The chart shows our progress. - Jadval bizning taraqqiyotimizni ko‘rsatadi.
+cheap - adjective - a1 - arzon - sifat - This shirt is very cheap. - Bu ko‘ylak juda arzon.
+check - verb - a1 - tekshirmoq - fel - Please check your answers. - Iltimos, javoblaringizni tekshiring.
+cheese - noun - a1 - pishloq - ot - I like cheese on my pizza. - Men pitssada pishloqni yaxshi ko‘raman.
+chicken - noun - a1 - tovuq - ot - We had chicken for dinner. - Kechki ovqatda tovuq yedik.
+child - noun - a1 - bola - ot - The child is playing outside. - Bola tashqarida o‘ynayapti.
+chocolate - noun - a1 - shokolad - ot - She loves chocolate. - U shokoladni yaxshi ko‘radi.
+choose - verb - a1 - tanlamoq - fel - Choose the correct answer. - To‘g‘ri javobni tanlang.
+cinema - noun - a1 - kinoteatr - ot - Let's go to the cinema. - Keling, kinoga boramiz.
+city - noun - a1 - shahar - ot - Tashkent is a big city. - Toshkent katta shahar.
+class - noun - a1 - sinf, dars - ot - Our class starts at nine. - Bizning darsimiz soat to‘qqizda boshlanadi.
+classroom - noun - a1 - sinfxona - ot - The classroom is clean. - Sinfxona toza.
+clean - adjective - a1 - toza - sifat - The kitchen is clean. - Oshxona toza.
+clean - verb - a1 - tozalamoq - fel - I clean my room every day. - Men har kuni xonamni tozalayman.
+climb - verb - a1 - chiqmoq, tirmashmoq - fel - The boy can climb the tree. - Bola daraxtga chiqishi mumkin.
+clock - noun - a1 - soat (devor soati) - ot - The clock is on the wall. - Soat devorda turibdi.
+close - verb - a1 - yopmoq - fel - Please close the door. - Iltimos, eshikni yoping.
+clothes - noun - a1 - kiyim - ot - My clothes are new. - Mening kiyimlarim yangi.
+club - noun - a1 - klub - ot - I joined the music club. - Men musiqa klubiga qo‘shildim.
+coat - noun - a1 - palto - ot - Wear your coat, it’s cold. - Palto kiy, havo sovuq.
+coffee - noun - a1 - qahva - ot - I drink coffee every morning. - Men har kuni ertalab qahva ichaman.
+cold - adjective - a1 - sovuq - sifat - The weather is cold today. - Bugun havo sovuq.
+cold - noun - a1 - shamollash - ot - I have a cold. - Men shamollab qoldim.
+college - noun - a1 - kollej - ot - She studies at college. - U kollejda o‘qiydi.
+colour - noun - a1 - rang - ot - What is your favourite colour? - Sevimli rangingiz qanday?
+come - verb - a1 - kelmoq - fel - Please come here. - Iltimos, bu yerga keling.
+common - adjective - a1 - keng tarqalgan, umumiy - sifat - English is a common language. - Ingliz tili keng tarqalgan til.
+company - noun - a1 - kompaniya, shirkat - ot - He works for a big company. - U katta kompaniyada ishlaydi.
+compare - verb - a1 - solishtirmoq - fel - Compare your answers. - Javoblaringizni solishtiring.
+complete - adjective - a1 - to‘liq, tugallangan - sifat - The project is complete. - Loyiha tugallandi.
+complete - verb - a1 - tugatmoq, to‘ldirmoq - fel - Please complete the form. - Iltimos, formani to‘ldiring.
+computer - noun - a1 - kompyuter - ot - I use a computer at work. - Men ishda kompyuterdan foydalanaman.
+concert - noun - a1 - kontsert - ot - We went to a concert last night. - Kecha kontsertga bordik.
+conversation - noun - a1 - suhbat - ot - We had a long conversation. - Biz uzoq suhbatlashdik.
+cook - verb - a1 - pishirmoq - fel - I cook dinner every day. - Men har kuni kechki ovqat pishiraman.
+cooking - noun - a1 - ovqat pishirish - ot - Cooking is my hobby. - Ovqat pishirish mening hobbiyim.
+cool - adjective - a1 - salqin, zo‘r - sifat - The weather is cool today. - Bugun havo salqin.
+correct - adjective - a1 - to‘g‘ri - sifat - Your answer is correct. - Sizning javobingiz to‘g‘ri.
+correct - verb - a1 - to‘g‘rilamoq - fel - Please correct your mistakes. - Iltimos, xatolaringizni to‘g‘rilang.
+cost - noun - a1 - narx, qiymat - ot - The cost is too high. - Narxi juda baland.
+cost - verb - a1 - turmoq (narx) - fel - How much does it cost? - Bu qancha turadi?
+could - modal verb - a1 - mumkin edi, qila olardi - modal fel - I could swim when I was five. - Men besh yoshimda suza olardim.
+country - noun - a1 - mamlakat - ot - Uzbekistan is my country. - O‘zbekiston mening mamlakatim.
+course - noun - a1 - kurs, dars - ot - I am taking a French course. - Men fransuz tili kursiga qatnayapman.
+cousin - noun - a1 - amakivachcha, tog‘avachcha - ot - My cousin lives in Samarkand. - Mening amakivachcham Samarqandda yashaydi.
+cow - noun - a1 - sigir - ot - The cow gives milk. - Sigir sut beradi.
+cream - noun - a1 - qaymoq - ot - I like cream in my coffee. - Men qahvaga qaymoq solishni yaxshi ko‘raman.
+create - verb - a1 - yaratmoq - fel - Artists create beautiful pictures. - Rassomlar chiroyli rasmlar yaratadi.
+culture - noun - a1 - madaniyat - ot - Every country has its own culture. - Har bir mamlakatning o‘z madaniyati bor.
+cup - noun - a1 - piyola, chashka - ot - I need a cup of tea. - Menga bir piyola choy kerak.
+customer - noun - a1 - mijoz - ot - The customer is always right. - Mijoz har doim haq.
+cut - verb - a1 - kesmoq - fel - Please cut the cake. - Iltimos, tortni kesing.
+dad - noun - a1 - dada, ota - ot - My dad is a doctor. - Mening dadam shifokor.
+dance - noun - a1 - raqs - ot - I like to watch dance. - Men raqs tomosha qilishni yaxshi ko‘raman.
+dance - verb - a1 - raqsga tushmoq - fel - She can dance very well. - U juda yaxshi raqsga tushadi.
+dancer - noun - a1 - raqqosa, raqqos - ot - She is a famous dancer. - U mashhur raqqosa.
+dancing - noun - a1 - raqsga tushish - ot - Dancing is fun. - Raqsga tushish maroqli.
+dangerous - adjective - a1 - xavfli - sifat - The road is dangerous at night. - Yo‘l kechasi xavfli.
+dark - adjective - a1 - qorong‘i - sifat - The room is dark. - Xona qorong‘i.
+date - noun - a1 - sana, uchrashuv - ot - What is today’s date? - Bugun qaysi sana?
+daughter - noun - a1 - qiz (farzand) - ot - My daughter is five years old. - Mening qizim besh yoshda.
+day - noun - a1 - kun - ot - Today is a sunny day. - Bugun quyoshli kun.
+dear - adjective - a1 - aziz, qadrli - sifat - Dear friend, how are you? - Aziz do‘stim, qalaysan?
+December - noun - a1 - dekabr - ot - My birthday is in December. - Mening tug‘ilgan kunim dekabrda.
+decide - verb - a1 - qaror qilmoq - fel - I can’t decide what to eat. - Nima yeyishni hal qila olmayapman.
+delicious - adjective - a1 - mazali - sifat - The food is delicious. - Ovqat mazali.
+describe - verb - a1 - tasvirlamoq - fel - Can you describe your house? - Uyingizni tasvirlab bera olasizmi?
+description - noun - a1 - tavsif - ot - Give a short description of the picture. - Rasmga qisqacha tavsif bering.
+design - noun - a1 - dizayn, loyihalash - ot - The design of this building is modern. - Bu binoning dizayni zamonaviy.
+design - verb - a1 - loyihalamoq, dizayn qilmoq - fel - She will design a new logo. - U yangi logo dizayn qiladi.
+desk - noun - a1 - yozuv stoli - ot - My books are on the desk. - Kitoblarim stol ustida.
+detail - noun - a1 - tafsilot, detal - ot - Tell me more details. - Menga ko‘proq tafsilot ayting.
+dialogue - noun - a1 - dialog - ot - Read the dialogue with your partner. - Hamrohingiz bilan dialogni o‘qing.
+dictionary - noun - a1 - lug‘at - ot - I use a dictionary to find new words. - Yangi so‘zlarni topish uchun lug‘atdan foydalanaman.
+die - verb - a1 - o‘lmoq - fel - Flowers die without water. - Gullarsiz suv o‘ladi.
+diet - noun - a1 - dieta, ovqatlanish tartibi - ot - I am on a diet. - Men dietadaman.
+difference - noun - a1 - farq - ot - What is the difference between these words? - Bu so‘zlar orasidagi farq nima?
+different - adjective - a1 - boshqacha, turli - sifat - My brother and I are very different. - Akam bilan men juda boshqachamiz.
+difficult - adjective - a1 - qiyin - sifat - This question is difficult. - Bu savol qiyin.
+dinner - noun - a1 - kechki ovqat - ot - We have dinner at 7 o’clock. - Biz kechki ovqatni soat 7 da yeymiz.
+dirty - adjective - a1 - kir - sifat - Your shoes are dirty. - Poyabzalingiz kir.
+discuss - verb - a1 - muhokama qilmoq - fel - Let’s discuss the problem. - Muammoni muhokama qilaylik.
+dish - noun - a1 - taom, idish - ot - Plov is my favourite dish. - Plov mening sevimli taomim.
+do - verb - a1 - qilmoq - fel - I do my homework every day. - Men har kuni uy vazifamni qilaman.
+do - auxiliary verb - a1 - yordamchi fel - yordamchi fel - Do you like tea? - Siz choyni yoqtirasizmi?
+doctor - noun - a1 - shifokor - ot - My mother is a doctor. - Onam shifokor.
+dog - noun - a1 - it - ot - The dog is barking. - It hurmoqda.
+dollar - noun - a1 - dollar - ot - This book costs ten dollars. - Bu kitob o‘n dollar turadi.
+door - noun - a1 - eshik - ot - Please close the door. - Iltimos, eshikni yoping.
+down - adverb - a1 - pastga - ravish - The cat jumped down. - Mushuk pastga sakradi.
+down - preposition - a1 - pastga - prielog - Walk down the street. - Ko‘cha bo‘ylab pastga yuring.
+downstairs - adverb - a1 - pastga, pastki qavatga - ravish - The kitchen is downstairs. - Oshxona pastki qavatda.
+draw - verb - a1 - chizmoq - fel - I like to draw animals. - Men hayvonlarni chizishni yaxshi ko‘raman.
+dress - noun - a1 - ko‘ylak - ot - She is wearing a red dress. - U qizil ko‘ylak kiygan.
+dress - verb - a1 - kiyinmoq - fel - I dress quickly in the morning. - Men ertalab tezda kiyinaman.
+drink - noun - a1 - ichimlik - ot - Water is my favourite drink. - Suv mening sevimli ichimligim.
+drink - verb - a1 - ichmoq - fel - I drink tea every morning. - Men har kuni ertalab choy ichaman.
+drive - verb - a1 - haydamoq - fel - I can drive a car. - Men mashina hayday olaman.
+driver - noun - a1 - haydovchi - ot - The bus driver is friendly. - Avtobus haydovchisi do‘stona.
+during - preposition - a1 - davomida - prielog - I read a book during lunch. - Men tushlikda kitob o‘qiyman.
+DVD - noun - a1 - DVD disk - ot - I bought a new DVD. - Men yangi DVD sotib oldim.
+each - adverb - a1 - har biri - ravish - Each student has a book. - Har bir talabada kitob bor.
+each - determiner - a1 - har bir - aniqlovchi - Each child got a gift. - Har bir bola sovg‘a oldi.
+each - pronoun - a1 - har biri - olmosh - Each of us is happy. - Har birimiz baxtlimiz.
+ear - noun - a1 - quloq - ot - My ear hurts. - Quloqim og‘riyapti.
+early - adjective - a1 - erta - sifat - I am an early riser. - Men erta turadigan odamman.
+early - adverb - a1 - erta - ravish - I wake up early. - Men erta turaman.
+east - adjective - a1 - sharqiy - sifat - The east side is sunny. - Sharqiy tomon quyoshli.
+east - adverb - a1 - sharqqa - ravish - The sun rises east. - Quyosh sharqdan chiqadi.
+east - noun - a1 - sharq - ot - Tashkent is in the east of Uzbekistan. - Toshkent O‘zbekistonning sharqida.
+easy - adjective - a1 - oson - sifat - This test is easy. - Bu test oson.
+eat - verb - a1 - yeymoq - fel - I eat breakfast at 8 o’clock. - Men soat 8 da nonushta qilaman.
+egg - noun - a1 - tuxum - ot - I had an egg for breakfast. - Men nonushtada tuxum yedim.
+eight - number - a1 - sakkiz - son - There are eight apples. - Sakkizta olma bor.
+eighteen - number - a1 - o‘n sakkiz - son - She is eighteen years old. - U o‘n sakkiz yoshda.
+eighty - number - a1 - sakson - son - My grandmother is eighty. - Buvi sakson yoshda.
+elephant - noun - a1 - fil - ot - The elephant is big. - Fil katta.
+eleven - number - a1 - o‘n bir - son - There are eleven students. - O‘n birta talaba bor.
+else - adverb - a1 - yana, boshqa - ravish - Do you want anything else? - Yana biror narsa xohlaysizmi?
+email - noun - a1 - elektron pochta - ot - I sent you an email. - Sizga elektron pochta yubordim.
+email - verb - a1 - elektron pochta yubormoq - fel - Please email me the file. - Iltimos, faylni menga email qiling.
+end - noun - a1 - oxir - ot - The film has a happy end. - Filmning oxiri baxtli.
+end - verb - a1 - tugamoq - fel - The lesson ends at 10. - Dars soat 10 da tugaydi.
+enjoy - verb - a1 - zavqlanmoq - fel - I enjoy reading books. - Men kitob o‘qishni yaxshi ko‘raman.
+enough - adverb - a1 - yetarlicha - ravish - I have enough money. - Menda yetarli pul bor.
+enough - determiner - a1 - yetarli - aniqlovchi - There is enough food. - Yetarli ovqat bor.
+enough - pronoun - a1 - yetarli - olmosh - That is enough. - Bu yetarli.
+euro - noun - a1 - yevro - ot - The ticket costs ten euros. - Chipta o‘n yevro turadi.
+even - adverb - a1 - hattoki - ravish - Even children can do it. - Hattoki bolalar ham buni qila oladi.
+evening - noun - a1 - kechqurun - ot - I study in the evening. - Men kechqurun o‘qiyman.
+event - noun - a1 - tadbir, voqea - ot - The event starts at 6. - Tadbir soat 6 da boshlanadi.
+ever - adverb - a1 - hech qachon, hech - ravish - Have you ever been to Paris? - Siz hech Parijda bo‘lganmisiz?
+every - determiner - a1 - har bir - aniqlovchi - I go to school every day. - Men har kuni maktabga boraman.
+everybody - pronoun - a1 - hamma - olmosh - Everybody is here. - Hamma shu yerda.
+everyone - pronoun - a1 - har bir kishi - olmosh - Everyone likes ice cream. - Hamma muzqaymoqni yaxshi ko‘radi.
+everything - pronoun - a1 - hamma narsa - olmosh - Everything is ready. - Hamma narsa tayyor.
+exam - noun - a1 - imtihon - ot - I have an exam tomorrow. - Ertaga imtihonim bor.
+example - noun - a1 - misol - ot - Give me an example. - Menga misol keltiring.
+excited - adjective - a1 - hayajonlangan - sifat - I am excited about the trip. - Men sayohatdan hayajondaman.
+exciting - adjective - a1 - hayajonli - sifat - The game was exciting. - O‘yin hayajonli edi.
+exercise - noun - a1 - mashq - ot - Exercise is good for health. - Mashq sog‘liq uchun foydali.
+exercise - verb - a1 - mashq qilmoq - fel - I exercise every morning. - Men har kuni ertalab mashq qilaman.
+expensive - adjective - a1 - qimmat - sifat - This car is expensive. - Bu mashina qimmat.
+explain - verb - a1 - tushuntirmoq - fel - Please explain the rules. - Iltimos, qoidalarni tushuntiring.
+extra - adjective - a1 - qo‘shimcha - sifat - I need extra time. - Menga qo‘shimcha vaqt kerak.
+eye - noun - a1 - ko‘z - ot - My eyes are blue. - Ko‘zlarim ko‘k.
+face - noun - a1 - yuz - ot - Wash your face. - Yuzingizni yuving.
+fact - noun - a1 - fakt, haqiqat - ot - It is a fact. - Bu haqiqat.
+fall - verb - a1 - yiqilmoq, tushmoq - fel - Leaves fall in autumn. - Barglar kuzda to‘kiladi.
+false - adjective - a1 - noto‘g‘ri, yolg‘on - sifat - The answer is false. - Javob noto‘g‘ri.
+family - adjective - a1 - oilaviy - sifat - We have a family dinner. - Bizda oilaviy kechki ovqat bor.
+family - noun - a1 - oila - ot - My family is big. - Mening oilam katta.
+famous - adjective - a1 - mashhur - sifat - He is a famous singer. - U mashhur qo‘shiqchi.
+fantastic - adjective - a1 - ajoyib, zo‘r - sifat - The movie was fantastic. - Film ajoyib edi.
+far - adverb - a1 - uzoq - ravish - My school is far from home. - Maktabim uyimdan uzoq.
+farm - noun - a1 - ferma - ot - My uncle has a farm. - Amakimning fermasi bor.
+farmer - noun - a1 - dehqon - ot - The farmer grows vegetables. - Dehqon sabzavot yetishtiradi.
+fast - adjective - a1 - tez - sifat - He is a fast runner. - U tez yuguruvchi.
+fast - adverb - a1 - tez - ravish - The car goes fast. - Mashina tez yuradi.
+fat - adjective - a1 - semiz - sifat - The cat is fat. - Mushuk semiz.
+father - noun - a1 - ota - ot - My father is a teacher. - Otam o‘qituvchi.
+favourite - adjective - a1 - sevimli - sifat - Blue is my favourite colour. - Ko‘k mening sevimli rangim.
+favourite - noun - a1 - sevimli narsa - ot - Pizza is my favourite. - Pizza mening sevimlim.
+February - noun - a1 - fevral - ot - My birthday is in February. - Mening tug‘ilgan kunim fevralda.
+feel - verb - a1 - his qilmoq - fel - I feel happy today. - Bugun o‘zimni baxtli his qilyapman.
+feeling - noun - a1 - his, tuyg‘u - ot - I have a good feeling. - Menda yaxshi tuyg‘u bor.
+festival - noun - a1 - festival, bayram - ot - The festival was very colorful. - Festival juda rang-barang edi.
+few - adjective - a1 - bir nechta, oz - sifat - I have a few friends. - Menda bir nechta do‘stlarim bor.
+few - determiner - a1 - bir nechta, oz - aniqlovchi - Few people came to the meeting. - Uchrashuvga oz odam keldi.
+few - pronoun - a1 - bir nechta, oz - olmosh - Only a few were chosen. - Faqat bir nechtasi tanlandi.
+fifteen - number - a1 - o‘n besh - son - She is fifteen years old. - U o‘n besh yoshda.
+fifth - ordinal number - a1 - beshinchi - tartib soni - He lives on the fifth floor. - U beshinchi qavatda yashaydi.
+fifty - number - a1 - ellik - son - There are fifty students in the class. - Sinfda ellikta o‘quvchi bor.
+fill - verb - a1 - to‘ldirmoq - fel - Please fill the form. - Iltimos, formani to‘ldiring.
+film - noun - a1 - film, kino - ot - I watched a good film yesterday. - Kecha yaxshi film ko‘rdim.
+final - adjective - a1 - yakuniy, oxirgi - sifat - This is the final exam. - Bu yakuniy imtihon.
+find - verb - a1 - topmoq - fel - Can you find my keys? - Kalitlarimni topa olasizmi?
+fine - adjective - a1 - yaxshi, a’lo - sifat - I am fine, thank you. - Men yaxshiman, rahmat.
+finish - verb - a1 - tugatmoq, tamomlamoq - fel - I finish my homework at 8. - Uy vazifamni soat 8 da tugataman.
+fire - noun - a1 - olov, yong‘in - ot - The fire is very hot. - Olov juda issiq.
+first - adverb - a1 - birinchi bo‘lib - ravish - First, wash your hands. - Avval qo‘llaringizni yuving.
+first - determiner - a1 - birinchi - aniqlovchi - My first lesson is English. - Mening birinchi darsim ingliz tili.
+first - ordinal number - a1 - birinchi - tartib soni - She won first place. - U birinchi o‘rinni oldi.
+fish - noun - a1 - baliq - ot - I like to eat fish. - Men baliq yeyishni yaxshi ko‘raman.
+five - number - a1 - besh - son - I have five books. - Menda beshta kitob bor.
+flat - noun - a1 - kvartira - ot - My flat is on the third floor. - Mening kvartiram uchinchi qavatda.
+flight - noun - a1 - parvoz, reys - ot - My flight is at 6 o’clock. - Mening reysim soat 6 da.
+floor - noun - a1 - qavat, pol - ot - The floor is clean. - Pol toza.
+flower - noun - a1 - gul - ot - She gave me a flower. - U menga gul berdi.
+fly - verb - a1 - uchmoq - fel - Birds can fly. - Qushlar ucha oladi.
+follow - verb - a1 - ergashmoq, amal qilmoq - fel - Please follow me. - Iltimos, menga ergashing.
+food - noun - a1 - ovqat, taom - ot - The food is delicious. - Ovqat mazali.
+foot - noun - a1 - oyoq - ot - My foot hurts. - Oyoqim og‘riyapti.
+football - noun - a1 - futbol - ot - I play football every weekend. - Men har hafta oxiri futbol o‘ynayman.
+for - preposition - a1 - uchun - prielog - This gift is for you. - Bu sovg‘a siz uchun.
+forget - verb - a1 - unutmoq - fel - Don’t forget your keys. - Kalitlaringizni unutib qo‘ymang.
+form - noun - a1 - forma, shakl - ot - Fill in the form, please. - Iltimos, formani to‘ldiring.
+form - verb - a1 - shakllantirmoq, tuzmoq - fel - Clouds form in the sky. - Osmonda bulutlar shakllanadi.
+forty - number - a1 - qirq - son - My father is forty years old. - Otam qirq yoshda.
+four - number - a1 - to‘rt - son - There are four chairs. - To‘rtta stul bor.
+fourteen - number - a1 - o‘n to‘rt - son - She is fourteen years old. - U o‘n to‘rt yoshda.
+fourth - ordinal number - a1 - to‘rtinchi - tartib soni - My classroom is on the fourth floor. - Mening sinfim to‘rtinchi qavatda.
+free - adjective - a1 - bepul, bo‘sh - sifat - The tickets are free. - Chiptalar bepul.
+Friday - noun - a1 - juma - ot - We have a test on Friday. - Juma kuni testimiz bor.
+friend - noun - a1 - do‘st - ot - My friend is very kind. - Mening do‘stim juda mehribon.
+friendly - adjective - a1 - do‘stona - sifat - The staff are friendly. - Xodimlar do‘stona.
+from - preposition - a1 - dan, -dan - prielog - I am from Uzbekistan. - Men O‘zbekistondanman.
+front - adjective - a1 - oldingi - sifat - The front door is open. - Old eshik ochiq.
+front - noun - a1 - old, oldi - ot - Stand at the front of the class. - Sinfning oldida turing.
+fruit - noun - a1 - meva - ot - I eat fruit every day. - Men har kuni meva yeyman.
+full - adjective - a1 - to‘la - sifat - The glass is full of water. - Stakan suvga to‘la.
+fun - noun - a1 - maroqli, zavq - ot - The party was fun. - Bazm maroqli bo‘ldi.
+funny - adjective - a1 - kulgili - sifat - The story is funny. - Hikoya kulgili.
+future - noun - a1 - kelajak - ot - I want a bright future. - Men yorqin kelajakni xohlayman.
+game - noun - a1 - o‘yin - ot - Let’s play a game. - Keling, o‘yin o‘ynaymiz.
+garden - noun - a1 - bog‘ - ot - There are flowers in the garden. - Bog‘da gullar bor.
+geography - noun - a1 - geografiya - ot - Geography is my favorite subject. - Geografiya mening sevimli fanim.
+get - verb - a1 - olmoq, yetib bormoq - fel - I get up at 7 o’clock. - Men soat 7 da turaman.
+girl - noun - a1 - qiz - ot - The girl is reading a book. - Qiz kitob o‘qiyapti.
+girlfriend - noun - a1 - qiz do‘st - ot - His girlfriend is a student. - Uning qiz do‘sti talaba.
+give - verb - a1 - bermoq - fel - Please give me your pen. - Iltimos, ruchkangizni bering.
+glass - noun - a1 - stakan, oyn - ot - I need a glass of water. - Menga bir stakan suv kerak.
+go - verb - a1 - bormoq - fel - I go to school every day. - Men har kuni maktabga boraman.
+good - adjective - a1 - yaxshi - sifat - She is a good teacher. - U yaxshi o‘qituvchi.
+goodbye - exclamation - a1 - xayr - undov - Goodbye! See you soon. - Xayr! Tez orada ko‘rishamiz.
+goodbye - noun - a1 - xayrlashuv - ot - We said goodbye at the station. - Biz vokzalda xayrlashdik.
+grandfather - noun - a1 - bobo - ot - My grandfather is 70 years old. - Bobom yetmish yoshda.
+grandmother - noun - a1 - buvi - ot - My grandmother makes tasty bread. - Buvim mazali non pishiradi.
+grandparent - noun - a1 - bobo yoki buvi - ot - My grandparent lives in the village. - Mening buvim qishloqda yashaydi.
+great - adjective - a1 - ajoyib, zo‘r - sifat - You did a great job! - Siz ajoyib ish qildingiz!
+green - adjective - a1 - yashil - sifat - The grass is green. - Maysalar yashil.
+green - noun - a1 - yashil rang - ot - Green is my favorite color. - Yashil mening sevimli rangim.
+grey - adjective - a1 - kulrang - sifat - He has grey hair. - Uning sochi kulrang.
+grey - noun - a1 - kulrang rang - ot - The sky is grey today. - Bugun osmon kulrang.
+group - noun - a1 - guruh - ot - Our group is very friendly. - Bizning guruhimiz juda do‘stona.
+grow - verb - a1 - o‘smoq, yetishtirmoq - fel - Flowers grow in the garden. - Gulllar bog‘da o‘sadi.
+guess - noun - a1 - taxmin - ot - That was a good guess. - Bu yaxshi taxmin edi.
+guess - verb - a1 - taxmin qilmoq - fel - Can you guess my age? - Yoshibni taxmin qila olasizmi?
+guitar - noun - a1 - gitara - ot - I can play the guitar. - Men gitara chalishni bilaman.
+gym - noun - a1 - sport zal - ot - I go to the gym every week. - Men har hafta sport zaliga boraman.
+hair - noun - a1 - soch - ot - Her hair is long. - Uning sochi uzun.
+half - determiner - a1 - yarim - aniqlovchi - I ate half the cake. - Men tortning yarmini yedim.
+half - noun - a1 - yarim - ot - Give me a half, please. - Menga yarmini bering.
+half - pronoun - a1 - yarim - olmosh - Only half came to the party. - Faqat yarimi bazmga keldi.
+hand - noun - a1 - qo‘l - ot - Raise your hand. - Qo‘lingizni ko‘taring.
+happen - verb - a1 - sodir bo‘lmoq - fel - What will happen next? - Keyin nima sodir bo‘ladi?
+happy - adjective - a1 - baxtli - sifat - I am very happy today. - Bugun juda baxtliman.
+hard - adjective - a1 - qattiq, qiyin - sifat - This test is hard. - Bu test qiyin.
+hard - adverb - a1 - qattiq, zo‘r - ravish - He works hard. - U qattiq ishlaydi.
+hat - noun - a1 - shlyapa, bosh kiyim - ot - She is wearing a hat. - U bosh kiyim kiygan.
+hate - verb - a1 - yomon ko‘rmoq - fel - I hate cold weather. - Men sovuq havoni yomon ko‘raman.
+have - verb - a1 - ega bo‘lmoq - fel - I have a car. - Mening mashinam bor.
+have to - modal verb - a1 - kerak, majbur - modal fel - I have to study tonight. - Bugun kechqurun o‘qishim kerak.
+he - pronoun - a1 - u (erkak) - olmosh - He is my brother. - U mening akam.
+head - noun - a1 - bosh - ot - My head hurts. - Boshim og‘riyapti.
+health - noun - a1 - sog‘liq - ot - Health is important. - Sog‘liq muhim.
+healthy - adjective - a1 - sog‘lom - sifat - Eat healthy food. - Sog‘lom ovqat yeng.
+hear - verb - a1 - eshitmoq - fel - I can hear music. - Men musiqa eshityapman.
+hello - exclamation - a1 - salom - undov - Hello! How are you? - Salom! Qalaysiz?
+hello - noun - a1 - salomlashuv - ot - She said hello to me. - U menga salom berdi.
+help - noun - a1 - yordam - ot - Thank you for your help. - Yordamingiz uchun rahmat.
+help - verb - a1 - yordam bermoq - fel - Can you help me? - Menga yordam bera olasizmi?
+her - determiner - a1 - uning (ayol) - aniqlovchi - Her bag is blue. - Uning sumkasi ko‘k.
+her - pronoun - a1 - uni, unga (ayol) - olmosh - I saw her at the park. - Uni parkda ko‘rdim.
+here - adverb - a1 - bu yerda - ravish - Sit here, please. - Iltimos, bu yerda o‘tiring.
+hey - exclamation - a1 - hey, salom - undov - Hey! Wait for me! - Hey! Meni kut!
+hi - exclamation - a1 - salom - undov - Hi, my name is Ali. - Salom, ismim Ali.
+high - adjective - a1 - baland - sifat - The mountain is high. - Tog‘ baland.
+him - pronoun - a1 - uni, unga (erkak) - olmosh - I like him. - Men uni yoqtiraman.
+his - determiner - a1 - uning (erkak) - aniqlovchi - His car is new. - Uning mashinasi yangi.
+history - noun - a1 - tarix - ot - I am interested in history. - Men tarixga qiziqaman.
+hobby - noun - a1 - hobi, sevimli mashg‘ulot - ot - My hobby is painting. - Mening hobim rasm chizish.
+holiday - noun - a1 - ta’til, bayram - ot - We go to the sea on holiday. - Ta’tilga dengizga boramiz.
+home - adverb - a1 - uyga - ravish - I am going home. - Men uyga ketayapman.
+home - noun - a1 - uy - ot - My home is near the park. - Uyim park yaqinida.
+homework - noun - a1 - uy vazifasi - ot - I do my homework after dinner. - Men kechki ovqatdan keyin uy vazifamni qilaman.
+hope - verb - a1 - umid qilmoq - fel - I hope you are well. - Siz yaxshi bo‘lishingizga umid qilaman.
+horse - noun - a1 - ot (hayvon) - ot - The horse is running fast. - Ot tez yugurayapti.
+hospital - noun - a1 - shifoxona - ot - She works at the hospital. - U shifoxonada ishlaydi.
+hot - adjective - a1 - issiq - sifat - The tea is hot. - Choy issiq.
+hotel - noun - a1 - mehmonxona - ot - We stayed at a hotel. - Biz mehmonxonada turdik.
+hour - noun - a1 - soat (vaqt) - ot - The lesson is one hour long. - Dars bir soat davom etadi.
+house - noun - a1 - uy - ot - My house is big. - Uyim katta.
+how - adverb - a1 - qanday - ravish - How are you? - Qalaysiz?
+however - adverb - a1 - biroq, ammo - ravish - It was raining; however, we went out. - Yomg‘ir yog‘ayotgan edi, biroq biz tashqariga chiqdik.
+hundred - number - a1 - yuz - son - There are one hundred students. - Yuzta o‘quvchi bor.
+hungry - adjective - a1 - och - sifat - I am hungry. - Men ochman.
+husband - noun - a1 - er - ot - Her husband is a doctor. - Uning eri shifokor.
+I - pronoun - a1 - men - olmosh - I am a student. - Men talaba(man).
+ice - noun - a1 - muz - ot - The lake is covered with ice. - Ko‘l muz bilan qoplangan.
+ice cream - noun - a1 - muzqaymoq - ot - I like chocolate ice cream. - Men shokoladli muzqaymoqni yaxshi ko‘raman.
+idea - noun - a1 - g‘oya, fikr - ot - That’s a good idea. - Bu yaxshi g‘oya.
+if - conjunction - a1 - agar - bog‘lovchi - If it rains, we will stay home. - Agar yomg‘ir yog‘sa, uyda qolamiz.
+imagine - verb - a1 - tasavvur qilmoq - fel - Imagine a better world. - Yaxshiroq dunyoni tasavvur qiling.
+important - adjective - a1 - muhim - sifat - Health is important. - Sog‘liq muhim.
+improve - verb - a1 - yaxshilamoq - fel - I want to improve my English. - Men ingliz tilimni yaxshilamoqchiman.
+in - adverb - a1 - ichkarida - ravish - Come in, please. - Iltimos, ichkariga kiring.
+in - preposition - a1 - da, ichida - prielog - The book is in the bag. - Kitob sumkada.
+include - verb - a1 - o‘z ichiga olmoq - fel - The price includes breakfast. - Narxga nonushta kiradi.
+information - noun - a1 - ma’lumot - ot - I need more information. - Menga ko‘proq ma’lumot kerak.
+interest - noun - a1 - qiziqish - ot - I have an interest in music. - Men musiqaga qiziqaman.
+interest - verb - a1 - qiziqtirmoq - fel - History interests me. - Tarix meni qiziqtiradi.
+interested - adjective - a1 - qiziqqan - sifat - I am interested in art. - Men san’atga qiziqaman.
+interesting - adjective - a1 - qiziqarli - sifat - The book is interesting. - Kitob qiziqarli.
+internet - noun - a1 - internet - ot - I use the internet every day. - Men har kuni internetdan foydalanaman.
+interview - noun - a1 - suhbat, intervyu - ot - I have a job interview tomorrow. - Ertaga ish suhbatim bor.
+interview - verb - a1 - suhbat o‘tmoq - fel - They will interview new students. - Ular yangi talabalar bilan suhbat o‘tkazadilar.
+into - preposition - a1 - ichiga - prielog - Put the keys into your bag. - Kalitlarni sumkangizga soling.
+introduce - verb - a1 - tanishtirmoq - fel - Let me introduce my friend. - Do‘stimni tanishtiray.
+island - noun - a1 - orol - ot - We visited an island. - Biz orolga bordik.
+it - pronoun - a1 - u (jonsiz, hayvon) - olmosh - It is raining. - Yomg‘ir yog‘ayapti.
+its - determiner - a1 - uning (jonsiz, hayvon) - aniqlovchi - The cat is licking its paw. - Mushuk panjasini yalayapti.
+jacket - noun - a1 - kurtka, jaket - ot - Wear your jacket, it’s cold. - Kurtkangni kiy, havo sovuq.
+January - noun - a1 - yanvar - ot - My birthday is in January. - Mening tug‘ilgan kunim yanvarda.
+jeans - noun - a1 - jinsi shim - ot - I bought new jeans. - Men yangi jinsi shim sotib oldim.
+job - noun - a1 - ish, kasb - ot - I have a new job. - Mening yangi ishim bor.
+join - verb - a1 - qo‘shilmoq - fel - Can I join your group? - Guruhingizga qo‘shilsam bo‘ladimi?
+journey - noun - a1 - sayohat, safar - ot - The journey was long. - Safar uzoq bo‘ldi.
+juice - noun - a1 - sharbat - ot - I like orange juice. - Men apelsin sharbatini yaxshi ko‘raman.
+July - noun - a1 - iyul - ot - School is closed in July. - Maktab iyulda yopiq bo‘ladi.
+June - noun - a1 - iyun - ot - The weather is hot in June. - Iyun oyida havo issiq bo‘ladi.
+just - adverb - a1 - hozirgina, faqat - ravish - I just arrived. - Men hozirgina keldim.
+keep - verb - a1 - saqlamoq, ushlab turmoq - fel - Keep the door closed. - Eshikni yopiq saqlang.
+key - adjective - a1 - asosiy, muhim - sifat - This is a key point. - Bu asosiy nuqta.
+key - noun - a1 - kalit - ot - Where is my key? - Kalitim qayerda?
+kilometre - noun - a1 - kilometr - ot - The city is ten kilometres away. - Shahar o‘n kilometr uzoqlikda.
+kind - noun - a1 - tur, xil - ot - What kind of music do you like? - Qanday musiqa yoqtirasiz?
+kitchen - noun - a1 - oshxona - ot - My mother is in the kitchen. - Onam oshxonada.
+know - verb - a1 - bilmoq - fel - I know the answer. - Men javobni bilaman.
+land - noun - a1 - yer, quruqlik - ot - The plane landed on the land. - Samolyot quruqlikka qo‘ndi.
+language - noun - a1 - til - ot - English is a world language. - Ingliz tili dunyo tili.
+large - adjective - a1 - katta - sifat - The room is large. - Xona katta.
+last - determiner - a1 - oxirgi - aniqlovchi - This is my last chance. - Bu mening oxirgi imkoniyatim.
+late - adjective - a1 - kech, kechikkan - sifat - The bus is late. - Avtobus kechikmoqda.
+late - adverb - a1 - kech - ravish - I arrived late. - Men kech keldim.
+later - adverb - a1 - keyinroq - ravish - See you later. - Keyinroq ko‘rishamiz.
+laugh - noun - a1 - kulgi - ot - Her laugh is loud. - Uning kulgisi baland.
+laugh - verb - a1 - kulmoq - fel - They laugh at the joke. - Ular hazilga kulishdi.
+learn - verb - a1 - o‘rganmoq - fel - I want to learn English. - Men ingliz tilini o‘rganmoqchiman.
+leave - verb - a1 - tark etmoq, chiqib ketmoq - fel - I leave home at 8. - Men soat 8 da uydan chiqaman.
+left - adjective - a1 - chap - sifat - My left hand hurts. - Chap qo‘lim og‘riyapti.
+left - adverb - a1 - chapga - ravish - Turn left at the corner. - Burchakda chapga buriling.
+left - noun - a1 - chap tomon - ot - The school is on the left. - Maktab chap tomonda.
+leg - noun - a1 - oyoq (tizza pastidan) - ot - My leg is broken. - Oyoqim singan.
+lesson - noun - a1 - dars - ot - The lesson starts at nine. - Dars soat to‘qqizda boshlanadi.
+let - verb - a1 - ruxsat bermoq - fel - Let me help you. - Sizga yordam beray.
+letter - noun - a1 - xat, harf - ot - I wrote a letter to my friend. - Do‘stimga xat yozdim.
+library - noun - a1 - kutubxona - ot - I study in the library. - Men kutubxonada o‘qiyman.
+lie - verb - a1 - yotmoq, yolg‘on gapirmoq - fel - Don’t lie to your parents. - Ota-onangizga yolg‘on gapirmang.
+life - noun - a1 - hayot - ot - Life is beautiful. - Hayot go‘zal.
+light - adjective - a1 - yengil, yorug‘ - sifat - The bag is light. - Sumka yengil.
+light - noun - a1 - yorug‘lik, chiroq - ot - Turn on the light. - Chiroqni yoqing.
+like - preposition - a1 - kabi, o‘xshash - prielog - He runs like a rabbit. - U quyon kabi yuguradi.
+like - verb - a1 - yoqtirmoq - fel - I like apples. - Men olmani yoqtiraman.
+line - noun - a1 - chiziq, qatorda turish - ot - Draw a straight line. - To‘g‘ri chiziq chizing.
+lion - noun - a1 - sher - ot - The lion is the king of animals. - Sher hayvonlar podshohi.
+list - noun - a1 - ro‘yxat - ot - Make a shopping list. - Xaridlar ro‘yxatini tuzing.
+list - verb - a1 - ro‘yxat tuzmoq - fel - Please list your hobbies. - Iltimos, hobbilaringizni ro‘yxatlang.
+listen - verb - a1 - tinglamoq - fel - Listen to the teacher. - O‘qituvchini tinglang.
+little - adjective - a1 - kichik, oz - sifat - The baby is little. - Chaqaloq kichkina.
+little - determiner - a1 - ozgina - aniqlovchi - I have little money. - Menda ozgina pul bor.
+little - pronoun - a1 - oz - olmosh - Only a little is left. - Faqat oz qoldi.
+live - verb - a1 - yashamoq - fel - I live in Tashkent. - Men Toshkentda yashayman.
+local - adjective - a1 - mahalliy - sifat - I buy local products. - Men mahalliy mahsulotlarni sotib olaman.
+long - adjective - a1 - uzun - sifat - She has long hair. - Uning sochi uzun.
+long - adverb - a1 - uzoq vaqt - ravish - I waited long for the bus. - Men avtobusni uzoq kutdim.
+look - verb - a1 - qaramoq - fel - Look at the board. - Doskaga qarang.
+lose - verb - a1 - yo‘qotmoq, yutqazmoq - fel - Don’t lose your keys. - Kalitlaringizni yo‘qotmang.
+lot - adverb - a1 - ko‘p - ravish - I eat a lot. - Men ko‘p ovqatlanaman.
+lot - determiner - a1 - ko‘p - aniqlovchi - A lot of people came. - Ko‘p odam keldi.
+lot - pronoun - a1 - ko‘p - olmosh - I have a lot. - Menda ko‘p narsa bor.
+love - noun - a1 - sevgi - ot - Love is important. - Sevgi muhim.
+love - verb - a1 - sevmoq, yaxshi ko‘rmoq - fel - I love my family. - Men oilamni yaxshi ko‘raman.
+lunch - noun - a1 - tushlik - ot - Lunch is at 1 o’clock. - Tushlik soat birda.
+machine - noun - a1 - mashina, uskuna - ot - The machine is new. - Mashina yangi.
+magazine - noun - a1 - jurnal - ot - I read a magazine. - Men jurnal o‘qiyman.
+main - adjective - a1 - asosiy - sifat - This is the main road. - Bu asosiy yo‘l.
+make - verb - a1 - qilmoq, yasamoq - fel - I make a cake. - Men tort tayyorlayman.
+man - noun - a1 - erkak - ot - The man is tall. - Erkak bo‘yi baland.
+many - determiner - a1 - ko‘p - aniqlovchi - Many students are here. - Ko‘p talabalar shu yerda.
+many - pronoun - a1 - ko‘p - olmosh - Many have left. - Ko‘plar ketishdi.
+map - noun - a1 - xarita - ot - Show me the map. - Menga xaritani ko‘rsating.
+March - noun - a1 - mart - ot - My birthday is in March. - Mening tug‘ilgan kunim martda.
+market - noun - a1 - bozor - ot - I go to the market. - Men bozorga boraman.
+married - adjective - a1 - uylangan, turmushga chiqqan - sifat - She is married. - U turmushga chiqqan.
+match - noun - a1 - o‘yin, moslik - ot - The football match is today. - Futbol o‘yini bugun.
+match - verb - a1 - mos kelmoq - fel - The socks match. - Paypoqlar mos keladi.
+May - noun - a1 - may - ot - School ends in May. - Maktab may oyida tugaydi.
+maybe - adverb - a1 - balki - ravish - Maybe he is busy. - Balki u banddir.
+me - pronoun - a1 - meni, menga - olmosh - Give me the book. - Menga kitobni bering.
+meal - noun - a1 - ovqat, taom - ot - Breakfast is my favorite meal. - Nonushta mening sevimli ovqatim.
+mean - verb - a1 - anglatmoq - fel - What does this word mean? - Bu so‘z nimani anglatadi?
+meaning - noun - a1 - ma’no - ot - What is the meaning of this? - Buning ma’nosi nima?
+meat - noun - a1 - go‘sht - ot - I eat meat. - Men go‘sht yeyman.
+meet - verb - a1 - uchrashmoq - fel - Let’s meet tomorrow. - Keling, ertaga uchrashamiz.
+meeting - noun - a1 - uchrashuv - ot - The meeting is at 10. - Uchrashuv soat o‘nda.
+member - noun - a1 - a’zo - ot - She is a club member. - U klub a’zosi.
+menu - noun - a1 - menyu - ot - The menu is on the table. - Menyu stol ustida.
+message - noun - a1 - xabar - ot - I got your message. - Xabaringizni oldim.
+metre - noun - a1 - metr - ot - The table is two metres long. - Stol ikki metr uzunlikda.
+midnight - noun - a1 - yarim tun - ot - I slept at midnight. - Men yarim tunda uxladim.
+mile - noun - a1 - mil - ot - The city is five miles away. - Shahar besh mil uzoqlikda.
+milk - noun - a1 - sut - ot - I drink milk. - Men sut ichaman.
+million - number - a1 - million - son - There are a million people. - Million odam bor.
+minute - noun - a1 - daqiqa - ot - Wait a minute. - Bir daqiqa kuting.
+miss - verb - a1 - sog‘inmoq, o‘tkazib yubormoq - fel - I miss my friend. - Men do‘stimni sog‘indim.
+mistake - noun - a1 - xato - ot - I made a mistake. - Men xato qildim.
+model - noun - a1 - model, namuna - ot - She is a fashion model. - U moda modeli.
+modern - adjective - a1 - zamonaviy - sifat - The house is modern. - Uy zamonaviy.
+moment - noun - a1 - lahza, on - ot - Wait a moment. - Bir lahza kuting.
+Monday - noun - a1 - dushanba - ot - Today is Monday. - Bugun dushanba.
+money - noun - a1 - pul - ot - I need money. - Menga pul kerak.
+month - noun - a1 - oy - ot - There are twelve months. - O‘n ikki oy bor.
+more - adverb - a1 - ko‘proq - ravish - I want more. - Men ko‘proq xohlayman.
+more - determiner - a1 - ko‘proq - aniqlovchi - More people came. - Ko‘proq odam keldi.
+more - pronoun - a1 - ko‘proq - olmosh - Do you want more? - Yana ko‘proq xohlaysizmi?
+morning - noun - a1 - ertalab - ot - I wake up in the morning. - Men ertalab turaman.
+most - adverb - a1 - eng ko‘p - ravish - I like ice cream most. - Men eng ko‘p muzqaymoqni yaxshi ko‘raman.
+most - determiner - a1 - eng ko‘p - aniqlovchi - Most students passed. - Ko‘pchilik talabalar o‘tdi.
+most - pronoun - a1 - eng ko‘p - olmosh - Most are ready. - Ko‘pchilik tayyor.
+mother - noun - a1 - ona - ot - My mother is a doctor. - Onam shifokor.
+mountain - noun - a1 - tog‘ - ot - The mountain is high. - Tog‘ baland.
+mouse - noun - a1 - sichqon - ot - The mouse is small. - Sichqon kichik.
+mouth - noun - a1 - og‘iz - ot - Open your mouth. - Og‘zingizni oching.
+move - verb - a1 - harakat qilmoq, ko‘chmoq - fel - Please move your car. - Iltimos, mashinangizni harakatlantiring.
+movie - noun - a1 - film, kino - ot - I watched a movie. - Men film ko‘rdim.
+much - adverb - a1 - juda, ko‘p - ravish - I don’t eat much. - Men ko‘p ovqat yemayman.
+much - determiner - a1 - ko‘p - aniqlovchi - Much work is needed. - Ko‘p ish kerak.
+much - pronoun - a1 - ko‘p - olmosh - Much has changed. - Ko‘p narsa o‘zgardi.
+mum - noun - a1 - ona (ona uchun so‘z) - ot - My mum is kind. - Onam mehribon.
+museum - noun - a1 - muzey - ot - We visited the museum. - Biz muzeyga bordik.
+music - noun - a1 - musiqa - ot - I like music. - Men musiqa yaxshi ko‘raman.
+must - modal verb - a1 - kerak, majbur - modal fel - You must study. - Siz o‘qishingiz kerak.
+my - determiner - a1 - mening - aniqlovchi - My name is Ali. - Mening ismim Ali.
+name - noun - a1 - ism - ot - What is your name? - Ismingiz nima?
+name - verb - a1 - nomlamoq - fel - Name the colors. - Ranglarni nomlang.
+natural - adjective - a1 - tabiiy - sifat - This is natural juice. - Bu tabiiy sharbat.
+near - adjective - a1 - yaqin - sifat - The shop is near. - Do‘kon yaqin.
+near - adverb - a1 - yaqin - ravish - He lives near. - U yaqin joyda yashaydi.
+near - preposition - a1 - yaqinida - prielog - The school is near the park. - Maktab park yaqinida.
+need - verb - a1 - kerak bo‘lmoq - fel - I need help. - Menga yordam kerak.
+negative - adjective - a1 - salbiy - sifat - That is a negative answer. - Bu salbiy javob.
+neighbour - noun - a1 - qo‘shni - ot - My neighbour is friendly. - Qo‘shnim do‘stona.
+never - adverb - a1 - hech qachon - ravish - I never smoke. - Men hech qachon chekmayman.
+new - adjective - a1 - yangi - sifat - My car is new. - Mashinam yangi.
+news - noun - a1 - yangilik - ot - I watch the news. - Men yangiliklarni ko‘raman.
+newspaper - noun - a1 - gazeta - ot - I read a newspaper. - Men gazeta o‘qiyman.
+next - adjective - a1 - keyingi - sifat - The next bus is at 5. - Keyingi avtobus soat 5 da.
+next - adverb - a1 - keyin - ravish - Who is next? - Keyingi kim?
+next to - preposition - a1 - yonida - prielog - Sit next to me. - Mening yonimda o‘tiring.
+nice - adjective - a1 - yoqimli, yaxshi - sifat - She is a nice person. - U yaxshi inson.
+night - noun - a1 - tun - ot - Good night! - Hayrli tun!
+nine - number - a1 - to‘qqiz - son - There are nine books. - To‘qqizta kitob bor.
+nineteen - number - a1 - o‘n to‘qqiz - son - She is nineteen years old. - U o‘n to‘qqiz yoshda.
+ninety - number - a1 - to‘qson - son - My grandfather is ninety. - Bobom to‘qson yoshda.
+no - determiner - a1 - yo‘q - aniqlovchi - No students are here. - Hech qanday talaba yo‘q.
+no - exclamation - a1 - yo‘q - undov - No, I can’t. - Yo‘q, men qila olmayman.
+no one - pronoun - a1 - hech kim - olmosh - No one is home. - Hech kim uyda emas.
+nobody - pronoun - a1 - hech kim - olmosh - Nobody called me. - Hech kim menga qo‘ng‘iroq qilmadi.
+north - adjective - a1 - shimoliy - sifat - The north wind is cold. - Shimoliy shamol sovuq.
+north - adverb - a1 - shimolga - ravish - We are going north. - Biz shimolga ketayapmiz.
+north - noun - a1 - shimol - ot - Russia is in the north. - Rossiya shimolda joylashgan.
+nose - noun - a1 - burun - ot - My nose hurts. - Burunim og‘riyapti.
+not - adverb - a1 - emas - ravish - I am not tired. - Men charchamaganman.
+note - noun - a1 - eslatma, yozuv - ot - Read the note. - Eslatmani o‘qing.
+nothing - pronoun - a1 - hech narsa - olmosh - Nothing is impossible. - Hech narsa imkonsiz emas.
+November - noun - a1 - noyabr - ot - My birthday is in November. - Mening tug‘ilgan kunim noyabrda.
+now - adverb - a1 - hozir - ravish - I am busy now. - Men hozir bandman.
+number - noun - a1 - raqam, son - ot - What is your phone number? - Telefon raqamingiz qanday?
+nurse - noun - a1 - hamshira - ot - The nurse is kind. - Hamshira mehribon.
+o'clock - adverb - a1 - soat - ravish - It’s five o’clock. - Soat besh.
+object - noun - a1 - predmet, narsa - ot - What is this object? - Bu nima predmet?
+October - noun - a1 - oktyabr - ot - School starts in October. - Maktab oktyabrda boshlanadi.
+of - preposition - a1 - ning, -dan - prielog - The color of the sky is blue. - Osmonning rangi ko‘k.
+off - adverb - a1 - o‘chirilgan, tashqariga - ravish - Turn off the light. - Chiroqni o‘chiring.
+off - preposition - a1 - dan, tashqariga - prielog - Get off the bus. - Avtobusdan tushing.
+office - noun - a1 - ofis, idora - ot - I work in an office. - Men ofisda ishlayman.
+often - adverb - a1 - tez-tez - ravish - I often read books. - Men tez-tez kitob o‘qiyman.
+oh - exclamation - a1 - oh - undov - Oh, I see! - Oh, tushundim!
+OK - adjective - a1 - yaxshi, joyida - sifat - The answer is OK. - Javob to‘g‘ri.
+OK - adverb - a1 - yaxshi, mayli - ravish - OK, I agree. - Mayli, roziman.
+OK - exclamation - a1 - mayli, yaxshi - undov - OK, let’s go! - Mayli, ketdik!
+old - adjective - a1 - eski, qari - sifat - My car is old. - Mashinam eski.
+on - adverb - a1 - ustida, yoqilgan - ravish - The light is on. - Chiroq yoqilgan.
+on - preposition - a1 - ustida, da - prielog - The book is on the table. - Kitob stol ustida.
+once - adverb - a1 - bir marta - ravish - I went there once. - Men u yerga bir marta borganman.
+one - determiner - a1 - bir - aniqlovchi - One student is absent. - Bir talaba yo‘q.
+one - number - a1 - bir - son - I have one brother. - Mening bir akam bor.
+one - pronoun - a1 - biri - olmosh - This one is mine. - Bu meniki.
+onion - noun - a1 - piyoz - ot - I don’t like onion. - Men piyozni yoqtirmayman.
+online - adjective - a1 - onlayn - sifat - I have an online class. - Menda onlayn dars bor.
+online - adverb - a1 - onlayn - ravish - I work online. - Men onlayn ishlayman.
+only - adjective - a1 - yagona, faqat - sifat - He is the only child. - U yagona farzand.
+only - adverb - a1 - faqat - ravish - I only speak English. - Men faqat inglizcha gapiraman.
+open - adjective - a1 - ochiq - sifat - The door is open. - Eshik ochiq.
+open - verb - a1 - ochmoq - fel - Open the window. - Derazani oching.
+opinion - noun - a1 - fikr - ot - What is your opinion? - Fikringiz qanday?
+opposite - adjective - a1 - qarama-qarshi - sifat - The opposite side is busy. - Qarama-qarshi tomon band.
+opposite - adverb - a1 - qarama-qarshi - ravish - He lives opposite. - U qarama-qarshi tomonda yashaydi.
+opposite - noun - a1 - qarama-qarshi narsa - ot - Black is the opposite of white. - Qora oqning qarama-qarshisi.
+opposite - preposition - a1 - qarama-qarshisida - prielog - The bank is opposite the school. - Bank maktabning qarama-qarshisida.
+or - conjunction - a1 - yoki - bog‘lovchi - Tea or coffee? - Choy yoki qahva?
+orange - adjective - a1 - to‘q sariq - sifat - I have an orange shirt. - Menda to‘q sariq ko‘ylak bor.
+orange - noun - a1 - apelsin, to‘q sariq rang - ot - I like orange juice. - Men apelsin sharbatini yaxshi ko‘raman.
+order - noun - a1 - buyurtma, tartib - ot - I made an order. - Men buyurtma berdim.
+order - verb - a1 - buyurtma bermoq - fel - I want to order pizza. - Men pizza buyurtma bermoqchiman.
+other - adjective - a1 - boshqa - sifat - The other bag is mine. - Boshqa sumka meniki.
+other - pronoun - a1 - boshqasi - olmosh - One is red, the other is blue. - Biri qizil, boshqasi ko‘k.
+our - determiner - a1 - bizning - aniqlovchi - Our house is big. - Bizning uyimiz katta.
+out - adverb - a1 - tashqarida - ravish - He is out now. - U hozir tashqarida.
+out - preposition - a1 - tashqariga - prielog - Go out the door. - Eshikdan tashqariga chiqing.
+outside - adverb - a1 - tashqarida - ravish - The children are outside. - Bolalar tashqarida.
+over - adverb - a1 - ustidan, tugadi - ravish - The game is over. - O‘yin tugadi.
+over - preposition - a1 - ustida, orqali - prielog - The lamp is over the table. - Chiroq stol ustida.
+own - adjective - a1 - o‘z - sifat - I have my own room. - Mening o‘z xonam bor.
+own - pronoun - a1 - o‘zi - olmosh - She did it on her own. - U buni o‘zi qildi.
+page - noun - a1 - sahifa - ot - Turn the page. - Sahifani o‘giring.
+paint - noun - a1 - bo‘yoq - ot - The paint is blue. - Bo‘yoq ko‘k rangda.
+paint - verb - a1 - bo‘yamoq - fel - I paint the wall. - Men devorni bo‘yayman.
+painting - noun - a1 - rasm, surat - ot - The painting is beautiful. - Rasm chiroyli.
+pair - noun - a1 - juftlik - ot - I bought a pair of shoes. - Men bir juft poyabzal sotib oldim.
+paper - noun - a1 - qog‘oz - ot - I need paper. - Menga qog‘oz kerak.
+paragraph - noun - a1 - paragra f, band - ot - Read the first paragraph. - Birinchi bandni o‘qing.
+parent - noun - a1 - ota-ona - ot - My parent is at home. - Ota-onam uyda.
+park - noun - a1 - park - ot - The park is big. - Park katta.
+park - verb - a1 - to‘xtatmoq (mashina) - fel - Park the car here. - Mashinani shu yerga to‘xtating.
+part - noun - a1 - qism - ot - This is the best part. - Bu eng yaxshi qism.
+partner - noun - a1 - hamkor, sherik - ot - Work with your partner. - Hamkoringiz bilan ishlang.
+party - noun - a1 - bazm, ziyofat - ot - The party was fun. - Bazm maroqli bo‘ldi.
+passport - noun - a1 - pasport - ot - Show your passport. - Pasportingizni ko‘rsating.
+past - adjective - a1 - o‘tgan - sifat - Past events are interesting. - O‘tgan voqealar qiziqarli.
+past - noun - a1 - o‘tmish - ot - I remember the past. - Men o‘tmishni eslayman.
+past - preposition - a1 - dan o‘tib - prielog - Walk past the bank. - Bankdan o‘ting.
+pay - verb - a1 - to‘lamoq - fel - I pay the bill. - Men hisobni to‘layman.
+pen - noun - a1 - ruchka - ot - I need a pen. - Menga ruchka kerak.
+pencil - noun - a1 - qalam - ot - The pencil is sharp. - Qalam o‘tkir.
+people - noun - a1 - odamlar - ot - Many people are here. - Ko‘p odamlar shu yerda.
+pepper - noun - a1 - qalampir - ot - I like black pepper. - Men qora qalampirni yaxshi ko‘raman.
+perfect - adjective - a1 - mukammal - sifat - The cake is perfect. - Tort mukammal.
+period - noun - a1 - davr, nuqta - ot - The lesson is one period. - Dars bir davr.
+person - noun - a1 - kishi, odam - ot - She is a nice person. - U yaxshi kishi.
+personal - adjective - a1 - shaxsiy - sifat - This is my personal opinion. - Bu mening shaxsiy fikrim.
+phone - noun - a1 - telefon - ot - My phone is new. - Telefonim yangi.
+phone - verb - a1 - telefon qilmoq - fel - Phone me later. - Keyinroq menga telefon qiling.
+photo - noun - a1 - surat - ot - Show me your photo. - Suratni ko‘rsating.
+photograph - noun - a1 - surat - ot - This is a nice photograph. - Bu chiroyli surat.
+phrase - noun - a1 - ibora - ot - Learn this phrase. - Bu iborani o‘rganing.
+piano - noun - a1 - pianino - ot - I play the piano. - Men pianino chalaman.
+picture - noun - a1 - rasm - ot - Draw a picture. - Rasm chizing.
+piece - noun - a1 - bo‘lak - ot - Give me a piece of cake. - Menga bir bo‘lak tort bering.
+pig - noun - a1 - cho‘chqa - ot - The pig is pink. - Cho‘chqa pushti rangda.
+pink - adjective - a1 - pushti - sifat - She has a pink dress. - Uning pushti ko‘ylagi bor.
+pink - noun - a1 - pushti rang - ot - Pink is my favorite color. - Pushti mening sevimli rangim.
+place - noun - a1 - joy - ot - This place is beautiful. - Bu joy chiroyli.
+plan - noun - a1 - reja - ot - What is your plan? - Rejangiz qanday?
+plan - verb - a1 - rejalashtirmoq - fel - I plan my day. - Men kunimni rejalashtiraman.
+plane - noun - a1 - samolyot - ot - The plane is landing. - Samolyot qo‘nmoqda.
+plant - noun - a1 - o‘simlik - ot - Water the plant. - O‘simlikni sug‘oring.
+play - noun - a1 - o‘yin, spektakl - ot - We watched a play. - Biz spektakl tomosha qildik.
+play - verb - a1 - o‘ynamoq, chalmoq - fel - I play football. - Men futbol o‘ynayman.
+player - noun - a1 - o‘yinchi - ot - He is a good player. - U yaxshi o‘yinchi.
+please - exclamation - a1 - iltimos - undov - Please sit down. - Iltimos, o‘tiring.
+point - noun - a1 - nuqta, fikr - ot - That is a good point. - Bu yaxshi fikr.
+police - noun - a1 - politsiya - ot - Call the police. - Politsiyani chaqiring.
+policeman - noun - a1 - militsioner - ot - The policeman is helpful. - Militsioner yordam beradi.
+pool - noun - a1 - hovuz - ot - The pool is clean. - Hovuz toza.
+poor - adjective - a1 - kambag‘al - sifat - He is poor. - U kambag‘al.
+popular - adjective - a1 - mashhur - sifat - She is a popular singer. - U mashhur qo‘shiqchi.
+positive - adjective - a1 - ijobiy - sifat - Give a positive answer. - Ijobiy javob bering.
+possible - adjective - a1 - mumkin - sifat - It is possible. - Bu mumkin.
+post - noun - a1 - pochta, post - ot - I sent a post. - Men pochta yubordim.
+post - verb - a1 - yubormoq, joylashtirmoq - fel - Post the letter. - Xatni yuboring.
+potato - noun - a1 - kartoshka - ot - I like potato chips. - Men kartoshka chipsini yaxshi ko‘raman.
+pound - noun - a1 - funt (pul birligi) - ot - It costs five pounds. - Bu besh funt turadi.
+practice - noun - a1 - mashq, amaliyot - ot - Practice makes perfect. - Mashq mukammallik keltiradi.
+practise - verb - a1 - mashq qilmoq - fel - Practise every day. - Har kuni mashq qiling.
+prefer - verb - a1 - afzal ko‘rmoq - fel - I prefer tea. - Men choyni afzal ko‘raman.
+prepare - verb - a1 - tayyorlamoq - fel - I prepare breakfast. - Men nonushta tayyorlayman.
+present - adjective - a1 - hozirgi, mavjud - sifat - All students are present. - Barcha talabalar hozir.
+present - noun - a1 - sovg‘a, hozirgi vaqt - ot - I got a present. - Men sovg‘a oldim.
+pretty - adjective - a1 - chiroyli - sifat - She is pretty. - U chiroyli.
+pretty - adverb - a1 - ancha, juda - ravish - The test is pretty easy. - Test ancha oson.
+price - noun - a1 - narx - ot - What is the price? - Narxi qancha?
+probably - adverb - a1 - ehtimol - ravish - He will probably come. - U ehtimol keladi.
+problem - noun - a1 - muammo - ot - I have a problem. - Menda muammo bor.
+product - noun - a1 - mahsulot - ot - This is a new product. - Bu yangi mahsulot.
+programme - noun - a1 - dastur - ot - I watch a TV programme. - Men televizor dasturini ko‘raman.
+project - noun - a1 - loyiha - ot - The project is finished. - Loyiha tugadi.
+purple - adjective - a1 - binafsha - sifat - She has a purple bag. - Uning binafsha sumkasi bor.
+purple - noun - a1 - binafsha rang - ot - Purple is a nice color. - Binafsha chiroyli rang.
+put - verb - a1 - qo‘ymoq - fel - Put the book on the table. - Kitobni stol ustiga qo‘ying.
+quarter - noun - a1 - chorak - ot - It’s a quarter past three. - Soat uchdan chorak o‘tdi.
+question - noun - a1 - savol - ot - Ask a question. - Savol bering.
+quick - adjective - a1 - tez - sifat - He is quick. - U tez.
+quickly - adverb - a1 - tezda - ravish - Finish quickly. - Tezda tugating.
+quiet - adjective - a1 - tinch, sokin - sifat - The room is quiet. - Xona tinch.
+quite - adverb - a1 - juda, ancha - ravish - It is quite cold. - Havo juda sovuq.
+radio - noun - a1 - radio - ot - I listen to the radio. - Men radiodan tinglayman.
+rain - noun - a1 - yomg‘ir - ot - The rain is heavy. - Yomg‘ir kuchli.
+rain - verb - a1 - yomg‘ir yog‘moq - fel - It will rain today. - Bugun yomg‘ir yog‘adi.
+read - verb - a1 - o‘qimoq - fel - I read a book. - Men kitob o‘qiyman.
+reader - noun - a1 - o‘quvchi - ot - She is a good reader. - U yaxshi o‘quvchi.
+reading - noun - a1 - o‘qish - ot - Reading is fun. - O‘qish maroqli.
+ready - adjective - a1 - tayyor - sifat - I am ready. - Men tayyorman.
+real - adjective - a1 - haqiqiy - sifat - Is this real? - Bu haqiqiymi?
+really - adverb - a1 - haqiqatan - ravish - I really like it. - Men buni haqiqatan yaxshi ko‘raman.
+reason - noun - a1 - sabab - ot - What is the reason? - Sababi nima?
+red - adjective - a1 - qizil - sifat - The apple is red. - Olma qizil.
+red - noun - a1 - qizil rang - ot - Red is my favorite color. - Qizil mening sevimli rangim.
+relax - verb - a1 - dam olmoq - fel - Relax after work. - Ishdan keyin dam oling.
+remember - verb - a1 - eslamoq - fel - Remember my name. - Ismimni eslab qoling.
+repeat - verb - a1 - takrorlamoq - fel - Repeat the word. - So‘zni takrorlang.
+report - noun - a1 - hisobot - ot - I wrote a report. - Men hisobot yozdim.
+restaurant - noun - a1 - restoran - ot - We ate at a restaurant. - Biz restoranda ovqatlandik.
+result - noun - a1 - natija - ot - The result is good. - Natija yaxshi.
+return - noun - a1 - qaytish - ot - Wait for my return. - Mening qaytishimni kuting.
+return - verb - a1 - qaytmoq, qaytarib bermoq - fel - Please return my book. - Iltimos, kitobimni qaytaring.
+rice - noun - a1 - guruch - ot - I eat rice for lunch. - Men tushlikda guruch yeyman.
+rich - adjective - a1 - boy - sifat - He is a rich man. - U boy odam.
+ride - verb - a1 - minmoq, haydamoq - fel - I ride my bike to school. - Men maktabga velosipedda boraman.
+right - adjective - a1 - to‘g‘ri, o‘ng - sifat - Your answer is right. - Sizning javobingiz to‘g‘ri.
+right - adverb - a1 - to‘g‘ri, o‘ngga - ravish - Turn right at the corner. - Burchakda o‘ngga buriling.
+right - noun - a1 - o‘ng, huquq - ot - My right hand hurts. - O‘ng qo‘lim og‘riyapti.
+river - noun - a1 - daryo - ot - The river is long. - Daryo uzun.
+road - noun - a1 - yo‘l - ot - The road is busy. - Yo‘l gavjum.
+room - noun - a1 - xona - ot - My room is clean. - Xonam toza.
+routine - noun - a1 - kundalik tartib - ot - My morning routine is simple. - Mening ertalabki tartibim oddiy.
+rule - noun - a1 - qoida - ot - Follow the rules. - Qoidalarga rioya qiling.
+run - verb - a1 - yugurmoq - fel - I run every morning. - Men har kuni ertalab yuguraman.
+sad - adjective - a1 - xafa - sifat - She is sad today. - U bugun xafa.
+salad - noun - a1 - salat - ot - I like vegetable salad. - Men sabzavotli salatni yaxshi ko‘raman.
+salt - noun - a1 - tuz - ot - Add some salt to the soup. - Sho‘rvaga biroz tuz qo‘shing.
+same - adjective - a1 - bir xil - sifat - We have the same bag. - Bizda bir xil sumka bor.
+same - adverb - a1 - bir xil tarzda - ravish - They think the same. - Ular bir xil o‘ylashadi.
+same - pronoun - a1 - o‘sha, bir xil narsa - olmosh - My answer is the same. - Mening javobim ham bir xil.
+sandwich - noun - a1 - sendvich - ot - I ate a sandwich for breakfast. - Men nonushtada sendvich yedim.
+Saturday - noun - a1 - shanba - ot - We rest on Saturday. - Shanba kuni dam olamiz.
+say - verb - a1 - aytmoq - fel - Please say your name. - Iltimos, ismingizni ayting.
+school - noun - a1 - maktab - ot - My school is near my house. - Maktabim uyimga yaqin.
+science - noun - a1 - fan, ilm - ot - Science is interesting. - Fan qiziqarli.
+scientist - noun - a1 - olim - ot - He is a scientist. - U olim.
+sea - noun - a1 - dengiz - ot - We swim in the sea. - Biz dengizda suzamiz.
+second - determiner - a1 - ikkinchi - aniqlovchi - My second lesson is math. - Mening ikkinchi darsim matematika.
+second - noun - a1 - soniya, ikkinchi - ot - Wait a second. - Bir soniya kuting.
+second - ordinal number - a1 - ikkinchi - tartib soni - She finished second. - U ikkinchi bo‘lib tugatdi.
+section - noun - a1 - bo‘lim, qism - ot - Read the next section. - Keyingi bo‘limni o‘qing.
+see - verb - a1 - ko‘rmoq - fel - I see a bird. - Men qushni ko‘ryapman.
+sell - verb - a1 - sotmoq - fel - They sell fruit at the market. - Ular bozorda meva sotishadi.
+send - verb - a1 - yubormoq - fel - Please send me an email. - Iltimos, menga email yuboring.
+sentence - noun - a1 - gap, jumla - ot - Write a sentence. - Bir gap yozing.
+September - noun - a1 - sentabr - ot - School starts in September. - Maktab sentabrda boshlanadi.
+seven - number - a1 - yetti - son - There are seven days in a week. - Haftada yetti kun bor.
+seventeen - number - a1 - o‘n yetti - son - She is seventeen years old. - U o‘n yetti yoshda.
+seventy - number - a1 - yetmish - son - My grandfather is seventy. - Bobom yetmish yoshda.
+share - verb - a1 - bo‘lishmoq, ulashmoq - fel - Please share your book. - Iltimos, kitobingizni ulashing.
+she - pronoun - a1 - u (ayol) - olmosh - She is my sister. - U mening singlim.
+sheep - noun - a1 - qo‘y - ot - The sheep is white. - Qo‘y oq.
+shirt - noun - a1 - ko‘ylak - ot - My shirt is blue. - Mening ko‘ylagim ko‘k.
+shoe - noun - a1 - poyabzal - ot - My shoes are new. - Poyabzalim yangi.
+shop - noun - a1 - do‘kon - ot - I go to the shop. - Men do‘konga boraman.
+shop - verb - a1 - xarid qilmoq - fel - I like to shop on weekends. - Men dam olish kunlari xarid qilishni yaxshi ko‘raman.
+shopping - noun - a1 - xarid qilish - ot - Shopping is fun. - Xarid qilish maroqli.
+short - adjective - a1 - qisqa, past - sifat - My hair is short. - Sochim qisqa.
+should - modal verb - a1 - kerak, lozim - modal fel - You should study more. - Siz ko‘proq o‘qishingiz kerak.
+show - noun - a1 - ko‘rsatuv, namoyish - ot - We watched a TV show. - Biz televizor ko‘rsatuvini ko‘rdik.
+show - verb - a1 - ko‘rsatmoq - fel - Please show me your ticket. - Iltimos, chiptangizni ko‘rsating.
+shower - noun - a1 - dush - ot - I take a shower every morning. - Men har kuni ertalab dush qabul qilaman.
+sick - adjective - a1 - kasal - sifat - I am sick today. - Men bugun kasalman.
+similar - adjective - a1 - o‘xshash - sifat - Our bags are similar. - Bizning sumkalarimiz o‘xshash.
+sing - verb - a1 - kuylamoq, qo‘shiq aytmoq - fel - I like to sing songs. - Men qo‘shiq aytishni yaxshi ko‘raman.
+singer - noun - a1 - qo‘shiqchi - ot - She is a famous singer. - U mashhur qo‘shiqchi.
+sister - noun - a1 - opa, singil - ot - My sister is a student. - Singlim talaba.
+sit - verb - a1 - o‘tirmoq - fel - Please sit down. - Iltimos, o‘tiring.
+situation - noun - a1 - vaziyat - ot - The situation is difficult. - Vaziyat qiyin.
+six - number - a1 - olti - son - I have six pencils. - Menda oltita qalam bor.
+sixteen - number - a1 - o‘n olti - son - He is sixteen years old. - U o‘n olti yoshda.
+sixty - number - a1 - oltmish - son - My grandmother is sixty. - Buvim oltmish yoshda.
+skill - noun - a1 - ko‘nikma, mahorat - ot - Speaking is an important skill. - Gapirish muhim ko‘nikma.
+skirt - noun - a1 - yubka - ot - She is wearing a red skirt. - U qizil yubka kiygan.
+sleep - verb - a1 - uxlash - fel - I sleep at ten o’clock. - Men soat o‘nda uxlayman.
+slow - adjective - a1 - sekin - sifat - The turtle is slow. - Toshbaqa sekin.
+small - adjective - a1 - kichik - sifat - The box is small. - Quti kichik.
+snake - noun - a1 - ilon - ot - The snake is long. - Ilon uzun.
+snow - noun - a1 - qor - ot - The snow is white. - Qor oq.
+snow - verb - a1 - qor yog‘moq - fel - It will snow tomorrow. - Ertaga qor yog‘adi.
+so - adverb - a1 - shuning uchun, juda - ravish - I am so happy. - Men juda baxtliman.
+so - conjunction - a1 - shuning uchun - bog‘lovchi - I was tired, so I slept early. - Men charchadim, shuning uchun erta uxladim.
+some - determiner - a1 - bir oz, ba’zi - aniqlovchi - I need some water. - Menga bir oz suv kerak.
+some - pronoun - a1 - ba’zi, bir oz - olmosh - Some are missing. - Ba’zilari yo‘q.
+somebody - pronoun - a1 - kimdir - olmosh - Somebody is at the door. - Kimdir eshikda.
+someone - pronoun - a1 - kimdir - olmosh - Someone called you. - Kimdir sizga qo‘ng‘iroq qildi.
+something - pronoun - a1 - biror narsa - olmosh - I have something for you. - Siz uchun biror narsa bor.
+sometimes - adverb - a1 - ba’zan - ravish - I sometimes go to the park. - Men ba’zan parkka boraman.
+son - noun - a1 - o‘g‘il - ot - My son is five years old. - O‘g‘lim besh yoshda.
+song - noun - a1 - qo‘shiq - ot - This is my favorite song. - Bu mening sevimli qo‘shig‘im.
+soon - adverb - a1 - tez orada - ravish - I will come soon. - Tez orada kelaman.
+sorry - adjective - a1 - uzrli, afsuslangan - sifat - I am sorry for the mistake. - Xato uchun uzr.
+sorry - exclamation - a1 - uzr - undov - Sorry, I am late. - Kechikkanim uchun uzr.
+sound - noun - a1 - ovoz - ot - The sound is loud. - Ovoz baland.
+sound - verb - a1 - eshitilmoq, tovush chiqarmoq - fel - You sound happy. - Siz baxtli eshityapsiz.
+soup - noun - a1 - sho‘rva - ot - I like chicken soup. - Men tovuqli sho‘rvani yaxshi ko‘raman.
+south - adjective - a1 - janubiy - sifat - The south wind is warm. - Janubiy shamol iliq.
+south - adverb - a1 - janubga - ravish - We are going south. - Biz janubga ketayapmiz.
+south - noun - a1 - janub - ot - Africa is in the south. - Afrika janubda joylashgan.
+space - noun - a1 - joy, fazo - ot - There is not enough space. - Yetarli joy yo‘q.
+speak - verb - a1 - gapirmoq - fel - I speak English. - Men inglizcha gapiraman.
+special - adjective - a1 - maxsus, o‘ziga xos - sifat - Today is a special day. - Bugun maxsus kun.
+spell - verb - a1 - harflab aytmoq - fel - Please spell your name. - Iltimos, ismingizni harflab ayting.
+spelling - noun - a1 - imlo - ot - Check your spelling. - Imloingizni tekshiring.
+spend - verb - a1 - sarflamoq, vaqt o‘tkazmoq - fel - I spend time with my family. - Men oilam bilan vaqt o‘tkazaman.
+sport - noun - a1 - sport - ot - Football is my favorite sport. - Futbol mening sevimli sportim.
+spring - noun - a1 - bahor - ot - Spring is a beautiful season. - Bahor chiroyli fasl.
+stand - verb - a1 - turmoq - fel - Please stand up. - Iltimos, turing.
+star - noun - a1 - yulduz - ot - The sky is full of stars. - Osmon yulduzlarga to‘la.
+start - verb - a1 - boshlamoq - fel - The lesson starts at nine. - Dars soat to‘qqizda boshlanadi.
+statement - noun - a1 - bayonot, gap - ot - Make a statement. - Bayonot bering.
+station - noun - a1 - stansiya, bekat - ot - The train is at the station. - Poyezd stansiyada.
+stay - verb - a1 - qolmoq, turmoq - fel - Please stay here. - Iltimos, shu yerda qoling.
+still - adverb - a1 - hali ham - ravish - He is still sleeping. - U hali ham uxlayapti.
+stop - noun - a1 - bekat, to‘xtash - ot - This is my bus stop. - Bu mening avtobus bekatim.
+stop - verb - a1 - to‘xtamoq - fel - Please stop talking. - Iltimos, gapirishni to‘xtating.
+story - noun - a1 - hikoya - ot - Tell me a story. - Menga hikoya ayting.
+street - noun - a1 - ko‘cha - ot - I live on this street. - Men shu ko‘chada yashayman.
+strong - adjective - a1 - kuchli - sifat - He is very strong. - U juda kuchli.
+student - noun - a1 - talaba, o‘quvchi - ot - She is a good student. - U yaxshi talaba.
+study - noun - a1 - o‘qish, tadqiqot - ot - Study is important. - O‘qish muhim.
+study - verb - a1 - o‘qimoq, o‘rganmoq - fel - I study English every day. - Men har kuni ingliz tilini o‘rganaman.
+style - noun - a1 - uslub, stil - ot - Her style is modern. - Uning uslubi zamonaviy.
+subject - noun - a1 - fan, mavzu - ot - Math is my favorite subject. - Matematika mening sevimli fanim.
+success - noun - a1 - muvaffaqiyat - ot - Hard work brings success. - Mehnat muvaffaqiyat keltiradi.
+sugar - noun - a1 - shakar - ot - I like sugar in my tea. - Men choyimga shakar solaman.
+summer - noun - a1 - yoz - ot - Summer is hot. - Yoz issiq.
+sun - noun - a1 - quyosh - ot - The sun is shining. - Quyosh porlayapti.
+Sunday - noun - a1 - yakshanba - ot - Sunday is a holiday. - Yakshanba dam olish kuni.
+supermarket - noun - a1 - supermarket - ot - I shop at the supermarket. - Men supermarketda xarid qilaman.
+sure - adjective - a1 - ishonch hosil qilgan - sifat - I am sure about my answer. - Javobimga ishonchim komil.
+sweater - noun - a1 - sviter - ot - I wear a sweater in winter. - Men qishda sviter kiyaman.
+swim - verb - a1 - suzmoq - fel - I can swim well. - Men yaxshi suza olaman.
+swimming - noun - a1 - suzish - ot - Swimming is good for health. - Suzish sog‘liq uchun foydali.
+T-shirt - noun - a1 - futbolka - ot - I bought a new T-shirt. - Men yangi futbolka sotib oldim.
+table - noun - a1 - stol - ot - The table is round. - Stol dumaloq.
+take - verb - a1 - olmoq, olib bormoq - fel - Please take your bag. - Iltimos, sumkangizni oling.
+talk - verb - a1 - gaplashmoq - fel - Let’s talk after class. - Darsdan keyin gaplashamiz.
+tall - adjective - a1 - baland, bo‘yi uzun - sifat - He is very tall. - U juda bo‘yi uzun.
+taxi - noun - a1 - taksi - ot - I took a taxi home. - Men uyga taksi oldim.
+tea - noun - a1 - choy - ot - I drink tea every morning. - Men har kuni ertalab choy ichaman.
+teach - verb - a1 - o‘qitmoq, dars bermoq - fel - I teach English. - Men ingliz tili o‘qitaman.
+teacher - noun - a1 - o‘qituvchi - ot - My teacher is kind. - Mening o‘qituvchim mehribon.
+team - noun - a1 - jamoa - ot - Our team won the game. - Bizning jamoamiz o‘yinda g‘alaba qozondi.
+teenager - noun - a1 - o‘smir - ot - He is a teenager. - U o‘smir.
+telephone - noun - a1 - telefon - ot - The telephone is ringing. - Telefon jiringlamoqda.
+telephone - verb - a1 - telefon qilmoq - fel - Please telephone me later. - Iltimos, keyinroq menga telefon qiling.
+television - noun - a1 - televizor - ot - I watch television at night. - Men kechasi televizor ko‘raman.
+tell - verb - a1 - aytmoq, gapirmoq - fel - Please tell me the truth. - Iltimos, menga haqiqatni ayting.
+ten - number - a1 - o‘n - son - There are ten apples. - O‘nta olma bor.
+tennis - noun - a1 - tennis - ot - I play tennis on Sundays. - Men yakshanba kunlari tennis o‘ynayman.
+terrible - adjective - a1 - dahshatli, juda yomon - sifat - The weather is terrible. - Ob-havo juda yomon.
+test - noun - a1 - test, sinov - ot - We have a test today. - Bugun testimiz bor.
+test - verb - a1 - sinamoq, test qilmoq - fel - The teacher will test us. - O‘qituvchi bizni test qiladi.
+text - noun - a1 - matn - ot - Read the text. - Matnni o‘qing.
+than - conjunction - a1 - dan ko‘ra - bog‘lovchi - She is taller than me. - U mendan balandroq.
+than - preposition - a1 - dan - prielog - More than ten people came. - O‘ndan ortiq odam keldi.
+thank - verb - a1 - rahmat aytmoq - fel - I thank you for your help. - Yordamingiz uchun rahmat aytaman.
+thanks - exclamation - a1 - rahmat - undov - Thanks for your advice. - Maslahatingiz uchun rahmat.
+thanks - noun - a1 - minnatdorchilik - ot - Give your thanks to the teacher. - O‘qituvchiga minnatdorchilik bildiring.
+that - conjunction - a1 - ...ki, deb - bog‘lovchi - I know that you are busy. - Bilaman, siz band ekansiz.
+that - determiner - a1 - o‘sha, ana u - aniqlovchi - That book is mine. - O‘sha kitob meniki.
+that - pronoun - a1 - o‘sha narsa, ana u - olmosh - That is my car. - O‘sha mening mashinam.
+the - definite article - a1 - aniq artikl - artikl - The sun is bright. - Quyosh yorqin.
+theatre - noun - a1 - teatr - ot - We went to the theatre. - Biz teatrga bordik.
+their - determiner - a1 - ularning - aniqlovchi - Their house is big. - Ularning uyi katta.
+them - pronoun - a1 - ularni, ularga - olmosh - I saw them at the park. - Men ularni parkda ko‘rdim.
+then - adverb - a1 - keyin, so‘ng - ravish - We ate, then we left. - Biz ovqatlandik, keyin ketdik.
+there - adverb - a1 - u yerda, u yerga - ravish - The book is there. - Kitob u yerda.
+they - pronoun - a1 - ular - olmosh - They are my friends. - Ular mening do‘stlarim.
+thing - noun - a1 - narsa - ot - What is that thing? - Bu nima narsa?
+think - verb - a1 - o‘ylamoq - fel - I think it is good. - Menimcha, bu yaxshi.
+third - ordinal number - a1 - uchinchi - tartib soni - I live on the third floor. - Men uchinchi qavatda yashayman.
+thirsty - adjective - a1 - chanqagan - sifat - I am thirsty. - Men chanqadim.
+thirteen - number - a1 - o‘n uch - son - She is thirteen years old. - U o‘n uch yoshda.
+thirty - number - a1 - o'ttiz - son - There are thirty students. - O‘ttizta talaba bor.
+this - determiner - a1 - bu - aniqlovchi - This bag is heavy. - Bu sumka og‘ir.
+this - pronoun - a1 - bu narsa - olmosh - This is my pen. - Bu mening ruchkam.
+thousand - number - a1 - ming - son - There are a thousand people. - Mingta odam bor.
+three - number - a1 - uch - son - I have three sisters. - Menda uchta opa-singil bor.
+through - adverb - a1 - ichidan, orqali - ravish - He walked through quickly. - U tezda ichidan o‘tdi.
+through - preposition - a1 - orqali, ichidan - prielog - We went through the tunnel. - Biz tunnel orqali o‘tdik.
+Thursday - noun - a1 - payshanba - ot - Thursday is my busy day. - Payshanba mening band kunim.
+ticket - noun - a1 - chipta - ot - I bought a train ticket. - Men poyezd chiptasi sotib oldim.
+time - noun - a1 - vaqt - ot - What time is it? - Soat nechchi?
+tired - adjective - a1 - charchagan - sifat - I am tired today. - Men bugun charchadim.
+title - noun - a1 - sarlavha, nom - ot - What is the title of the book? - Kitobning nomi nima?
+to - infinitive marker - a1 - uchun, -ishga - infinitiv ko‘rsatkichi - I want to eat. - Men ovqat yeyishni xohlayman.
+to - preposition - a1 - ga, -ga - prielog - I go to school. - Men maktabga boraman.
+today - adverb - a1 - bugun - ravish - I am busy today. - Men bugun bandman.
+today - noun - a1 - bugun - ot - Today is Monday. - Bugun dushanba.
+together - adverb - a1 - birga - ravish - We work together. - Biz birga ishlaymiz.
+toilet - noun - a1 - hojatxona - ot - Where is the toilet? - Hojatxona qayerda?
+tomato - noun - a1 - pomidor - ot - I like tomato salad. - Men pomidorli salat yaxshi ko‘raman.
+tomorrow - adverb - a1 - ertaga - ravish - See you tomorrow. - Ertaga ko‘rishamiz.
+tomorrow - noun - a1 - ertangi kun - ot - Tomorrow is my birthday. - Ertaga mening tug‘ilgan kunim.
+tonight - adverb - a1 - bugun kechasi - ravish - I will call you tonight. - Men sizga bugun kechasi qo‘ng‘iroq qilaman.
+tonight - noun - a1 - bugungi kecha - ot - Tonight is special. - Bugungi kecha maxsus.
+too - adverb - a1 - ham, juda - ravish - I am tired too. - Men ham charchadim.
+tooth - noun - a1 - tish - ot - My tooth hurts. - Tishim og‘riyapti.
+topic - noun - a1 - mavzu - ot - The topic is interesting. - Mavzu qiziqarli.
+tourist - noun - a1 - sayyoh - ot - The tourist took photos. - Sayyoh suratga oldi.
+town - noun - a1 - shahar, shaharcha - ot - I live in a small town. - Men kichik shaharchada yashayman.
+traffic - noun - a1 - harakat (yo‘l) - ot - The traffic is heavy. - Yo‘l harakati gavjum.
+train - noun - a1 - poyezd - ot - The train is late. - Poyezd kechikmoqda.
+travel - noun - a1 - sayohat - ot - I like travel. - Men sayohatni yaxshi ko‘raman.
+travel - verb - a1 - sayohat qilmoq - fel - I travel every summer. - Men har yozda sayohat qilaman.
+tree - noun - a1 - daraxt - ot - The tree is tall. - Daraxt baland.
+trip - noun - a1 - safar, sayohat - ot - The trip was fun. - Safar maroqli bo‘ldi.
+trousers - noun - a1 - shim - ot - My trousers are blue. - Mening shimim ko‘k.
+true - adjective - a1 - to‘g‘ri, rost - sifat - The answer is true. - Javob to‘g‘ri.
+try - verb - a1 - harakat qilmoq, urinmoq - fel - Try again. - Yana urinib ko‘ring.
+Tuesday - noun - a1 - seshanba - ot - Tuesday is my free day. - Seshanba mening bo‘sh kunim.
+turn - noun - a1 - navbat, burilish - ot - It’s your turn. - Sizning navbatingiz.
+turn - verb - a1 - burilmoq, aylantirmoq - fel - Turn left here. - Bu yerda chapga buriling.
+TV - noun - a1 - televizor - ot - I watch TV at night. - Men kechasi televizor ko‘raman.
+twelve - number - a1 - o‘n ikki - son - There are twelve months. - O‘n ikki oy bor.
+twenty - number - a1 - yigirma - son - There are twenty chairs. - Yigirmata stul bor.
+twice - adverb - a1 - ikki marta - ravish - I called you twice. - Men sizga ikki marta qo‘ng‘iroq qildim.
+two - number - a1 - ikki - son - I have two brothers. - Menda ikki aka bor.
+type - noun - a1 - tur, xil - ot - What type of music do you like? - Qanday musiqa turini yoqtirasiz?
+umbrella - noun - a1 - soyabon - ot - Take your umbrella. - Soyaboningizni oling.
+uncle - noun - a1 - amaki, tog‘a - ot - My uncle lives in Bukhara. - Amakim Buxoroda yashaydi.
+under - adverb - a1 - ostida - ravish - The cat is under the table. - Mushuk stol ostida.
+under - preposition - a1 - ostida - prielog - The shoes are under the bed. - Poyabzallar karavot ostida.
+understand - verb - a1 - tushunmoq - fel - I understand English. - Men ingliz tilini tushunaman.
+university - noun - a1 - universitet - ot - She studies at university. - U universitetda o‘qiydi.
+until - conjunction - a1 - ...gacha - bog‘lovchi - Wait until I come. - Men kelgunimcha kuting.
+until - preposition - a1 - ...gacha - prielog - The shop is open until 8. - Do‘kon soat 8 gacha ochiq.
+up - adverb - a1 - yuqoriga - ravish - Stand up. - Turing.
+up - preposition - a1 - yuqoriga - prielog - Go up the stairs. - Zinalardan yuqoriga chiqing.
+upstairs - adverb - a1 - yuqoriga, yuqori qavatga - ravish - The bedroom is upstairs. - Yotoqxona yuqorida.
+us - pronoun - a1 - bizni, bizga - olmosh - Help us, please. - Iltimos, bizga yordam bering.
+use - verb - a1 - ishlatmoq, foydalanmoq - fel - I use a computer. - Men kompyuterdan foydalanaman.
+useful - adjective - a1 - foydali - sifat - This book is useful. - Bu kitob foydali.
+usually - adverb - a1 - odatda - ravish - I usually get up early. - Men odatda erta turaman.
+vacation noun a1
+vegetable noun a1
+very adverb a1
+video noun a1
+village noun a1
+visit noun a1
+visit verb a1
+visitor noun a1
+wait verb a1
+waiter noun a1
+wake verb a1
+walk noun a1
+walk verb a1
+wall noun a1
+want verb a1
+warm adjective a1
+wash verb a1
+watch noun a1
+watch verb a1
+water noun a1
+way noun a1
+we pronoun a1
+wear verb a1
+weather noun a1
+website noun a1
+Wednesday noun a1
+week noun a1
+weekend noun a1
+welcome adjective a1
+welcome exclamation a1
+welcome verb a1
+well adjective a1
+well adverb a1
+well exclamation a1
+west adjective a1
+west adverb a1
+west noun a1
+what determiner a1
+what pronoun a1
+when adverb a1
+when conjunction a1
+when pronoun a1
+where adverb a1
+where conjunction a1
+which determiner a1
+which pronoun a1
+white adjective a1
+white noun a1
+who pronoun a1
+why adverb a1
+wife noun a1
+will modal verb a1
+win verb a1
+window noun a1
+wine noun a1
+winter noun a1
+with preposition a1
+without preposition a1
+woman noun a1
+wonderful adjective a1
+word noun a1
+work noun a1
+work verb a1
+worker noun a1
+world noun a1
+would modal verb a1
+write verb a1
+writer noun a1
+writing noun a1
+wrong adjective a1
+yeah exclamation a1
+year noun a1
+yellow adjective a1
+yellow noun a1
+yes exclamation a1
+yesterday adverb a1
+yesterday noun a1
+you pronoun a1
+young adjective a1
+your determiner a1
+yourself pronoun a1
