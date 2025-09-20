@@ -973,84 +973,88 @@ us - pronoun - a1 - bizni, bizga - olmosh - Help us, please. - Iltimos, bizga yo
 use - verb - a1 - ishlatmoq, foydalanmoq - fel - I use a computer. - Men kompyuterdan foydalanaman.
 useful - adjective - a1 - foydali - sifat - This book is useful. - Bu kitob foydali.
 usually - adverb - a1 - odatda - ravish - I usually get up early. - Men odatda erta turaman.
-vacation noun a1
-vegetable noun a1
-very adverb a1
-video noun a1
-village noun a1
-visit noun a1
-visit verb a1
-visitor noun a1
-wait verb a1
-waiter noun a1
-wake verb a1
-walk noun a1
-walk verb a1
-wall noun a1
-want verb a1
-warm adjective a1
-wash verb a1
-watch noun a1
-watch verb a1
-water noun a1
-way noun a1
-we pronoun a1
-wear verb a1
-weather noun a1
-website noun a1
-Wednesday noun a1
-week noun a1
-weekend noun a1
-welcome adjective a1
-welcome exclamation a1
-welcome verb a1
-well adjective a1
-well adverb a1
-well exclamation a1
-west adjective a1
-west adverb a1
-west noun a1
-what determiner a1
-what pronoun a1
-when adverb a1
-when conjunction a1
-when pronoun a1
-where adverb a1
-where conjunction a1
-which determiner a1
-which pronoun a1
-white adjective a1
-white noun a1
-who pronoun a1
-why adverb a1
-wife noun a1
-will modal verb a1
-win verb a1
-window noun a1
-wine noun a1
-winter noun a1
-with preposition a1
-without preposition a1
-woman noun a1
-wonderful adjective a1
-word noun a1
-work noun a1
-work verb a1
-worker noun a1
-world noun a1
-would modal verb a1
-write verb a1
-writer noun a1
-writing noun a1
-wrong adjective a1
-yeah exclamation a1
-year noun a1
-yellow adjective a1
-yellow noun a1
-yes exclamation a1
-yesterday adverb a1
-yesterday noun a1
-you pronoun a1
-young adjective a1
-your determiner a1
-yourself pronoun a1
+vacation - noun - a1 - ta’til - ot - I am going on vacation. - Men ta’tilga ketayapman.
+vegetable - noun - a1 - sabzavot - ot - I eat vegetables every day. - Men har kuni sabzavot yeyman.
+very - adverb - a1 - juda - ravish - She is very happy. - U juda baxtli.
+video - noun - a1 - video - ot - I watched```plaintext
+vacation - noun - a1 - ta’til - ot - We had a vacation in summer. - Biz yozda ta’tilga chiqdik.
+vegetable - noun - a1 - sabzavot - ot - Carrots are my favorite vegetable. - Sabzi mening sevimli sabzavotim.
+very - adverb - a1 - juda - ravish - The test is very easy. - Test juda oson.
+video - noun - a1 - video - ot - I watched a video online. - Men onlayn video ko‘rdim.
+village - noun - a1 - qishloq - ot - My grandparents live in a village. - Buvim va bobom qishloqda yashaydi.
+visit - noun - a1 - tashrif - ot - I had a visit from my friend. - Do‘stim menga tashrif buyurdi.  
+visit - verb - a1 - tashrif buyurmoq - fe’l - I visit my grandmother every weekend. - Men har hafta oxirida buvimnikiga tashrif buyuraman.  
+visitor - noun - a1 - mehmon - ot - We have a visitor today. - Bugun bizda mehmon bor.  
+wait - verb - a1 - kutmoq - fe’l - Please wait for me. - Iltimos, meni kuting.  
+waiter - noun - a1 - ofitsiant - ot - The waiter brought our food. - Ofitsiant ovqatimizni olib keldi.  
+wake - verb - a1 - uyg‘onmoq - fe’l - I wake up at 7 o’clock. - Men soat 7 da uyg‘onaman.  
+walk - noun - a1 - sayr - ot - Let’s go for a walk. - Kelinglar, sayr qilaylik.  
+walk - verb - a1 - yurmoq - fe’l - I walk to school every day. - Men har kuni maktabga yurib boraman.  
+wall - noun - a1 - devor - ot - There is a picture on the wall. - Devor ustida surat bor.  
+want - verb - a1 - xohlamoq - fe’l - I want a new phone. - Men yangi telefon xohlayman.  
+warm - adjective - a1 - iliq - sifat - It’s warm today. - Bugun havo iliq.  
+wash - verb - a1 - yuvmoq - fe’l - I wash my hands. - Men qo‘llarimni yuvaman.  
+watch - noun - a1 - soat - ot - My watch is new. - Mening soatim yangi.  
+watch - verb - a1 - tomosha qilmoq - fe’l - I watch TV in the evening. - Men kechqurun televizor tomosha qilaman.  
+water - noun - a1 - suv - ot - I drink water every day. - Men har kuni suv ichaman.  
+way - noun - a1 - yo‘l - ot - This is the best way. - Bu eng yaxshi yo‘l.  
+we - pronoun - a1 - biz - olmosh - We are students. - Biz talabamiz.  
+wear - verb - a1 - kiymoq - fe’l - I wear a jacket. - Men kurtka kiyaman.  
+weather - noun - a1 - ob-havo - ot - The weather is good today. - Bugun ob-havo yaxshi.  
+website - noun - a1 - veb-sayt - ot - I made a website. - Men veb-sayt yaratdim.  
+Wednesday - noun - a1 - chorshanba - ot - Today is Wednesday. - Bugun chorshanba.  
+week - noun - a1 - hafta - ot - There are seven days in a week. - Haftada yetti kun bor.  
+weekend - noun - a1 - dam olish kuni - ot - I rest on the weekend. - Men dam olish kunlari dam olaman.  
+welcome - adjective - a1 - xush kelibsiz - sifat - You are welcome here. - Siz bu yerda xush kelibsiz.  
+welcome - exclamation - a1 - xush kelibsiz! - undov - Welcome to our home! - Bizning uyimizga xush kelibsiz!  
+welcome - verb - a1 - kutib olmoq - fe’l - We welcome new students. - Biz yangi talabalarni kutib olamiz.  
+well - adjective - a1 - sog‘lom - sifat - She is well now. - U hozir sog‘lom.  
+well - adverb - a1 - yaxshi - ravish - He sings well. - U yaxshi qo‘shiq aytadi.  
+well - exclamation - a1 - yaxshi! - undov - Well, let’s start. - Xo‘sh, boshlaymiz.  
+west - adjective - a1 - g‘arbiy - sifat - The west coast is beautiful. - G‘arbiy sohil chiroyli.  
+west - adverb - a1 - g‘arb tomonga - ravish - The sun goes west. - Quyosh g‘arb tomonga botadi.  
+west - noun - a1 - g‘arb - ot - The West is rich. - G‘arb boy.  
+what - determiner - a1 - qanday/qaysi - aniqlovchi - What color do you like? - Siz qaysi rangni yoqtirasiz?  
+what - pronoun - a1 - nima - olmosh - What is this? - Bu nima?  
+when - adverb - a1 - qachon - ravish - When will you come? - Qachon kelasiz?  
+when - conjunction - a1 - -ganda - bog‘lovchi - I was happy when I saw her. - Uni ko‘rganimda xursand bo‘ldim.  
+when - pronoun - a1 - qachonki - olmosh - Do you remember the time when we met? - Biz uchrashgan vaqtni eslaysizmi?  
+where - adverb - a1 - qayerda - ravish - Where do you live? - Siz qayerda yashaysiz?  
+where - conjunction - a1 - qaerda - bog‘lovchi - I know a place where we can eat. - Men ovqatlanishimiz mumkin bo‘lgan joyni bilaman.  
+which - determiner - a1 - qaysi - aniqlovchi - Which book do you want? - Qaysi kitobni xohlaysiz?  
+which - pronoun - a1 - qaysi biri - olmosh - Which is yours? - Qaysi biri sizniki?  
+white - adjective - a1 - oq - sifat - The snow is white. - Qor oq.  
+white - noun - a1 - oq rang - ot - White is my favorite color. - Oq mening sevimli rangim.  
+who - pronoun - a1 - kim - olmosh - Who is she? - U kim?  
+why - adverb - a1 - nega - ravish - Why are you late? - Nega kechikdingiz?  
+wife - noun - a1 - xotin - ot - His wife is kind. - Uning xotini mehribon.  
+will - modal verb - a1 - bo‘ladi - modal fe’l - I will call you tomorrow. - Men ertaga sizga qo‘ng‘iroq qilaman.  
+win - verb - a1 - yutmoq - fe’l - Our team will win. - Bizning jamoamiz yutadi.  
+window - noun - a1 - deraza - ot - Open the window. - Derazani oching.  
+wine - noun - a1 - vino - ot - He drinks wine. - U vino ichadi.  
+winter - noun - a1 - qish - ot - Winter is cold. - Qish sovuq.  
+with - preposition - a1 - bilan - ko‘makchi - I live with my parents. - Men ota-onam bilan yashayman.  
+without - preposition - a1 - -siz - ko‘makchi - I can’t live without you. - Men sensiz yashay olmayman.  
+woman - noun - a1 - ayol - ot - That woman is a teacher. - U ayol o‘qituvchi.  
+wonderful - adjective - a1 - ajoyib - sifat - It’s a wonderful day. - Bu ajoyib kun.  
+word - noun - a1 - so‘z - ot - This word is difficult. - Bu so‘z qiyin.  
+work - noun - a1 - ish - ot - I have a lot of work. - Menda ko‘p ish bor.  
+work - verb - a1 - ishlamoq - fe’l - I work in an office. - Men ofisda ishlayman.  
+worker - noun - a1 - ishchi - ot - The worker is tired. - Ishchi charchagan.  
+world - noun - a1 - dunyo - ot - The world is big. - Dunyo katta.  
+would - modal verb - a1 - edi - modal fe’l - I would like some tea. - Men choy ichishni xohlardim.  
+write - verb - a1 - yozmoq - fe’l - I write letters. - Men xatlar yozaman.  
+writer - noun - a1 - yozuvchi - ot - She is a famous writer. - U mashhur yozuvchi.  
+writing - noun - a1 - yozuv - ot - His writing is clear. - Uning yozuvi aniq.  
+wrong - adjective - a1 - noto‘g‘ri - sifat - The answer is wrong. - Javob noto‘g‘ri.  
+yeah - exclamation - a1 - ha - undov - Yeah, I agree. - Ha, men roziman.  
+year - noun - a1 - yil - ot - A year has 12 months. - Bir yilda 12 oy bor.  
+yellow - adjective - a1 - sariq - sifat - The sun is yellow. - Quyosh sariq.  
+yellow - noun - a1 - sariq rang - ot - Yellow is bright. - Sariq yorqin rang.  
+yes - exclamation - a1 - ha - undov - Yes, I understand. - Ha, tushundim.  
+yesterday - adverb - a1 - kecha - ravish - I saw him yesterday. - Uni kecha ko‘rdim.  
+yesterday - noun - a1 - kecha kuni - ot - Yesterday was Sunday. - Kecha yakshanba edi.  
+you - pronoun - a1 - sen/siz - olmosh - You are my friend. - Sen mening do‘stim.  
+young - adjective - a1 - yosh - sifat - He is a young boy. - U yosh bola.  
+your - determiner - a1 - sening/sizning - aniqlovchi - Your book is on the table. - Sizning kitobingiz stol ustida.  
+yourself - pronoun - a1 - o‘zingiz - olmosh - Take care of yourself. - O‘zingizga qarang.  
