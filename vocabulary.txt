@@ -2011,3 +2011,2492 @@ wow exclamation a2
 yet adverb a2
 yours pronoun a2
 zero number a2
+absolutely adverb b1
+academic adjective b1
+access noun b1
+access verb b1
+accommodation noun b1
+account noun b1
+achievement noun b1
+act noun b1
+ad noun b1
+addition noun b1
+admire verb b1
+admit verb b1
+advanced adjective b1
+advise verb b1
+afford verb b1
+age verb b1
+aged adjective b1
+agent noun b1
+agreement noun b1
+ahead adverb b1
+aim noun b1
+aim verb b1
+alarm noun b1
+album noun b1
+alcohol noun b1
+alcoholic adjective b1
+alternative adjective b1
+amazed adjective b1
+ambition noun b1
+ambitious adjective b1
+analyse verb b1
+analysis noun b1
+announce verb b1
+announcement noun b1
+annoy verb b1
+annoyed adjective b1
+annoying adjective b1
+apart adverb b1
+apologize verb b1
+application noun b1
+appointment noun b1
+appreciate verb b1
+approximately adverb b1
+arrest noun b1
+arrest verb b1
+arrival noun b1
+assignment noun b1
+assist verb b1
+atmosphere noun b1
+attach verb b1
+attitude noun b1
+attract verb b1
+attraction noun b1
+authority noun b1
+average verb b1
+award verb b1
+aware adjective b1
+backwards adverb b1
+bake verb b1
+balance noun b1
+balance verb b1
+ban noun b1
+ban verb b1
+base noun b1
+base verb b1
+basic adjective b1
+basis noun b1
+battery noun b1
+battle noun b1
+beauty noun b1
+bee noun b1
+belief noun b1
+bell noun b1
+bend noun b1
+bend verb b1
+benefit verb b1
+better noun b1
+bite noun b1
+bite verb b1
+block noun b1
+block verb b1
+board verb b1
+bomb noun b1
+bomb verb b1
+border noun b1
+bother verb b1
+branch noun b1
+brand noun b1
+brand verb b1
+brave adjective b1
+breath noun b1
+breathe verb b1
+breathing noun b1
+bride noun b1
+bubble noun b1
+bury verb b1
+by adverb b1
+calm adjective b1
+calm noun b1
+calm verb b1
+campaign noun b1
+campaign verb b1
+campus noun b1
+candidate noun b1
+cap noun b1
+captain noun b1
+careless adjective b1
+category noun b1
+ceiling noun b1
+celebration noun b1
+central adjective b1
+centre verb b1
+ceremony noun b1
+chain noun b1
+challenge noun b1
+champion noun b1
+channel noun b1
+chapter noun b1
+charge noun b1
+charge verb b1
+cheap adverb b1
+cheat noun b1
+cheat verb b1
+cheerful adjective b1
+chemical adjective b1
+chemical noun b1
+chest noun b1
+childhood noun b1
+claim noun b1
+claim verb b1
+clause noun b1
+clear verb b1
+click noun b1
+click verb b1
+client noun b1
+climb noun b1
+close adverb b1
+cloth noun b1
+clue noun b1
+coach verb b1
+coal noun b1
+coin noun b1
+collection noun b1
+coloured adjective b1
+combine verb b1
+comment verb b1
+commercial adjective b1
+commercial noun b1
+commit verb b1
+communication noun b1
+comparison noun b1
+competitive adjective b1
+competitor noun b1
+complaint noun b1
+complex adjective b1
+concentrate verb b1
+conclude verb b1
+conclusion noun b1
+confident adjective b1
+confirm verb b1
+confuse verb b1
+confused adjective b1
+connection noun b1
+consequence noun b1
+consist verb b1
+consume verb b1
+consumer noun b1
+contact noun b1
+contact verb b1
+container noun b1
+content noun b1
+continuous adjective b1
+contrast noun b1
+contrast verb b1
+convenient adjective b1
+convince verb b1
+cool verb b1
+costume noun b1
+cottage noun b1
+cotton noun b1
+count noun b1
+countryside noun b1
+court noun b1
+cover noun b1
+covered adjective b1
+cream adjective b1
+criminal adjective b1
+cruel adjective b1
+cultural adjective b1
+currency noun b1
+current adjective b1
+currently adverb b1
+curtain noun b1
+custom noun b1
+cut noun b1
+daily adverb b1
+damage noun b1
+damage verb b1
+deal noun b1
+decade noun b1
+decorate verb b1
+deep adverb b1
+define verb b1
+definite adjective b1
+definition noun b1
+deliver verb b1
+departure noun b1
+despite preposition b1
+destination noun b1
+determine verb b1
+determined adjective b1
+development noun b1
+diagram noun b1
+diamond noun b1
+difficulty noun b1
+direct adverb b1
+direct verb b1
+directly adverb b1
+dirt noun b1
+disadvantage noun b1
+disappointed adjective b1
+disappointing adjective b1
+discount noun b1
+dislike noun b1
+dislike verb b1
+divide verb b1
+documentary noun b1
+donate verb b1
+double adverb b1
+doubt noun b1
+doubt verb b1
+dressed adjective b1
+drop noun b1
+drum noun b1
+drunk adjective b1
+due adjective b1
+dust noun b1
+duty noun b1
+earthquake noun b1
+eastern adjective b1
+economic adjective b1
+economy noun b1
+edge noun b1
+editor noun b1
+educate verb b1
+educated adjective b1
+educational adjective b1
+effective adjective b1
+effectively adverb b1
+effort noun b1
+election noun b1
+element noun b1
+embarrassed adjective b1
+embarrassing adjective b1
+emergency noun b1
+emotion noun b1
+employment noun b1
+empty verb b1
+encourage verb b1
+enemy noun b1
+engaged adjective b1
+engineering noun b1
+entertain verb b1
+entertainment noun b1
+entrance noun b1
+entry noun b1
+environmental adjective b1
+episode noun b1
+equal adjective b1
+equal verb b1
+equally adverb b1
+escape noun b1
+escape verb b1
+essential adjective b1
+eventually adverb b1
+examine verb b1
+except conjunction b1
+exchange noun b1
+exchange verb b1
+excitement noun b1
+exhibition noun b1
+expand verb b1
+expected adjective b1
+expedition noun b1
+experience verb b1
+experienced adjective b1
+experiment verb b1
+explode verb b1
+explore verb b1
+explosion noun b1
+export noun b1
+export verb b1
+extra adverb b1
+extra noun b1
+face verb b1
+fairly adverb b1
+familiar adjective b1
+fancy adjective b1
+fancy verb b1
+far adjective b1
+fascinating adjective b1
+fashionable adjective b1
+fasten verb b1
+favour noun b1
+fear verb b1
+feature verb b1
+fence noun b1
+fighting noun b1
+file noun b1
+financial adjective b1
+fire verb b1
+fitness noun b1
+fixed adjective b1
+flag noun b1
+flood noun b1
+flood verb b1
+flour noun b1
+flow noun b1
+flow verb b1
+fold verb b1
+folk adjective b1
+folk noun b1
+following noun b1
+force noun b1
+force verb b1
+forever adverb b1
+frame noun b1
+frame verb b1
+freeze verb b1
+frequently adverb b1
+friendship noun b1
+frighten verb b1
+frightened adjective b1
+frightening adjective b1
+frozen adjective b1
+fry verb b1
+fuel noun b1
+function noun b1
+fur noun b1
+further adverb b1
+garage noun b1
+gather verb b1
+generally adverb b1
+generation noun b1
+generous adjective b1
+gentle adjective b1
+gentleman noun b1
+ghost noun b1
+giant adjective b1
+giant noun b1
+glad adjective b1
+global adjective b1
+glove noun b1
+go noun b1
+goods noun b1
+grade noun b1
+graduate noun b1
+graduate verb b1
+grain noun b1
+grateful adjective b1
+growth noun b1
+guard noun b1
+guard verb b1
+guilty adjective b1
+hand verb b1
+hang verb b1
+happiness noun b1
+hardly adverb b1
+hate noun b1
+head verb b1
+headline noun b1
+heating noun b1
+heavily adverb b1
+helicopter noun b1
+highlight noun b1
+highlight verb b1
+highly adverb b1
+hire verb b1
+historic adjective b1
+historical adjective b1
+honest adjective b1
+horrible adjective b1
+horror noun b1
+host noun b1
+hunt verb b1
+hurricane noun b1
+hurry noun b1
+hurry verb b1
+identity noun b1
+ignore verb b1
+illegal adjective b1
+imaginary adjective b1
+immediate adjective b1
+immigrant noun b1
+impact noun b1
+impact verb b1
+import noun b1
+import verb b1
+importance noun b1
+impression noun b1
+impressive adjective b1
+improvement noun b1
+incredibly adverb b1
+indeed adverb b1
+indicate verb b1
+indirect adjective b1
+indoor adjective b1
+indoors adverb b1
+influence noun b1
+influence verb b1
+ingredient noun b1
+injure verb b1
+injured adjective b1
+innocent adjective b1
+intelligence noun b1
+intend verb b1
+intention noun b1
+invest verb b1
+investigate verb b1
+involved adjective b1
+iron noun b1
+iron verb b1
+issue noun b1
+IT noun b1
+journal noun b1
+judge noun b1
+judge verb b1
+keen adjective b1
+key verb b1
+keyboard noun b1
+kick noun b1
+kick verb b1
+killing noun b1
+kind adjective b1
+kiss noun b1
+kiss verb b1
+knock noun b1
+label noun b1
+label verb b1
+laboratory noun b1
+lack noun b1
+lack verb b1
+latest adjective b1
+lay verb b1
+layer noun b1
+lead noun b1
+leading adjective b1
+leaf noun b1
+leather noun b1
+legal adjective b1
+leisure noun b1
+length noun b1
+level adjective b1
+lie noun b1
+lie verb b1
+like noun b1
+limit noun b1
+limit verb b1
+lip noun b1
+liquid adjective b1
+liquid noun b1
+literature noun b1
+live adjective b1
+live adverb b1
+living adjective b1
+living noun b1
+local noun b1
+locate verb b1
+located adjective b1
+location noun b1
+lonely adjective b1
+loss noun b1
+luxury adjective b1
+luxury noun b1
+mad adjective b1
+magic adjective b1
+magic noun b1
+mainly adverb b1
+mall noun b1
+management noun b1
+market verb b1
+marketing noun b1
+marriage noun b1
+meanwhile adverb b1
+measure noun b1
+measure verb b1
+medium adjective b1
+mental adjective b1
+mention noun b1
+mess noun b1
+mild adjective b1
+mine noun b1
+mix noun b1
+mix verb b1
+mixture noun b1
+mood noun b1
+move noun b1
+mud noun b1
+murder noun b1
+murder verb b1
+muscle noun b1
+musical noun b1
+mystery noun b1
+nail noun b1
+narrative adjective b1
+narrative noun b1
+nation noun b1
+native adjective b1
+native noun b1
+naturally adverb b1
+necessarily adverb b1
+need modal verb b1
+needle noun b1
+neighbourhood noun b1
+neither adverb b1
+net noun b1
+next noun b1
+nor adverb b1
+nor conjunction b1
+normal noun b1
+northern adjective b1
+note verb b1
+now conjunction b1
+nuclear adjective b1
+obvious adjective b1
+obviously adverb b1
+occasion noun b1
+occur verb b1
+odd adjective b1
+official adjective b1
+old-fashioned adjective b1
+once conjunction b1
+operation noun b1
+organized adjective b1
+organizer noun b1
+original noun b1
+originally adverb b1
+ought modal verb b1
+ours pronoun b1
+outdoor adjective b1
+outdoors adverb b1
+pack noun b1
+package noun b1
+painful adjective b1
+pale adjective b1
+pan noun b1
+participate verb b1
+particularly adverb b1
+pass noun b1
+passion noun b1
+path noun b1
+payment noun b1
+peaceful adjective b1
+percentage noun b1
+perfectly adverb b1
+performance noun b1
+personally adverb b1
+persuade verb b1
+photographer noun b1
+photography noun b1
+pin noun b1
+pin verb b1
+pipe noun b1
+place verb b1
+planning noun b1
+pleasant adjective b1
+pleasure noun b1
+plenty pronoun b1
+plot noun b1
+plus preposition b1
+poem noun b1
+poet noun b1
+poetry noun b1
+point verb b1
+poison noun b1
+poison verb b1
+poisonous adjective b1
+policy noun b1
+political adjective b1
+politician noun b1
+politics noun b1
+port noun b1
+portrait noun b1
+possibly adverb b1
+pot noun b1
+pour verb b1
+poverty noun b1
+powder noun b1
+powerful adjective b1
+practical adjective b1
+pray verb b1
+prayer noun b1
+prediction noun b1
+prepared adjective b1
+presentation noun b1
+press noun b1
+press verb b1
+pressure noun b1
+pretend verb b1
+previous adjective b1
+previously adverb b1
+priest noun b1
+primary adjective b1
+prince noun b1
+princess noun b1
+printing noun b1
+prisoner noun b1
+private adjective b1
+producer noun b1
+production noun b1
+profession noun b1
+profit noun b1
+program verb b1
+promote verb b1
+proper adjective b1
+properly adverb b1
+property noun b1
+protest noun b1
+protest verb b1
+proud adjective b1
+prove verb b1
+pull noun b1
+punish verb b1
+punishment noun b1
+push noun b1
+qualification noun b1
+qualified adjective b1
+qualify verb b1
+queue noun b1
+queue verb b1
+quit verb b1
+quotation noun b1
+quote noun b1
+quote verb b1
+racing noun b1
+range noun b1
+rare adjective b1
+rarely adverb b1
+reaction noun b1
+reality noun b1
+receipt noun b1
+recommendation noun b1
+reference noun b1
+reflect verb b1
+regularly adverb b1
+reject verb b1
+relate verb b1
+related adjective b1
+relation noun b1
+relative adjective b1
+relative noun b1
+relaxed adjective b1
+relaxing adjective b1
+release noun b1
+release verb b1
+reliable adjective b1
+religion noun b1
+religious adjective b1
+remain verb b1
+remind verb b1
+remote adjective b1
+rent noun b1
+rent verb b1
+repair noun b1
+repeat noun b1
+repeated adjective b1
+represent verb b1
+request verb b1
+require verb b1
+reservation noun b1
+resource noun b1
+respect noun b1
+respect verb b1
+responsibility noun b1
+responsible adjective b1
+result verb b1
+retire verb b1
+retired adjective b1
+revise verb b1
+rise noun b1
+risk noun b1
+risk verb b1
+robot noun b1
+roll noun b1
+roll verb b1
+romantic adjective b1
+rope noun b1
+rough adjective b1
+row noun b1
+royal adjective b1
+rugby noun b1
+rule verb b1
+safety noun b1
+sail noun b1
+sailor noun b1
+sample noun b1
+sand noun b1
+scan verb b1
+scientific adjective b1
+script noun b1
+sculpture noun b1
+secondary adjective b1
+security noun b1
+seed noun b1
+sensible adjective b1
+separate verb b1
+seriously adverb b1
+servant noun b1
+set noun b1
+set verb b1
+setting noun b1
+sex noun b1
+sexual adjective b1
+shake noun b1
+share noun b1
+sharp adjective b1
+shelf noun b1
+shell noun b1
+shift noun b1
+shine verb b1
+shiny adjective b1
+shoot verb b1
+shy adjective b1
+sight noun b1
+signal noun b1
+signal verb b1
+silent adjective b1
+silly adjective b1
+similarity noun b1
+similarly adverb b1
+simply adverb b1
+since adverb b1
+sink verb b1
+slice noun b1
+slice verb b1
+slightly adverb b1
+slow verb b1
+smart adjective b1
+smooth adjective b1
+software noun b1
+soil noun b1
+solid adjective b1
+solid noun b1
+sort verb b1
+southern adjective b1
+specifically adverb b1
+spending noun b1
+spicy adjective b1
+spirit noun b1
+spoken adjective b1
+spot noun b1
+spread verb b1
+stadium noun b1
+staff noun b1
+standard adjective b1
+standard noun b1
+state adjective b1
+state verb b1
+statistic noun b1
+statue noun b1
+stick noun b1
+stick verb b1
+still adjective b1
+store verb b1
+stranger noun b1
+strength noun b1
+string noun b1
+strongly adverb b1
+studio noun b1
+stuff noun b1
+substance noun b1
+successfully adverb b1
+sudden adjective b1
+suffer verb b1
+suit verb b1
+suitable adjective b1
+summarize verb b1
+summary noun b1
+supply noun b1
+supply verb b1
+supporter noun b1
+surely adverb b1
+surface noun b1
+survive verb b1
+swim noun b1
+switch verb b1
+symptom noun b1
+tail noun b1
+talent noun b1
+talented adjective b1
+tape noun b1
+tax noun b1
+tax verb b1
+technical adjective b1
+technique noun b1
+tend verb b1
+tent noun b1
+that adverb b1
+theirs pronoun b1
+theme noun b1
+theory noun b1
+therefore adverb b1
+this adverb b1
+though adverb b1
+though conjunction b1
+throat noun b1
+throughout adverb b1
+throughout preposition b1
+tight adjective b1
+till conjunction b1
+till preposition b1
+tin noun b1
+tiny adjective b1
+tip verb b1
+toe noun b1
+tongue noun b1
+total adjective b1
+total noun b1
+totally adverb b1
+touch noun b1
+tour verb b1
+trade noun b1
+trade verb b1
+translate verb b1
+translation noun b1
+transport verb b1
+treat verb b1
+treatment noun b1
+trend noun b1
+trick noun b1
+trick verb b1
+truth noun b1
+tube noun b1
+type verb b1
+typically adverb b1
+tyre noun b1
+ugly adjective b1
+unable adjective b1
+uncomfortable adjective b1
+underwear noun b1
+unemployed adjective b1
+unemployment noun b1
+unfair adjective b1
+union noun b1
+unless conjunction b1
+unlike preposition b1
+unlikely adjective b1
+unnecessary adjective b1
+unpleasant adjective b1
+update noun b1
+update verb b1
+upon preposition b1
+upset adjective b1
+upset verb b1
+used adjective b1
+valuable adjective b1
+value noun b1
+various adjective b1
+version noun b1
+victim noun b1
+view verb b1
+viewer noun b1
+violent adjective b1
+volunteer noun b1
+volunteer verb b1
+vote noun b1
+vote verb b1
+warm verb b1
+warn verb b1
+warning noun b1
+waste adjective b1
+waste noun b1
+waste verb b1
+water verb b1
+wave verb b1
+weapon noun b1
+weigh verb b1
+western adjective b1
+whatever determiner b1
+whatever pronoun b1
+whenever conjunction b1
+whether conjunction b1
+while noun b1
+whole noun b1
+will noun b1
+win noun b1
+wing noun b1
+within preposition b1
+wonder noun b1
+wonder verb b1
+wool noun b1
+worldwide adjective b1
+worldwide adverb b1
+worry noun b1
+worse adverb b1
+worst adverb b1
+worth adjective b1
+written adjective b1
+wrong adverb b1
+yard noun b1
+young noun b1
+youth noun b1
+abandon verb b2
+absolute adjective b2
+academic noun b2
+acceptable adjective b2
+accompany verb b2
+account verb b2
+accurate adjective b2
+accuse verb b2
+acknowledge verb b2
+acquire verb b2
+actual adjective b2
+adapt verb b2
+additional adjective b2
+address verb b2
+administration noun b2
+adopt verb b2
+advance adjective b2
+advance noun b2
+advance verb b2
+affair noun b2
+afterwards adverb b2
+agency noun b2
+agenda noun b2
+aggressive adjective b2
+aid noun b2
+aid verb b2
+aircraft noun b2
+alarm verb b2
+alter verb b2
+amount verb b2
+anger noun b2
+angle noun b2
+anniversary noun b2
+annual adjective b2
+anxious adjective b2
+apparent adjective b2
+apparently adverb b2
+appeal noun b2
+appeal verb b2
+approach noun b2
+approach verb b2
+appropriate adjective b2
+approval noun b2
+approve verb b2
+arise verb b2
+armed adjective b2
+arms noun b2
+artificial adjective b2
+artistic adjective b2
+ashamed adjective b2
+aspect noun b2
+assess verb b2
+assessment noun b2
+associate verb b2
+associated adjective b2
+association noun b2
+assume verb b2
+attempt noun b2
+attempt verb b2
+back verb b2
+bacteria noun b2
+bar verb b2
+barrier noun b2
+basically adverb b2
+battle verb b2
+bear verb b2
+beat noun b2
+beg verb b2
+being noun b2
+bent adjective b2
+bet noun b2
+bet verb b2
+beyond adverb b2
+beyond preposition b2
+bill verb b2
+bitter adjective b2
+blame noun b2
+blame verb b2
+blind adjective b2
+bond noun b2
+border verb b2
+breast noun b2
+brief adjective b2
+broad adjective b2
+broadcast noun b2
+broadcast verb b2
+budget noun b2
+bullet noun b2
+bunch noun b2
+burn noun b2
+bush noun b2
+but preposition b2
+cable noun b2
+calculate verb b2
+cancel verb b2
+cancer noun b2
+capable adjective b2
+capacity noun b2
+capture noun b2
+capture verb b2
+cast noun b2
+cast verb b2
+catch noun b2
+cell noun b2
+chain verb b2
+chair verb b2
+chairman noun b2
+challenge verb b2
+characteristic adjective b2
+characteristic noun b2
+chart verb b2
+chief adjective b2
+chief noun b2
+circumstance noun b2
+cite verb b2
+citizen noun b2
+civil adjective b2
+classic adjective b2
+classic noun b2
+close noun b2
+closely adverb b2
+collapse noun b2
+collapse verb b2
+combination noun b2
+comfort noun b2
+comfort verb b2
+command noun b2
+command verb b2
+commission noun b2
+commission verb b2
+commitment noun b2
+committee noun b2
+commonly adverb b2
+complex noun b2
+complicated adjective b2
+component noun b2
+concentration noun b2
+concept noun b2
+concern noun b2
+concern verb b2
+concerned adjective b2
+conduct noun b2
+conduct verb b2
+confidence noun b2
+conflict noun b2
+conflict verb b2
+confusing adjective b2
+conscious adjective b2
+conservative adjective b2
+conservative noun b2
+consideration noun b2
+consistent adjective b2
+constant adjective b2
+constantly adverb b2
+construct verb b2
+construction noun b2
+contemporary adjective b2
+contest noun b2
+contest verb b2
+contract noun b2
+contract verb b2
+contribute verb b2
+contribution noun b2
+convert verb b2
+convinced adjective b2
+core adjective b2
+core noun b2
+corporate adjective b2
+council noun b2
+county noun b2
+courage noun b2
+crash noun b2
+crash verb b2
+creation noun b2
+creature noun b2
+credit verb b2
+crew noun b2
+crisis noun b2
+criterion noun b2
+critic noun b2
+critical adjective b2
+criticism noun b2
+criticize verb b2
+crop noun b2
+crucial adjective b2
+cry noun b2
+cure noun b2
+cure verb b2
+current noun b2
+curve noun b2
+curve verb b2
+curved adjective b2
+date verb b2
+debate noun b2
+debate verb b2
+debt noun b2
+decent adjective b2
+declare verb b2
+decline noun b2
+decline verb b2
+decoration noun b2
+decrease noun b2
+decrease verb b2
+deeply adverb b2
+defeat noun b2
+defeat verb b2
+defence noun b2
+defend verb b2
+delay noun b2
+delay verb b2
+deliberate adjective b2
+deliberately adverb b2
+delight noun b2
+delight verb b2
+delighted adjective b2
+delivery noun b2
+demand noun b2
+demand verb b2
+demonstrate verb b2
+deny verb b2
+depressed adjective b2
+depressing adjective b2
+depth noun b2
+desert verb b2
+deserve verb b2
+desire noun b2
+desire verb b2
+desperate adjective b2
+detail verb b2
+detailed adjective b2
+detect verb b2
+dig verb b2
+disc noun b2
+discipline noun b2
+discount verb b2
+dishonest adjective b2
+disk noun b2
+dismiss verb b2
+display noun b2
+display verb b2
+distribute verb b2
+distribution noun b2
+district noun b2
+divide noun b2
+division noun b2
+document verb b2
+domestic adjective b2
+dominate verb b2
+downwards adverb b2
+dozen determiner b2
+dozen noun b2
+draft noun b2
+draft verb b2
+drag verb b2
+dramatic adjective b2
+edit verb b2
+edition noun b2
+efficient adjective b2
+elderly adjective b2
+elect verb b2
+elsewhere adverb b2
+emerge verb b2
+emotional adjective b2
+emphasis noun b2
+emphasize verb b2
+enable verb b2
+encounter noun b2
+encounter verb b2
+engage verb b2
+enhance verb b2
+enquiry noun b2
+ensure verb b2
+enthusiasm noun b2
+enthusiastic adjective b2
+entire adjective b2
+entirely adverb b2
+equal noun b2
+establish verb b2
+estate noun b2
+estimate noun b2
+estimate verb b2
+ethical adjective b2
+evaluate verb b2
+even adjective b2
+evil adjective b2
+evil noun b2
+examination noun b2
+excuse noun b2
+excuse verb b2
+executive adjective b2
+executive noun b2
+existence noun b2
+expectation noun b2
+expense noun b2
+exploration noun b2
+expose verb b2
+extend verb b2
+extent noun b2
+external adjective b2
+extraordinary adjective b2
+extreme noun b2
+facility noun b2
+failure noun b2
+faith noun b2
+fault noun b2
+favour verb b2
+feather noun b2
+fee noun b2
+feed noun b2
+feedback noun b2
+feel noun b2
+fellow adjective b2
+figure verb b2
+file verb b2
+finance noun b2
+finance verb b2
+finding noun b2
+firm noun b2
+fix noun b2
+flame noun b2
+flash noun b2
+flash verb b2
+flexible adjective b2
+float verb b2
+fold noun b2
+folding adjective b2
+following preposition b2
+forgive verb b2
+former adjective b2
+fortune noun b2
+forward adjective b2
+found verb b2
+free verb b2
+freedom noun b2
+frequency noun b2
+fuel verb b2
+fully adverb b2
+function verb b2
+fund noun b2
+fund verb b2
+fundamental adjective b2
+funding noun b2
+furthermore adverb b2
+gain noun b2
+gain verb b2
+gang noun b2
+generate verb b2
+genre noun b2
+govern verb b2
+grab verb b2
+grade verb b2
+gradually adverb b2
+grand adjective b2
+grant noun b2
+grant verb b2
+guarantee noun b2
+guarantee verb b2
+handle noun b2
+handle verb b2
+harm noun b2
+harm verb b2
+harmful adjective b2
+hearing noun b2
+heaven noun b2
+heel noun b2
+hell noun b2
+hesitate verb b2
+high noun b2
+hire noun b2
+hold noun b2
+hollow adjective b2
+holy adjective b2
+honour noun b2
+honour verb b2
+host verb b2
+house verb b2
+household noun b2
+housing noun b2
+humorous adjective b2
+humour noun b2
+hunt noun b2
+hunting noun b2
+hurt noun b2
+ideal noun b2
+illustrate verb b2
+illustration noun b2
+imagination noun b2
+impatient adjective b2
+imply verb b2
+impose verb b2
+impress verb b2
+impressed adjective b2
+inch noun b2
+incident noun b2
+income noun b2
+increasingly adverb b2
+industrial adjective b2
+infection noun b2
+inform verb b2
+initial adjective b2
+initially adverb b2
+initiative noun b2
+inner adjective b2
+inquiry noun b2
+insight noun b2
+insist verb b2
+inspire verb b2
+install verb b2
+instance noun b2
+institute noun b2
+institution noun b2
+insurance noun b2
+intended adjective b2
+intense adjective b2
+internal adjective b2
+interpret verb b2
+interrupt verb b2
+investigation noun b2
+investment noun b2
+issue verb b2
+joy noun b2
+judgement noun b2
+junior adjective b2
+justice noun b2
+justify verb b2
+labour noun b2
+landscape noun b2
+largely adverb b2
+latest noun b2
+launch noun b2
+launch verb b2
+leadership noun b2
+league noun b2
+lean verb b2
+leave noun b2
+level verb b2
+licence noun b2
+limited adjective b2
+line verb b2
+lively adjective b2
+load noun b2
+load verb b2
+loan noun b2
+logical adjective b2
+long-term adjective b2
+long-term adverb b2
+loose adjective b2
+lord noun b2
+low noun b2
+lower verb b2
+lung noun b2
+maintain verb b2
+majority noun b2
+make noun b2
+map verb b2
+mass adjective b2
+mass noun b2
+massive adjective b2
+master noun b2
+master verb b2
+matching adjective b2
+material adjective b2
+maximum adjective b2
+maximum noun b2
+means noun b2
+measurement noun b2
+medium noun b2
+melt verb b2
+military adjective b2
+military noun b2
+mineral noun b2
+minimum adjective b2
+minimum noun b2
+minister noun b2
+minor adjective b2
+minority noun b2
+mission noun b2
+mistake verb b2
+mixed adjective b2
+model verb b2
+modify verb b2
+monitor noun b2
+monitor verb b2
+moral adjective b2
+moral noun b2
+motor adjective b2
+motor noun b2
+mount verb b2
+multiple adjective b2
+multiply verb b2
+mysterious adjective b2
+narrow verb b2
+national noun b2
+neat adjective b2
+negative noun b2
+nerve noun b2
+nevertheless adverb b2
+nightmare noun b2
+notion noun b2
+numerous adjective b2
+obey verb b2
+object verb b2
+objective adjective b2
+objective noun b2
+obligation noun b2
+observation noun b2
+observe verb b2
+obtain verb b2
+occasionally adverb b2
+offence noun b2
+offend verb b2
+offensive adjective b2
+official noun b2
+opening noun b2
+operate verb b2
+opponent noun b2
+oppose verb b2
+opposed adjective b2
+opposition noun b2
+organ noun b2
+origin noun b2
+otherwise adverb b2
+outcome noun b2
+outer adjective b2
+outline noun b2
+outline verb b2
+overall adjective b2
+overall adverb b2
+owe verb b2
+pace noun b2
+pace verb b2
+package verb b2
+panel noun b2
+parliament noun b2
+participant noun b2
+partly adverb b2
+passage noun b2
+patient adjective b2
+pension noun b2
+permanent adjective b2
+permit noun b2
+permit verb b2
+perspective noun b2
+phase noun b2
+phenomenon noun b2
+philosophy noun b2
+pick noun b2
+picture verb b2
+pile noun b2
+pile verb b2
+pitch noun b2
+plain adjective b2
+plot verb b2
+plus adjective b2
+plus conjunction b2
+plus noun b2
+pointed adjective b2
+popularity noun b2
+pose verb b2
+position verb b2
+positive noun b2
+possess verb b2
+potential adjective b2
+potential noun b2
+power verb b2
+praise noun b2
+praise verb b2
+pregnant adjective b2
+preparation noun b2
+presence noun b2
+preserve verb b2
+price verb b2
+prime adjective b2
+principle noun b2
+print noun b2
+priority noun b2
+privacy noun b2
+procedure noun b2
+process verb b2
+produce noun b2
+professional noun b2
+progress verb b2
+project verb b2
+proof noun b2
+proposal noun b2
+propose verb b2
+prospect noun b2
+protection noun b2
+psychologist noun b2
+psychology noun b2
+publication noun b2
+pupil noun b2
+purchase noun b2
+purchase verb b2
+pure adjective b2
+pursue verb b2
+range verb b2
+rank noun b2
+rank verb b2
+rapid adjective b2
+rapidly adverb b2
+rate verb b2
+raw adjective b2
+reach noun b2
+realistic adjective b2
+reasonable adjective b2
+recall verb b2
+recover verb b2
+reduction noun b2
+regard noun b2
+regard verb b2
+regional adjective b2
+register noun b2
+register verb b2
+regret noun b2
+regret verb b2
+regulation noun b2
+relatively adverb b2
+relevant adjective b2
+relief noun b2
+rely verb b2
+remark noun b2
+remark verb b2
+representative adjective b2
+representative noun b2
+reputation noun b2
+requirement noun b2
+rescue noun b2
+rescue verb b2
+reserve noun b2
+reserve verb b2
+resident adjective b2
+resident noun b2
+resist verb b2
+resolve verb b2
+resort noun b2
+retain verb b2
+reveal verb b2
+revolution noun b2
+reward noun b2
+reward verb b2
+rhythm noun b2
+rid verb b2
+root noun b2
+round noun b2
+routine adjective b2
+rub verb b2
+rubber adjective b2
+rubber noun b2
+rural adjective b2
+rush noun b2
+rush verb b2
+sample verb b2
+satellite noun b2
+satisfied adjective b2
+satisfy verb b2
+saving noun b2
+scale noun b2
+schedule verb b2
+scheme noun b2
+scream noun b2
+scream verb b2
+screen verb b2
+seat verb b2
+sector noun b2
+secure adjective b2
+secure verb b2
+seek verb b2
+select verb b2
+selection noun b2
+self noun b2
+senior adjective b2
+sense verb b2
+sensitive adjective b2
+sentence verb b2
+sequence noun b2
+session noun b2
+settle verb b2
+severe adjective b2
+shade noun b2
+shadow noun b2
+shallow adjective b2
+shame noun b2
+shape verb b2
+shelter noun b2
+shelter verb b2
+shift verb b2
+ship verb b2
+shock noun b2
+shock verb b2
+shocked adjective b2
+shooting noun b2
+shot noun b2
+significant adjective b2
+significantly adverb b2
+silence noun b2
+silk noun b2
+sincere adjective b2
+slave noun b2
+slide noun b2
+slide verb b2
+slight adjective b2
+slip verb b2
+slope noun b2
+slope verb b2
+solar adjective b2
+somewhat adverb b2
+soul noun b2
+specialist adjective b2
+specialist noun b2
+species noun b2
+speed verb b2
+spiritual adjective b2
+split noun b2
+split verb b2
+sponsor noun b2
+sponsor verb b2
+spot verb b2
+spread noun b2
+spring verb b2
+stable adjective b2
+stage verb b2
+stand noun b2
+stare verb b2
+status noun b2
+steady adjective b2
+steel noun b2
+steep adjective b2
+step verb b2
+sticky adjective b2
+stiff adjective b2
+stock noun b2
+stream noun b2
+stretch noun b2
+stretch verb b2
+strict adjective b2
+strike noun b2
+strike verb b2
+structure verb b2
+struggle noun b2
+struggle verb b2
+stuff verb b2
+subject adjective b2
+submit verb b2
+sum noun b2
+sum verb b2
+surgery noun b2
+surround verb b2
+surrounding adjective b2
+survey verb b2
+suspect noun b2
+suspect verb b2
+swear verb b2
+sweep verb b2
+switch noun b2
+sympathy noun b2
+tale noun b2
+tank noun b2
+target verb b2
+tear noun b2
+tear verb b2
+temporary adjective b2
+term verb b2
+therapy noun b2
+threat noun b2
+threaten verb b2
+thus adverb b2
+time verb b2
+title verb b2
+tone noun b2
+tough adjective b2
+track verb b2
+transfer noun b2
+transfer verb b2
+transform verb b2
+transition noun b2
+trial noun b2
+trip verb b2
+tropical adjective b2
+trouble verb b2
+truly adverb b2
+trust noun b2
+trust verb b2
+try noun b2
+tune noun b2
+tunnel noun b2
+ultimately adverb b2
+unconscious adjective b2
+unexpected adjective b2
+unique adjective b2
+universe noun b2
+unknown adjective b2
+upper adjective b2
+upwards adverb b2
+urban adjective b2
+urge verb b2
+value verb b2
+vary verb b2
+vast adjective b2
+venue noun b2
+very adjective b2
+via preposition b2
+victory noun b2
+violence noun b2
+virtual adjective b2
+vision noun b2
+visual adjective b2
+vital adjective b2
+vitamin noun b2
+volume noun b2
+wage noun b2
+way adverb b2
+weakness noun b2
+wealth noun b2
+wealthy adjective b2
+whereas conjunction b2
+wherever conjunction b2
+whisper noun b2
+whisper verb b2
+whom pronoun b2
+widely adverb b2
+wildlife noun b2
+willing adjective b2
+wind verb b2
+wire noun b2
+wise adjective b2
+witness noun b2
+witness verb b2
+worse noun b2
+worst noun b2
+worth noun b2
+wound noun b2
+wound verb b2
+wrap verb b2
+wrong noun b2
+yet conjunction b2
+zone noun b2
+a bit a2
+a bit more b1
+a bit of a… b2
+a bit of sth b1
+a couple of sth a2
+a few a1
+a good idea a1
+a great deal b1
+a kind of... b1
+a little a1
+a little bit b1
+a little more b1
+a long time ago a2
+a long way a2
+a lot a1
+a lot more b1
+a lot of sth a1
+a means of sth b2
+a number of sth a2
+a period of time a1
+a range of sth b1
+a variety of sth b1
+able to do sth a2
+above all c1
+access to sth b1
+account for sth b2
+accused of sth b2
+act as sth b2
+add to sth a2
+after all b1
+again and again a2
+agree with sb a1
+aim to do sth b1
+aimed at doing sth b2
+aimed at sb b2
+all about… a2
+all but c1
+all day a1
+all kinds of… a2
+all over the world a1
+all over… a2
+all sorts of… a2
+all the more c1
+all the time a2
+all the way b2
+along with sb/sth b1
+alternative to sth b1
+and so on b1
+anything else a1
+apart from apart from b1
+appeal to sb b2
+apply for sth a2
+apply to sb/sth b2
+around the world a1
+arrive at… a1
+arrive in… a1
+art gallery a2
+as a result a2
+as a whole b2
+as far as I am concerned b2
+as far as sb/sth is concerned c1
+as follows… b2
+as for sb/sth b2
+as if… b1
+as long as… b2
+as much as b1
+as of… c1
+as opposed to c1
+as part of sth a2
+as soon as a2
+as soon as possible b1
+as such c1
+as though… b2
+as to c1
+as well a2
+ask for sth a1
+associated with sth b2
+at first a2
+at home a1
+at last b1
+at least a2
+at once b2
+at present b2
+at risk b1
+at school a1
+at some point b2
+at the age of… a2
+at the beginning of sth a1
+at the end a1
+at the end of sth a1
+at the end of the day b2
+at the expense of sb/sth c1
+at the hands of sb c1
+at the moment a1
+at the same time a1
+at the start of sth a2
+at the time a2
+at the time of sth a2
+at the top a2
+at the weekend a1
+at this point b2
+at this stage b2
+at times b1
+at university a1
+at work a1
+attached to sb/sth b1
+awareness of sth b2
+away from sb/sth a1
+back and forth c1
+back sb/sth up b2
+bad for sb/sth a1
+bad news a1
+bad thing a1
+based on sth a2
+be about to do sth b1
+be allowed to do sth a2
+be attributed to sb c1
+be charged with sth b2
+be derived from sth b2
+be entitled to sth c1
+be expected to do sth b2
+be found to do sth c1
+be going on b1
+be going to do sth a1
+be known as sb/sth b1
+be known to do sth b2
+be made of sth a2
+be made up of sth b2
+be meant to do sth c1
+be reported to be sth c1
+be said to be sth c1
+be supposed to do sth b1
+be surrounded by sb/sth b2
+be to blame b2
+bear sb/sth in mind c1
+because of a1
+begin with sth a1
+believe in sb/sth a2
+belong to sb a2
+belong to sth a2
+benefit from sth b1
+best friend a1
+black and white a1
+both sides b2
+bound to do sth b2
+break up break up b1
+bring sb up b2
+bring sth about c1
+bring sth up c1
+by means of sth c1
+by no means c1
+by now b2
+by the end of sth a2
+by the time (that)… b1
+call for sth b2
+call on sb c1
+can't afford sth b1
+car park a1
+care about sth a2
+care for sb b1
+carry on carry on a2
+carry sth out a2
+case study case study b2
+caused by sth b1
+cell phone cell phone a1
+check in check in a2
+check out a2
+check sb/sth out b1
+choose to do sth b1
+city centre a1
+clean up b1
+click on sth b1
+climate change climate change a2
+close to sb/sth a2
+come across sb/sth b2
+come back come back a2
+come from… a1
+come into sth a1
+Come on! a2
+come true b2
+come up with sth b1
+compared with sth b1
+concentrate on sth b1
+concerned about sth b2
+concerned with sth b2
+confidence in sb/sth b2
+connected to sth a2
+connected with sb/sth a2
+consist of sb/sth b1
+consistent with sth c1
+contribute to sth b2
+control over sb/sth b2
+cope with sth b2
+credit card credit card a2
+deal with sb a2
+deal with sth a2
+decide on sth b1
+decline in sth b2
+dedicated to sth c1
+depend on sb/sth a2
+depend on sth a2
+dependent on sb/sth b2
+depending on b1
+deprive sb/sth of sth c1
+despite the fact that… b2
+developing countries b1
+differences between A and B a1
+difficult for sb a1
+dispose of sb/sth c1
+do well a2
+draw attention to sb/sth b2
+due to sb/sth b1
+each one a2
+each other each other a1
+economic growth b1
+end in sth a1
+end up end up b1
+end with sth a2
+engage in sth b2
+engaged in sth b2
+even if b1
+even more… a2
+even though b1
+ever since b2
+every day a1
+everyone else a2
+exactly the same b1
+except for a2
+excuse me a1
+experience in sth b1
+exposure to sth b2
+fail to do sth b1
+fall asleep b1
+fall in love a2
+fall off a2
+family member a1
+far away a2
+far from sth b2
+far more b1
+far too b1
+fed up fed up b1
+feel good a2
+feel like sth a2
+figure sb/sth out b2
+fill sth in a2
+find it difficult to do sth a2
+find out find out a1
+find yourself doing sth b2
+first of all a2
+focus on sb/sth a2
+follow sth up c1
+followed by sb/sth a2
+for a long time a1
+for a moment a1
+for a while b1
+for example a1
+for free b1
+for instance b1
+for life b1
+for long b1
+for lunch a1
+for many years a1
+for some time b1
+for that matter c1
+for the benefit of sb c1
+for the first time a1
+for the rest of sth a2
+for the sake of sb/sth c1
+for this reason a2
+get away with sth c1
+get back get back a2
+get better a2
+get home a1
+get in get in b2
+get lost a2
+get married a1
+get off a1
+get on a1
+get on with sb b1
+get out a2
+get over sb/sth b2
+get ready a1
+get rid of sb/sth b2
+get there a1
+get to know sb b1
+get to… a1
+get up get up a1
+get used to sth b1
+give sth up a2
+give up give up a2
+given that… c1
+global warming global warming b1
+go ahead go ahead b1
+go and… a2
+go away go away a2
+go back a1
+go down go down a2
+go down sth a2
+go for sth a2
+go home a1
+go into sth a1
+go off go off b2
+go on to do sth b2
+go out go out a1
+go through sth b2
+go to bed a1
+go to school a1
+go to work a1
+go up go up a2
+go wrong b1
+good at sth a1
+good for sb/sth a1
+good luck a2
+Good morning a1
+good news a1
+good thing a1
+grow up grow up a1
+growth in sth b1
+Guess what… a1
+had better b2
+half an hour a1
+hang on hang on b2
+happen to sb/sth a2
+happy with sb/sth a2
+hard work a1
+have a look a2
+have fun a1
+have got a1
+have got to a2
+have no idea b1
+have nothing to do with sb/sth c1
+have sb/sth in mind c1
+have sth in common b1
+have time a1
+Have you ever…? a2
+he or she a1
+health problems a2
+hear about sb/sth a2
+hear of sb/sth b1
+heart disease b1
+high school high school a1
+high street high street b1
+higher education higher education b1
+his or her a1
+How about…? a1
+How are you? a1
+How long…? a1
+How many…? a1
+How much…? a1
+How often…? a1
+human being b2
+human rights b2
+I don't care a2
+I guess a2
+I have to say… b2
+I mean a2
+I think so a2
+I wonder if… b1
+I would say… b2
+I'm afraid… a2
+I'm sorry a1
+If I were you b1
+if necessary a2
+if only… b2
+if you want to a2
+important for sb/sth a1
+in a position to do sth c1
+in a way that… b1
+in accordance with sth c1
+in action b2
+in addition b1
+in advance b2
+in an attempt to do sth b2
+in any case c1
+in April a1
+in bed a1
+in business a2
+in case… b1
+in charge of sb/sth b1
+in class a1
+in conjunction with sb/sth c1
+in connection with sb/sth c1
+in contrast b1
+in danger a2
+in effect c1
+in fact a1
+in favour of sb/sth b1
+in front of a1
+in full c1
+in general b1
+in history a2
+in hospital a2
+in line with sth c1
+in love a2
+in my opinion a1
+in order of sth b1
+in order to do sth b1
+in other words b1
+in part b2
+in particular b1
+in place b2
+in practice c1
+in prison a2
+in public b1
+in recent years b1
+in relation to sb/sth b2
+in respect of sth c1
+in response to sth b1
+in school a1
+in some cases a2
+in space a1
+in spite of sth b2
+in such a way (that)… c1
+in summer a1
+in terms of sth b1
+in the absence of sb/sth c1
+in the air a2
+in the case of sth b1
+in the centre a1
+in the country a1
+in the course of… c1
+in the end a2
+in the event of sth c1
+in the face of sth c1
+in the first place b2
+in the form of sb/sth b1
+in the future a1
+in the hands of sb c1
+in the light of sth c1
+in the meantime c1
+in the middle a2
+in the midst of sth c1
+in the morning a1
+in the near future b2
+in the north a1
+in the past a1
+in the presence of sb c1
+in the same way a2
+in the street a1
+in the summer a1
+in the wake of sb/sth c1
+in the way (that)… b1
+in this case b1
+in this way a2
+in time b1
+in touch b1
+in town a1
+in turn b2
+instead of instead of a2
+investment in sth b2
+involvement in sth c1
+it depends a2
+It is important to do sth a1
+It takes … a1
+kind of sb/sth a1
+know how a1
+last time a1
+last year a1
+lead to sth a2
+learn how to do sth a1
+leave sb/sth out b1
+less than… a2
+let alone c1
+let me know a2
+Let me… a2
+likely to do sth b1
+listen to sb/sth a1
+little more than… c1
+live on sth c1
+live with sb a1
+living room living room a1
+loads of sb/sth b2
+look after sb/sth/yourself a2
+look at sb/sth a1
+look back at sth a2
+look for sb/sth a1
+look forward to sth b1
+look like sb/sth a1
+look out look out b1
+look sth up a2
+lots of… a1
+make a difference b1
+make a mistake a2
+make money a2
+make sense a2
+make sth up b1
+make sure a2
+manage to do sth b1
+may well c1
+mean to do sth b1
+mental health mental health b2
+millions of… a1
+mobile phone mobile phone a1
+more and more b1
+more or less b2
+more than… a1
+move on move on b1
+much better a2
+next time a1
+next year a1
+no doubt b2
+no longer b1
+no matter… b2
+no more than… b1
+No problem a1
+no way a2
+not at all a2
+not even b1
+not necessarily b1
+not only b1
+not to mention c1
+nothing but b2
+nothing like c1
+of course a1
+Oh dear a2
+Oh no! a1
+Oh well a2
+Oh yes a1
+old friend a2
+on a regular basis b1
+on behalf of sb c1
+on board b2
+on earth a2
+on holiday a1
+on Monday a1
+on my own b1
+on television a1
+on the basis of sth b2
+on the beach a1
+on the floor a1
+on the ground a2
+on the internet a1
+on the left a1
+on the one hand b2
+on the other hand b1
+on the other side a2
+on the part of sb c1
+on the phone a1
+on the street b1
+on the wall a2
+on the way b1
+on time a2
+on top of sth/sb a2
+on TV a1
+once a… a1
+once again b2
+one another one another b2
+one day a1
+one or two a2
+opposed to sth b2
+or so b2
+or something b1
+or two b1
+ordinary people a2
+other than b2
+ought to ought to b1
+out of sth a1
+out there b1
+over the course of… c1
+over the years b1
+over there a1
+over time b1
+participate in sth b1
+pay attention a2
+pay for sth a1
+per hour a2
+phone call a1
+phone number a1
+pick sb/sth up a2
+plan for sth a1
+play with sb/sth a1
+point of view point of view b1
+point out b1
+police officer police officer a2
+police station police station a2
+post office post office a1
+potential for sth b2
+prepared to do sth b1
+pretty good a1
+pretty much b2
+primary school primary school b1
+prime minister prime minister b1
+prior to b2
+prove to be sth b2
+public transport public transport a2
+put it c1
+put sth forward b2
+put sth on a2
+put sth together b2
+put sth up b1
+quality of life quality of life b2
+quite a lot a2
+quite a… b1
+raise money b1
+ranging from b2
+rather than b1
+reaction to sth b1
+really enjoy a1
+really good a1
+really like a1
+reasons why a2
+refer to sb/sth a2
+regarded as sth b2
+relate to sth/sb b1
+related to sth/sb b1
+relevant to sb/sth b2
+rely on sb/sth b2
+report on sth a2
+respect for sb/sth b1
+respond to sth/sb a2
+result in sth b1
+right now a1
+rise in sth b1
+role model role model b2
+run out run out b1
+run out of sth b1
+save money a2
+science fiction science fiction a2
+search engine search engine b1
+search for sth/sb a2
+secondary school secondary school b1
+See you a1
+seek to do sth c1
+set out set out b2
+set sth up b1
+set to do sth c1
+short of sth b2
+sit down sit down a1
+slow down b1
+so as to do sth b2
+so far b1
+so that… a2
+solution to sth a2
+some kind of… b1
+someone else a1
+something like… b2
+sort of sth a2
+sort sb/sth/yourself out b2
+sound like sb/sth a2
+speak to sb a1
+spend time a1
+stand up stand up a1
+start with sb/sth a2
+stay in a1
+stick to sth b2
+subject to sth b2
+succeed in doing sth b1
+such a/an… a2
+such as a1
+suffer from sth b1
+sum up sum up b2
+sure to do sth b1
+swimming pool swimming pool a1
+take advantage of sb/sth b2
+take care of sb/sth/yourself a2
+take off take off a2
+take over b2
+take part a2
+take place a2
+take sth into account b2
+take sth off a2
+take sth up b1
+take sth/sb on b1
+take up sth b1
+talk about sb/sth a1
+tell the truth b1
+tend to do sth b1
+Thank you a1
+thanks to sb/sth b1
+that day a1
+that is b2
+that's it b1
+the 20th century a1
+the best thing a2
+the case b1
+the extent to which… c1
+the fact that… b1
+the first thing a2
+the following… a2
+the important thing a2
+the next day a1
+the other side of sth a2
+the rest of sth a2
+the vast majority of sth b2
+there is a1
+these days a2
+they say… a2
+think about sb/sth a1
+think of sb/sth a1
+This is… a1
+this kind of… a1
+this morning a1
+this time a1
+this year a1
+those who… b1
+thousands of… a1
+throw sth away a2
+to date c1
+to do with sb/sth b1
+together with b1
+too bad b1
+too long a1
+too much a1
+town centre town centre a1
+try and… b1
+turn into sth b2
+turn out turn out b1
+turn sth off a2
+turn sth on a2
+turn sth up b1
+TV show a1
+unable to do sth b1
+up against sth c1
+up and down a2
+up to sb b2
+up to sth b1
+wait for sb/sth a1
+wake up wake up a1
+way of life b1
+welcome to sth a1
+well known well known b1
+What about…? a1
+when it comes to sth b2
+whether or not… b2
+Why not…? a2
+with regard to sb/sth c1
+with respect to sth c1
+with the exception of sb/sth c1
+work as sth a1
+work for sb/sth a1
+work hard a1
+work on sth b1
+work out work out a2
+work sth out b1
+work together a1
+work with sb a1
+worried about sb/sth a2
+would like a1
+would love to do sth a2
+would rather… b2
+Would you like…? a1
+write sth down a2
+wrong with sb/sth b1
+X hours a day a1
+X times a… a1
+X years ago a1
+X years later a1
+X years old a1
+you see b1
+You're welcome a1
