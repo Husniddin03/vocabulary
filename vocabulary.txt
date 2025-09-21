@@ -1058,3 +1058,957 @@ you - pronoun - a1 - sen/siz - olmosh - You are my friend. - Sen mening do‘sti
 young - adjective - a1 - yosh - sifat - He is a young boy. - U yosh bola.  
 your - determiner - a1 - sening/sizning - aniqlovchi - Your book is on the table. - Sizning kitobingiz stol ustida.  
 yourself - pronoun - a1 - o‘zingiz - olmosh - Take care of yourself. - O‘zingizga qarang.  
+
+ability - noun - a2 - qobiliyat - ot - She has the ability to learn quickly. - U tez o‘rganish qobiliyatiga ega.
+able - adjective - a2 - qodir, imkoniyatli - sifat - He is able to swim. - U suza oladi.
+abroad - adverb - a2 - chet elda - ravish - She studied abroad. - U chet elda o‘qidi.
+accept - verb - a2 - qabul qilmoq - fel - I accept your invitation. - Taklifingizni qabul qilaman.
+accident - noun - a2 - baxtsiz hodisa - ot - He had a car accident. - U avtohalokatga uchradi.
+according to - preposition - a2 - ga ko‘ra - prielog - According to the news, it will rain. - Yangiliklarga ko‘ra, yomg‘ir yog‘adi.
+achieve - verb - a2 - erishmoq - fel - She achieved her goal. - U maqsadiga erishdi.
+act - verb - a2 - harakat qilmoq, rol o‘ynamoq - fel - He acted in a play. - U spektaklda rol o‘ynadi.
+active - adjective - a2 - faol - sifat - She is very active. - U juda faol.
+actually - adverb - a2 - aslida - ravish - Actually, I don’t like coffee. - Aslida, men qahvani yoqtirmayman.
+adult - adjective - a2 - kattalar uchun - sifat - This film is for adult viewers. - Bu film kattalar uchun.
+advantage - noun - a2 - afzallik - ot - English gives you an advantage. - Ingliz tili sizga afzallik beradi.
+adventure - noun - a2 - sarguzasht - ot - We had an adventure in the mountains. - Tog‘da sarguzasht bo‘ldi.
+advertise - verb - a2 - reklama qilmoq - fel - They advertise new products on TV. - Ular yangi mahsulotlarni TVda reklama qilishadi.
+advertisement - noun - a2 - reklama - ot - I saw an advertisement for a new phone. - Men yangi telefon uchun reklamani ko‘rdim.
+advertising - noun - a2 - reklama (soha) - ot - She works in advertising. - U reklama sohasida ishlaydi.
+affect - verb - a2 - ta’sir qilmoq - fel - The weather affects my mood. - Ob-havo kayfiyatimga ta’sir qiladi.
+after - adverb - a2 - keyin - ravish - I’ll call you after. - Keyinroq qo‘ng‘iroq qilaman.
+after - conjunction - a2 - ...dan keyin - bog‘lovchi - We went home after we ate. - Ovqatlanganimizdan keyin uyga ketdik.
+against - preposition - a2 - ga qarshi - prielog - They played against us. - Ular bizga qarshi o‘ynashdi.
+ah - exclamation - a2 - ah, voy - undov - Ah, now I understand! - Ah, endi tushundim!
+airline - noun - a2 - aviakompaniya - ot - Which airline did you fly with? - Qaysi aviakompaniya bilan uchdingiz?
+alive - adjective - a2 - tirik - sifat - The fish is still alive. - Baliq hali tirik.
+all - adverb - a2 - butunlay, to‘liq - ravish - The work is all done. - Ish butunlay bajarildi.
+all right - adjective - a2 - yaxshi, joyida - sifat - Are you all right? - Yaxshimisiz?
+all right - adverb - a2 - yaxshi, mayli - ravish - All right, I’ll help you. - Mayli, sizga yordam beraman.
+all right - exclamation - a2 - yaxshi, mayli - undov - All right! Let’s go! - Mayli! Ketdik!
+allow - verb - a2 - ruxsat bermoq - fel - My parents allow me to go out. - Ota-onam tashqariga chiqishga ruxsat berishadi.
+almost - adverb - a2 - deyarli - ravish - I almost finished my homework. - Uy vazifamni deyarli tugatdim.
+alone - adjective - a2 - yolg‘iz - sifat - He is alone at home. - U uyda yolg‘iz.
+alone - adverb - a2 - yolg‘iz holda - ravish - She lives alone. - U yolg‘iz yashaydi.
+along - adverb - a2 - bo‘ylab - ravish - We walked along. - Biz bo‘ylab yurdik.
+along - preposition - a2 - bo‘ylab - prielog - Walk along the river. - Daryo bo‘ylab yuring.
+already - adverb - a2 - allaqachon - ravish - I have already eaten. - Men allaqachon ovqatlandim.
+alternative - noun - a2 - muqobil - ot - Is there an alternative? - Muqobil variant bormi?
+although - conjunction - a2 - garchi - bog‘lovchi - Although it rained, we went out. - Garchi yomg‘ir yog‘sa ham, tashqariga chiqdik.
+among - preposition - a2 - orasida - prielog - She is popular among students. - U talabalar orasida mashhur.
+amount - noun - a2 - miqdor - ot - What amount do you need? - Qancha miqdor kerak?
+ancient - adjective - a2 - qadimiy - sifat - Samarkand is an ancient city. - Samarqand qadimiy shahar.
+ankle - noun - a2 - to‘piq - ot - I hurt my ankle. - To‘pig‘imni jarohatladim.
+any - adverb - a2 - umuman, hech - ravish - I don’t have any. - Menda umuman yo‘q.
+any more - adverb - a2 - endi, bundan buyon - ravish - I don’t live there any more. - Men endi u yerda yashamayman.
+anybody - pronoun - a2 - kimdir, hech kim - olmosh - Anybody can answer. - Kimdir javob bera oladi.
+anyway - adverb - a2 - baribir - ravish - Anyway, let’s start. - Baribir, boshlaylik.
+anywhere - adverb - a2 - hech qayerda, istalgan joyda - ravish - I can’t find it anywhere. - Uni hech qayerda topolmadim.
+anywhere - pronoun - a2 - istalgan joy - olmosh - You can sit anywhere. - Istalgan joyda o‘tirsangiz bo‘ladi.
+app - noun - a2 - ilova - ot - I downloaded a new app. - Men yangi ilova yuklab oldim.
+appear - verb - a2 - paydo bo‘lmoq - fel - A rainbow appeared. - Kamalak paydo bo‘ldi.
+appearance - noun - a2 - tashqi ko‘rinish - ot - Her appearance is neat. - Uning tashqi ko‘rinishi ozoda.
+apply - verb - a2 - ariza bermoq, murojaat qilmoq - fel - I want to apply for a job. - Ishga ariza bermoqchiman.
+architect - noun - a2 - me’mor - ot - He is an architect. - U me’mor.
+architecture - noun - a2 - me’morchilik - ot - I study architecture. - Men me’morchilik o‘qiyman.
+argue - verb - a2 - bahslashmoq - fel - They often argue. - Ular tez-tez bahslashishadi.
+argument - noun - a2 - bahs, tortishuv - ot - We had an argument. - Bizda bahs bo‘ldi.
+army - noun - a2 - armiya - ot - He joined the army. - U armiyaga qo‘shildi.
+arrange - verb - a2 - tashkil qilmoq, rejalashtirmoq - fel - I will arrange a meeting. - Men uchrashuv tashkil qilaman.
+arrangement - noun - a2 - kelishuv, reja - ot - We made an arrangement. - Biz kelishuvga erishdik.
+as - adverb - a2 - kabi, ...dek - ravish - She works as hard as me. - U men kabi qattiq ishlaydi.
+as - conjunction - a2 - chunki, ...paytda - bog‘lovchi - As I was leaving, he arrived. - Men ketayotganimda, u keldi.
+asleep - adjective - a2 - uxlayotgan - sifat - The baby is asleep. - Chaqaloq uxlayapti.
+assistant - adjective - a2 - yordamchi - sifat - She is an assistant manager. - U yordamchi menejer.
+assistant - noun - a2 - yordamchi - ot - The shop assistant is friendly. - Do‘kon yordamchisi do‘stona.
+athlete - noun - a2 - sportchi - ot - He is a famous athlete. - U mashhur sportchi.
+attack - noun - a2 - hujum - ot - The attack was sudden. - Hujum kutilmagan edi.
+attack - verb - a2 - hujum qilmoq - fel - The dog attacked me. - It menga hujum qildi.
+attend - verb - a2 - qatnashmoq - fel - I attend English classes. - Men ingliz tili darslariga qatnayman.
+attention - exclamation - a2 - diqqat! - undov - Attention! Please listen. - Diqqat! Iltimos, tinglang.
+attention - noun - a2 - e’tibor - ot - Pay attention to the teacher. - O‘qituvchiga e’tibor bering.
+attractive - adjective - a2 - jozibali - sifat - She is very attractive. - U juda jozibali.
+audience - noun - a2 - tomoshabinlar - ot - The audience clapped. - Tomoshabinlar qarsak chalishdi.
+author - noun - a2 - muallif, yozuvchi - ot - Who is the author of this book? - Bu kitobning muallifi kim?
+available - adjective - a2 - mavjud, bo‘sh - sifat - The room is available. - Xona bo‘sh.
+average - adjective - a2 - o‘rtacha - sifat - The average score is 70. - O‘rtacha ball 70.
+average - noun - a2 - o‘rtacha miqdor - ot - My average is high. - Mening o‘rtacha ko‘rsatkichim yuqori.
+avoid - verb - a2 - oldini olmoq, chetlab o‘tmoq - fel - Avoid eating junk food. - Zararli ovqatdan chetlab o‘ting.
+award - noun - a2 - mukofot - ot - She won an award. - U mukofot oldi.
+awful - adjective - a2 - dahshatli, juda yomon - sifat - The weather is awful. - Ob-havo juda yomon.
+back - adjective - a2 - orqa - sifat - The back door is open. - Orqa eshik ochiq.
+background - noun - a2 - orqa fon, kelib chiqish - ot - The background is blue. - Orqa fon ko‘k rangda.
+badly - adverb - a2 - yomon, og‘ir - ravish - He sings badly. - U yomon kuylaydi.
+bar - noun - a2 - bar, panjara - ot - We met at a bar. - Biz bar’da uchrashdik.
+baseball - noun - a2 - beysbol - ot - He plays baseball. - U beysbol o‘ynaydi.
+based - adjective - a2 - asoslangan - sifat - The film is based on a true story. - Film haqiqiy voqeaga asoslangan.
+basketball - noun - a2 - basketbol - ot - I like basketball. - Men basketbolni yaxshi ko‘raman.
+bean - noun - a2 - loviya - ot - I eat beans for lunch. - Men tushlikda loviya yeyman.
+bear - noun - a2 - ayiq - ot - The bear is big. - Ayiq katta.
+beat - verb - a2 - urmoq, yengmoq - fel - Our team beat theirs. - Bizning jamoamiz ularni yendi.
+beef - noun - a2 - mol go‘shti - ot - I like beef steak. - Men mol go‘shtidan bifshteksni yaxshi ko‘raman.
+before - adverb - a2 - oldin - ravish - I have seen it before. - Men buni ilgari ko‘rganman.
+before - conjunction - a2 - ...dan oldin - bog‘lovchi - Wash your hands before you eat. - Ovqatdan oldin qo‘llaringizni yuving.
+behave - verb - a2 - o‘zini tutmoq - fel - Please behave well. - Iltimos, o‘zingizni yaxshi tuting.
+behaviour - noun - a2 - xulq, odob - ot - His behaviour is good. - Uning xulqi yaxshi.
+belong - verb - a2 - tegishli bo‘lmoq - fel - This book belongs to me. - Bu kitob menga tegishli.
+belt - noun - a2 - kamar - ot - My belt is black. - Mening kamarim qora.
+benefit - noun - a2 - foyda - ot - Exercise has many benefits. - Mashq qilishning ko‘p foydasi bor.
+best - adverb - a2 - eng yaxshi tarzda - ravish - She sings best. - U eng yaxshi kuylaydi.
+best - noun - a2 - eng yaxshisi - ot - This is the best of all. - Bu hammasidan eng yaxshisi.
+better - adverb - a2 - yaxshiroq tarzda - ravish - He speaks English better. - U ingliz tilida yaxshiroq gapiradi.
+between - adverb - a2 - orada - ravish - There is a break between lessons. - Darslar orada tanaffus bor.
+billion - number - a2 - milliard - son - There are seven billion people. - Yetti milliard odam bor.
+bin - noun - a2 - axlat qutisi - ot - Throw it in the bin. - Uni axlat qutisiga tashlang.
+biology - noun - a2 - biologiya - ot - I study biology. - Men biologiya o‘qiyman.
+birth - noun - a2 - tug‘ilish - ot - My birth was in May. - Men may oyida tug‘ilganman.
+biscuit - noun - a2 - pechenye - ot - I like chocolate biscuits. - Men shokoladli pechenyeni yaxshi ko‘raman.
+bit - noun - a2 - bo‘lak, ozgina - ot - Give me a bit of cake. - Menga bir oz tort bering.
+blank - adjective - a2 - bo‘sh - sifat - Fill in the blank space. - Bo‘sh joyni to‘ldiring.
+blank - noun - a2 - bo‘sh joy - ot - Write your name in the blank. - Bo‘sh joyga ismingizni yozing.
+blood - noun - a2 - qon - ot - Blood is red. - Qon qizil.
+blow - verb - a2 - puflamoq, esmoq - fel - The wind blows hard. - Shamol kuchli esadi.
+board - noun - a2 - doska, taxta - ot - Write on the board. - Doskaga yozing.
+boil - verb - a2 - qaynamoq - fel - Boil the water. - Suvni qaynatib oling.
+bone - noun - a2 - suyak - ot - The dog chews a bone. - It suyak chaynaydi.
+book - verb - a2 - buyurtma qilmoq, band qilmoq - fel - I want to book a room. - Men xona band qilmoqchiman.
+borrow - verb - a2 - qarzga olmoq - fel - Can I borrow your pen? - Ruchkangizni qarzga olsam bo‘ladimi?
+boss - noun - a2 - boshliq - ot - My boss is strict. - Mening boshlig‘im talabchan.
+bottom - adjective - a2 - pastki, eng quyi - sifat - The bottom shelf is empty. - Pastki javon bo‘sh.
+bottom - noun - a2 - pastki qism - ot - The ball is at the bottom of the box. - To‘p qutining pastki qismida.
+bowl - noun - a2 - kosa - ot - I ate a bowl of soup. - Men bir kosa sho‘rva yedim.
+brain - noun - a2 - miya - ot - The brain controls the body. - Miya tanani boshqaradi.
+bridge - noun - a2 - ko‘prik - ot - We crossed the bridge. - Biz ko‘prikdan o‘tdik.
+bright - adjective - a2 - yorqin - sifat - The sun is bright. - Quyosh yorqin.
+brilliant - adjective - a2 - ajoyib, zo‘r - sifat - She had a brilliant idea. - Uning ajoyib g‘oyasi bor edi.
+broken - adjective - a2 - singan, buzilgan - sifat - The window is broken. - Deraza singan.
+brush - noun - a2 - cho‘tka - ot - I need a new brush. - Menga yangi cho‘tka kerak.
+brush - verb - a2 - cho‘tkalamoq - fel - Brush your teeth. - Tishlaringizni cho‘tkalang.
+burn - verb - a2 - yonmoq, kuydirmoq - fel - The fire burns. - Olov yonmoqda.
+businessman - noun - a2 - tadbirkor - ot - He is a successful businessman. - U muvaffaqiyatli tadbirkor.
+button - noun - a2 - tugma - ot - Press the button. - Tugmani bosing.
+camp - noun - a2 - lager, oromgoh - ot - We stayed at a camp. - Biz lagerda turdik.
+camp - verb - a2 - lagerda yashamoq - fel - We camped in the forest. - Biz o‘rmonda lagerda yashadik.
+camping - noun - a2 - lagerda yashash - ot - Camping is fun. - Lagerda yashash maroqli.
+can - noun - a2 - banka (idish) - ot - I bought a can of cola. - Men bir banka kola sotib oldim.
+care - noun - a2 - g‘amxo‘rlik, parvarish - ot - She takes care of her cat. - U mushugiga g‘amxo‘rlik qiladi.
+care - verb - a2 - g‘amxo‘rlik qilmoq - fel - I care about my friends. - Men do‘stlarimga g‘amxo‘rlik qilaman.
+careful - adjective - a2 - ehtiyotkor - sifat - Be careful with the glass. - Shishani ehtiyotkorlik bilan ushla.
+carefully - adverb - a2 - ehtiyotkorlik bilan - ravish - Read the instructions carefully. - Ko‘rsatmalarni ehtiyotkorlik bilan o‘qing.
+carpet - noun - a2 - gilam - ot - There is a carpet in the living room. - Zalga gilam to‘shalgan.
+cartoon - noun - a2 - multfilm - ot - My brother likes watching cartoons. - Ukam multfilm ko‘rishni yaxshi ko‘radi.
+case - noun - a2 - holat, quti - ot - In this case, you are right. - Bu holatda siz haqingiz.
+cash - noun - a2 - naqd pul - ot - I paid in cash. - Men naqd pulda to‘ladim.
+castle - noun - a2 - qal’a - ot - The castle is very old. - Qal’a juda eski.
+catch - verb - a2 - ushlamoq, tutmoq - fel - Catch the ball! - To‘pni ushla!
+cause - noun - a2 - sabab - ot - What is the cause of the problem? - Muammoning sababi nima?
+cause - verb - a2 - sabab bo‘lmoq - fel - Smoking can cause cancer. - Chekish saraton kasalligiga sabab bo‘lishi mumkin.
+celebrate - verb - a2 - nishonlamoq - fel - We celebrate New Year. - Biz Yangi yilni nishonlaymiz.
+celebrity - noun - a2 - mashhur odam - ot - She is a famous celebrity. - U mashhur inson.
+certain - adjective - a2 - aniq, ma’lum - sifat - I am certain about my answer. - Javobimga aniqman.
+certainly - adverb - a2 - albatta - ravish - I will certainly help you. - Albatta, sizga yordam beraman.
+chance - noun - a2 - imkoniyat - ot - Give me a chance. - Menga imkoniyat bering.
+character - noun - a2 - xarakter, qahramon - ot - The main character is brave. - Asosiy qahramon jasur.
+charity - noun - a2 - xayriya - ot - She works for a charity. - U xayriya tashkilotida ishlaydi.
+chat - noun - a2 - suhbat - ot - We had a chat after class. - Darsdan keyin suhbatlashdik.
+chat - verb - a2 - suhbatlashmoq - fel - I like to chat with friends. - Do‘stlarim bilan suhbatlashishni yaxshi ko‘raman.
+check - noun - a2 - tekshiruv, chek - ot - Do a final check before you leave. - Ketishdan oldin yakuniy tekshiruv qiling.
+chef - noun - a2 - oshpaz - ot - The chef cooked a delicious meal. - Oshpaz mazali ovqat tayyorladi.
+chemistry - noun - a2 - kimyo - ot - Chemistry is my favorite subject. - Kimyo mening sevimli fanim.
+chip - noun - a2 - chip, kartoshka bo‘lagi - ot - I like potato chips. - Men kartoshka chipsini yaxshi ko‘raman.
+choice - noun - a2 - tanlov - ot - You have a choice. - Sizda tanlov bor.
+church - noun - a2 - cherkov - ot - The church is near my house. - Cherkov uyim yaqinida.
+cigarette - noun - a2 - sigareta - ot - Smoking cigarettes is harmful. - Sigareta chekish zararli.
+circle - noun - a2 - doira - ot - Draw a circle. - Doira chizing.
+circle - verb - a2 - aylantirmoq, doira ichiga olmoq - fel - Circle the correct answer. - To‘g‘ri javobni doira ichiga oling.
+classical - adjective - a2 - klassik - sifat - I like classical music. - Men klassik musiqani yaxshi ko‘raman.
+clear - adjective - a2 - aniq, ravshan - sifat - The sky is clear today. - Bugun osmon ravshan.
+clearly - adverb - a2 - aniq, ravshan tarzda - ravish - Speak clearly, please. - Iltimos, aniq gapiring.
+clever - adjective - a2 - aqlli - sifat - She is a clever student. - U aqlli talaba.
+climate - noun - a2 - iqlim - ot - The climate here is hot. - Bu yerda iqlim issiq.
+close - adjective - a2 - yaqin - sifat - My house is close to the school. - Uyim maktabga yaqin.
+closed - adjective - a2 - yopiq - sifat - The shop is closed. - Do‘kon yopiq.
+clothing - noun - a2 - kiyim-kechak - ot - I bought new clothing. - Men yangi kiyim-kechak sotib oldim.
+cloud - noun - a2 - bulut - ot - There are many clouds in the sky. - Osmonda ko‘p bulut bor.
+coach - noun - a2 - murabbiy, avtobus - ot - The football coach is strict. - Futbol murabbiyi talabchan.
+coast - noun - a2 - sohil - ot - We walked along the coast. - Sohil bo‘ylab yurdik.
+code - noun - a2 - kod, shifr - ot - Enter your PIN code. - PIN kodingizni kiriting.
+colleague - noun - a2 - hamkasb - ot - My colleague is very helpful. - Hamkasbim juda yordamchi.
+collect - verb - a2 - yig‘moq, to‘plamoq - fel - I collect stamps. - Men markalar yig‘aman.
+column - noun - a2 - ustun, ustuncha - ot - Write your name in the first column. - Ismingizni birinchi ustunga yozing.
+comedy - noun - a2 - komediya - ot - I watched a comedy last night. - Kecha komediya ko‘rdim.
+comfortable - adjective - a2 - qulay - sifat - This chair is comfortable. - Bu stul qulay.
+comment - noun - a2 - izoh, fikr - ot - Leave a comment below. - Quyida izoh qoldiring.
+communicate - verb - a2 - muloqot qilmoq - fel - We communicate by email. - Biz email orqali muloqot qilamiz.
+community - noun - a2 - jamiyat, hamjamiyat - ot - Our community is friendly. - Bizning jamiyatimiz do‘stona.
+compete - verb - a2 - raqobatlashmoq - fel - Teams compete for the prize. - Jamoalar mukofot uchun raqobatlashadi.
+competition - noun - a2 - musobaqa - ot - The competition was tough. - Musobaqa qiyin bo‘ldi.
+complain - verb - a2 - shikoyat qilmoq - fel - He always complains about the food. - U har doim ovqatdan shikoyat qiladi.
+completely - adverb - a2 - to‘liq, butunlay - ravish - The work is completely finished. - Ish butunlay tugadi.
+condition - noun - a2 - holat, sharoit - ot - The car is in good condition. - Mashina yaxshi holatda.
+conference - noun - a2 - konferensiya - ot - I attended a conference. - Men konferensiyada qatnashdim.
+connect - verb - a2 - ulamoq, bog‘lamoq - fel - Connect your phone to Wi-Fi. - Telefoningizni Wi-Fi ga ulang.
+connected - adjective - a2 - ulangan, bog‘langan - sifat - The computer is connected to the printer. - Kompyuter printerga ulangan.
+consider - verb - a2 - o‘ylab ko‘rmoq, hisobga olmoq - fel - Please consider my request. - Iltimos, iltimosimni hisobga oling.
+contain - verb - a2 - o‘z ichiga olmoq - fel - The box contains books. - Qutida kitoblar bor.
+context - noun - a2 - kontekst, matn - ot - Understand the word in context. - So‘zni kontekstda tushuning.
+continent - noun - a2 - qit’a - ot - Asia is a large continent. - Osiyo katta qit’a.
+continue - verb - a2 - davom ettirmoq - fel - Please continue reading. - Iltimos, o‘qishni davom eting.
+control - noun - a2 - boshqaruv, nazorat - ot - The teacher has control of the class. - O‘qituvchi sinfni boshqaradi.
+control - verb - a2 - boshqarmoq, nazorat qilmoq - fel - He can control his emotions. - U his-tuyg‘ularini boshqara oladi.
+cook - noun - a2 - oshpaz - ot - The cook works in a restaurant. - Oshpaz restoranda ishlaydi.
+cooker - noun - a2 - gaz plitasi, pishirish moslamasi - ot - The cooker is new. - Gaz plitasi yangi.
+copy - noun - a2 - nusxa, ko‘chirma - ot - I need a copy of the document. - Menga hujjatning nusxasi kerak.
+copy - verb - a2 - ko‘chirmoq, nusxa olmoq - fel - Copy the text into your notebook. - Matnni daftariga ko‘chiring.
+corner - noun - a2 - burchak - ot - The shop is on the corner. - Do‘kon burchakda.
+correctly - adverb - a2 - to‘g‘ri tarzda - ravish - Answer the questions correctly. - Savollarga to‘g‘ri javob bering.
+count - verb - a2 - sanamoq - fel - Count the apples. - Olmalarni sanang.
+couple - noun - a2 - juft, bir necha - ot - A couple of students are late. - Bir necha talaba kechikdi.
+cover - verb - a2 - yopmoq, qoplamoq - fel - Cover the pot with a lid. - Qozonni qopqoq bilan yoping.
+crazy - adjective - a2 - tentak, aqldan ozgan - sifat - That idea is crazy! - Bu g‘oya tentaklik!
+creative - adjective - a2 - ijodkor, kreativ - sifat - She is a creative artist. - U ijodkor rassom.
+credit - noun - a2 - kredit, ishonch - ot - I bought the phone on credit. - Telefonni kreditga oldim.
+crime - noun - a2 - jinoyat - ot - Crime is a problem in big cities. - Katta shaharlarda jinoyat muammosi bor.
+criminal - noun - a2 - jinoyatchi - ot - The police caught the criminal. - Politsiya jinoyatchini ushladi.
+cross - noun - a2 - xoch, kesishma - ot - There is a cross on the map. - Xaritada xoch belgisi bor.
+cross - verb - a2 - kesib o‘tmoq - fel - Cross the street carefully. - Ko‘chani ehtiyotkorlik bilan kesib o‘ting.
+crowd - noun - a2 - olomon, gavjumlik - ot - There was a big crowd at the concert. - Kontsertda katta olomon bor edi.
+crowded - adjective - a2 - gavjum, to‘la - sifat - The bus is crowded. - Avtobus gavjum.
+cry - verb - a2 - yig‘lamoq - fel - The baby is crying. - Chaqaloq yig‘layapti.
+cupboard - noun - a2 - shkaf, javon - ot - The plates are in the cupboard. - Likopchalar shkafda.
+curly - adjective - a2 - jingalak - sifat - She has curly hair. - Uning sochi jingalak.
+cycle - noun - a2 - velosiped, sikl - ot - I bought a new cycle. - Men yangi velosiped sotib oldim.
+cycle - verb - a2 - velosipedda yurmoq - fel - I cycle to work every day. - Men har kuni ishga velosipedda boraman.
+daily - adjective - a2 - kundalik - sifat - I read the daily newspaper. - Men kundalik gazeta o‘qiyman.
+danger - noun - a2 - xavf - ot - There is danger on the road. - Yo‘lda xavf bor.
+dark - noun - a2 - qorong‘ulik - ot - I am afraid of the dark. - Men qorong‘ulikdan qo‘rqaman.
+data - noun - a2 - ma’lumotlar - ot - The data is correct. - Ma’lumotlar to‘g‘ri.
+dead - adjective - a2 - o‘lik, o‘lgan - sifat - The plant is dead. - O‘simlik o‘lgan.
+deal - verb - a2 - muomala qilmoq, kelishmoq - fel - I deal with customers. - Men mijozlar bilan muomala qilaman.
+dear - exclamation - a2 - voy, oh - undov - Oh dear! I forgot my keys. - Voy, kalitlarimni unutibman.
+death - noun - a2 - o‘lim - ot - His death was a shock. - Uning o‘limi hayratli bo‘ldi.
+decision - noun - a2 - qaror - ot - I made a decision. - Men qaror qabul qildim.
+deep - adjective - a2 - chuqur - sifat - The water is deep here. - Bu yerda suv chuqur.
+definitely - adverb - a2 - aniq, albatta - ravish - I will definitely come. - Albatta kelaman.
+degree - noun - a2 - daraja, diplom - ot - She has a degree in law. - Uning huquq bo‘yicha diplomi bor.
+dentist - noun - a2 - stomatolog - ot - I went to the dentist. - Men stomatologga bordim.
+department - noun - a2 - bo‘lim - ot - I work in the sales department. - Men savdo bo‘limida ishlayman.
+depend - verb - a2 - bog‘liq bo‘lmoq - fel - It depends on the weather. - Bu ob-havoga bog‘liq.
+desert - noun - a2 - cho‘l - ot - The Sahara is a large desert. - Sahara katta cho‘l.
+designer - noun - a2 - dizayner, loyihachi - ot - She is a fashion designer. - U moda dizayneri.
+destroy - verb - a2 - yo‘q qilmoq, vayron qilmoq - fel - The fire destroyed the house. - Yong‘in uyni yo‘q qildi.
+detective - noun - a2 - detektiv, tergovchi - ot - The detective solved the case. - Detektiv ishni hal qildi.
+develop - verb - a2 - rivojlantirmoq - fel - I want to develop my skills. - Men ko‘nikmalarimni rivojlantirmoqchiman.
+device - noun - a2 - qurilma - ot - This device is very useful. - Bu qurilma juda foydali.
+diary - noun - a2 - kundalik - ot - I write in my diary every day. - Men har kuni kundaligimga yozaman.
+differently - adverb - a2 - boshqacha tarzda - ravish - She thinks differently. - U boshqacha o‘ylaydi.
+digital - adjective - a2 - raqamli - sifat - I have a digital camera. - Menda raqamli kamera bor.
+direct - adjective - a2 - to‘g‘ri, bevosita - sifat - He gave a direct answer. - U to‘g‘ri javob berdi.
+direction - noun - a2 - yo‘nalish - ot - Go in this direction. - Shu yo‘nalishda boring.
+director - noun - a2 - direktor, rahbar - ot - The director is in his office. - Direktor o‘z kabinetida.
+disagree - verb - a2 - rozi bo‘lmaslik - fel - I disagree with you. - Men siz bilan rozi emasman.
+disappear - verb - a2 - yo‘qolmoq - fel - The sun disappeared behind the clouds. - Quyosh bulutlar ortiga yo‘qoldi.
+disaster - noun - a2 - falokat, ofat - ot - The flood was a disaster. - To‘fon falokat bo‘ldi.
+discover - verb - a2 - kashf qilmoq - fel - Scientists discovered a new planet. - Olimlar yangi sayyora kashf qilishdi.
+discovery - noun - a2 - kashfiyot - ot - The discovery was important. - Kashfiyot muhim edi.
+discussion - noun - a2 - muhokama - ot - We had a discussion about the project. - Loyihani muhokama qildik.
+disease - noun - a2 - kasallik - ot - Flu is a common disease. - Gripp keng tarqalgan kasallik.
+distance - noun - a2 - masofa - ot - The distance is five kilometers. - Masofa besh kilometr.
+divorced - adjective - a2 - ajrashgan - sifat - My parents are divorced. - Ota-onam ajrashgan.
+document - noun - a2 - hujjat - ot - Please sign the document. - Iltimos, hujjatni imzolang.
+double - adjective - a2 - ikki barobar, juft - sifat - I need a double room. - Menga ikki kishilik xona kerak.
+double - determiner - a2 - ikki barobar - aniqlovchi - Double the amount. - Miqdorni ikki barobar qiling.
+double - pronoun - a2 - ikki barobar - olmosh - I got double. - Men ikki barobar oldim.
+double - verb - a2 - ikki barobar qilmoq - fel - Double the recipe. - Retseptni ikki barobar qiling.
+download - noun - a2 - yuklab olish - ot - The download is complete. - Yuklab olish tugadi.
+download - verb - a2 - yuklab olmoq - fel - Download the file. - Faylni yuklab oling.
+downstairs - adjective - a2 - pastki qavatdagi - sifat - The kitchen is downstairs. - Oshxona pastki qavatda.
+drama - noun - a2 - drama, sahna asari - ot - I like watching drama. - Men drama tomosha qilishni yaxshi ko‘raman.
+drawing - noun - a2 - chizma, rasm - ot - Show me your drawing. - Chizgan rasmingizni ko‘rsating.
+dream - noun - a2 - orzu, tush - ot - My dream is to travel the world. - Mening orzum dunyo kezish.
+dream - verb - a2 - orzu qilmoq, tush ko‘rmoq - fel - I dream about success. - Men muvaffaqiyat haqida orzu qilaman.
+drive - noun - a2 - haydash, yurish - ot - I had a long drive. - Men uzoq haydadim.
+driving - noun - a2 - haydash - ot - Driving at night is difficult. - Kechasi haydash qiyin.
+drop - verb - a2 - tushirmoq, tashlab yubormoq - fel - Don’t drop the glass. - Shishani tushirib yuborma.
+drug - noun - a2 - dori, narkotik - ot - He takes medicine, not drugs. - U dori ichadi, narkotik emas.
+dry - adjective - a2 - quruq - sifat - The clothes are dry. - Kiyimlar quruq.
+dry - verb - a2 - quritmoq - fel - Dry your hands. - Qo‘llaringizni quriting.
+earn - verb - a2 - topmoq, ishlab topmoq - fel - I earn money by teaching. - Men dars berib pul topaman.
+earth - noun - a2 - yer, Yer sayyorasi - ot - The earth is round. - Yer sayyorasi yumaloq.
+easily - adverb - a2 - osonlik bilan - ravish - I can easily do this. - Men buni osonlik bilan qila olaman.
+education - noun - a2 - ta’lim, ma’lumot - ot - Education is important. - Ta’lim muhim.
+effect - noun - a2 - ta’sir, natija - ot - The medicine has a good effect. - Dori yaxshi ta’sir ko‘rsatadi.
+either - adverb - a2 - ham, ham emas - ravish - I don’t like tea either. - Men ham choyni yoqtirmayman.
+either - determiner - a2 - har ikkisi - aniqlovchi - Either answer is correct. - Har ikkala javob ham to‘g‘ri.
+either - pronoun - a2 - har ikkisi - olmosh - You can choose either. - Har ikkisini tanlashingiz mumkin.
+electric - adjective - a2 - elektr - sifat - I have an electric car. - Menda elektr mashina bor.
+electrical - adjective - a2 - elektrga oid - sifat - Electrical equipment is expensive. - Elektr jihozlari qimmat.
+electricity - noun - a2 - elektr - ot - The electricity is off. - Elektr o‘chirilgan.
+electronic - adjective - a2 - elektron - sifat - I bought an electronic device. - Men elektron qurilma sotib oldim.
+employ - verb - a2 - ishga olmoq - fel - The company employs many people. - Kompaniya ko‘p odamni ishga oladi.
+employee - noun - a2 - xodim - ot - She is an employee at the bank. - U bankda xodim.
+employer - noun - a2 - ish beruvchi - ot - The employer pays the salary. - Ish beruvchi maosh to‘laydi.
+empty - adjective - a2 - bo‘sh - sifat - The box is empty. - Quti bo‘sh.
+ending - noun - a2 - oxir, yakun - ot - The story has a happy ending. - Hikoyaning oxiri baxtli.
+energy - noun - a2 - energiya, quvvat - ot - I have a lot of energy. - Menda ko‘p energiya bor.
+engine - noun - a2 - dvigatel, motor - ot - The car engine is new. - Mashinaning dvigateli yangi.
+engineer - noun - a2 - muhandis - ot - My father is an engineer. - Otam muhandis.
+enormous - adjective - a2 - juda katta - sifat - The elephant is enormous. - Fil juda katta.
+enter - verb - a2 - kirib kelmoq - fel - Enter the room, please. - Iltimos, xonaga kiring.
+environment - noun - a2 - atrof-muhit - ot - We must protect the environment. - Atrof-muhitni asrashimiz kerak.
+equipment - noun - a2 - jihozlar - ot - The gym has new equipment. - Sport zalida yangi jihozlar bor.
+error - noun - a2 - xato, nosozlik - ot - There is an error in the text. - Matnda xato bor.
+especially - adverb - a2 - ayniqsa - ravish - I like fruit, especially apples. - Men meva yaxshi ko‘raman, ayniqsa olma.
+essay - noun - a2 - insho - ot - Write an essay about your family. - Oilangiz haqida insho yozing.
+everyday - adjective - a2 - kundalik - sifat - These are my everyday shoes. - Bu mening kundalik poyabzalim.
+everywhere - adverb - a2 - hamma joyda - ravish - I looked everywhere. - Men hamma joyda qidirdim.
+evidence - noun - a2 - dalil, isbot - ot - The police found evidence. - Politsiya dalil topdi.
+exact - adjective - a2 - aniq - sifat - Give me the exact time. - Menga aniq vaqtni ayting.
+exactly - adverb - a2 - aniq, aynan - ravish - That’s exactly right. - Bu aynan to‘g‘ri.
+excellent - adjective - a2 - a’lo, zo‘r - sifat - You did an excellent job. - Siz a’lo ish qildingiz.
+except - preposition - a2 - ...dan tashqari - prielog - Everyone came except Ali. - Alidan tashqari hamma keldi.
+exist - verb - a2 - mavjud bo‘lmoq - fel - Dinosaurs no longer exist. - Dinozavrlar endi mavjud emas.
+expect - verb - a2 - kutmoq, umid qilmoq - fel - I expect good results. - Men yaxshi natija kutaman.
+experience - noun - a2 - tajriba - ot - I have work experience. - Menda ish tajribasi bor.
+experiment - noun - a2 - tajriba (ilmiy) - ot - We did an experiment in science class. - Fan darsida tajriba o‘tkazdik.
+expert - adjective - a2 - tajribali, mutaxassis - sifat - She gave expert advice. - U mutaxassis maslahat berdi.
+expert - noun - a2 - mutaxassis - ot - He is a computer expert. - U kompyuter mutaxassisi.
+explanation - noun - a2 - tushuntirish - ot - I need an explanation. - Menga tushuntirish kerak.
+express - verb - a2 - ifoda qilmoq - fel - Express your opinion. - Fikringizni ifoda qiling.
+expression - noun - a2 - ifoda, ibora - ot - “Good morning” is a common expression. - “Hayrli tong” keng tarqalgan ibora.
+extreme - adjective - a2 - haddan tashqari, ekstremal - sifat - The weather is extreme. - Ob-havo haddan tashqari.
+extremely - adverb - a2 - juda, nihoyatda - ravish - The test was extremely difficult. - Test juda qiyin edi.
+factor - noun - a2 - omil, sabab - ot - Price is an important factor. - Narx muhim omil.
+factory - noun - a2 - zavod, fabrika - ot - My uncle works in a factory. - Amakim zavodda ishlaydi.
+fail - verb - a2 - muvaffaqiyatsiz bo‘lmoq - fel - I failed the test. - Men testdan o‘ta olmadim.
+fair - adjective - a2 - adolatli, oq - sifat - The decision was fair. - Qaror adolatli edi.
+fall - noun - a2 - yiqilish, kuz - ot - His fall was sudden. - Uning yiqilishi kutilmagan edi.
+fan - noun - a2 - muxlis, ventilyator - ot - I am a football fan. - Men futbol muxlisiman.
+farm - verb - a2 - dehqonchilik qilmoq - fel - They farm vegetables. - Ular sabzavot yetishtirishadi.
+farming - noun - a2 - dehqonchilik - ot - Farming is hard work. - Dehqonchilik og‘ir ish.
+fashion - noun - a2 - moda - ot - She likes fashion. - U modani yaxshi ko‘radi.
+fat - noun - a2 - yog‘ - ot - Butter contains a lot of fat. - Sariyog‘da ko‘p yog‘ bor.
+fear - noun - a2 - qo‘rquv - ot - He has a fear of heights. - U balandlikdan qo‘rqadi.
+feature - noun - a2 - xususiyat, belgi - ot - This phone has many features. - Bu telefonda ko‘p xususiyatlar bor.
+feed - verb - a2 - ovqatlantirmoq - fel - I feed my cat every morning. - Men har kuni ertalab mushugimni ovqatlantiraman.
+female - adjective - a2 - urg‘ochi, ayol - sifat - The female bird is smaller. - Urg‘ochi qush kichikroq.
+female - noun - a2 - urg‘ochi, ayol - ot - There are more females in the class. - Sinfda ko‘proq ayollar bor.
+fiction - noun - a2 - badiiy adabiyot - ot - I like science fiction. - Men ilmiy fantastikani yaxshi ko‘raman.
+field - noun - a2 - dala, soha - ot - The cows are in the field. - Sigirlar dalada.
+fight - noun - a2 - janjal, urush - ot - There was a fight at school. - Maktabda janjal bo‘ldi.
+fight - verb - a2 - urushmoq, janjallashmoq - fel - The boys are fighting. - Bolalar urushishyapti.
+figure - noun - a2 - raqam, shakl - ot - Look at the figure on the board. - Doskadagi shaklga qarang.
+film - verb - a2 - suratga olmoq - fel - They filmed the event. - Ular tadbirni suratga olishdi.
+final - noun - a2 - final, yakuniy bosqich - ot - The final will be on Sunday. - Final yakshanba kuni bo‘ladi.
+finally - adverb - a2 - nihoyat, oxiri - ravish - Finally, we arrived home. - Nihoyat, uyga yetib keldik.
+finger - noun - a2 - barmoq - ot - I cut my finger. - Barmog‘imni kesib oldim.
+finish - noun - a2 - yakun, oxir - ot - The finish was exciting. - Oxiri hayajonli bo‘ldi.
+first - noun - a2 - birinchi o‘rin - ot - She came first in the race. - U poygada birinchi bo‘ldi.
+firstly - adverb - a2 - birinchi navbatda - ravish - Firstly, let’s discuss the plan. - Avvalo, rejani muhokama qilaylik.
+fish - verb - a2 - baliq tutmoq - fel - I like to fish in the river. - Men daryoda baliq tutishni yaxshi ko‘raman.
+fishing - noun - a2 - baliq ovlash - ot - Fishing is my hobby. - Baliq ovlash mening hobbiyim.
+fit adjective a2
+grass noun a2
+greet verb a2
+ground noun a2
+guest noun a2
+guide noun a2
+guide verb a2
+gun noun a2
+guy noun a2
+habit noun a2
+half adverb a2
+hall noun a2
+happily adverb a2
+have auxiliary verb a2
+headache noun a2
+heart noun a2
+heat noun a2
+heat verb a2
+heavy adjective a2
+height noun a2
+helpful adjective a2
+hero noun a2
+hers pronoun a2
+herself pronoun a2
+hide verb a2
+high adverb a2
+hill noun a2
+himself pronoun a2
+his pronoun a2
+hit noun a2
+hit verb a2
+hockey noun a2
+hold verb a2
+hole noun a2
+home adjective a2
+hope noun a2
+huge adjective a2
+human adjective a2
+human noun a2
+hurt adjective a2
+hurt verb a2
+ideal adjective a2
+identify verb a2
+ill adjective a2
+illness noun a2
+image noun a2
+immediately adverb a2
+impossible adjective a2
+included adjective a2
+including preposition a2
+increase noun a2
+increase verb a2
+incredible adjective a2
+independent adjective a2
+individual adjective a2
+individual noun a2
+industry noun a2
+informal adjective a2
+injury noun a2
+insect noun a2
+inside adjective a2
+inside adverb a2
+inside noun a2
+inside preposition a2
+instead adverb a2
+instruction noun a2
+instructor noun a2
+instrument noun a2
+intelligent adjective a2
+international adjective a2
+introduction noun a2
+invent verb a2
+invention noun a2
+invitation noun a2
+invite verb a2
+involve verb a2
+item noun a2
+itself pronoun a2
+jam noun a2
+jazz noun a2
+jewellery noun a2
+joke noun a2
+joke verb a2
+journalist noun a2
+jump noun a2
+jump verb a2
+kid noun a2
+kill verb a2
+king noun a2
+knee noun a2
+knife noun a2
+knock verb a2
+knowledge noun a2
+lab noun a2
+lady noun a2
+lake noun a2
+lamp noun a2
+land verb a2
+laptop noun a2
+last adverb a2
+last noun a2
+last verb a2
+later adjective a2
+laughter noun a2
+law noun a2
+lawyer noun a2
+lazy adjective a2
+lead verb a2
+leader noun a2
+learning noun a2
+least adverb a2
+least determiner a2
+least pronoun a2
+lecture noun a2
+lecture verb a2
+lemon noun a2
+lend verb a2
+less adverb a2
+less determiner a2
+less pronoun a2
+level noun a2
+lifestyle noun a2
+lift noun a2
+lift verb a2
+light verb a2
+likely adjective a2
+link noun a2
+link verb a2
+listener noun a2
+little adverb a2
+lock noun a2
+lock verb a2
+look noun a2
+lorry noun a2
+lost adjective a2
+loud adjective a2
+loud adverb a2
+loudly adverb a2
+lovely adjective a2
+low adjective a2
+low adverb a2
+luck noun a2
+lucky adjective a2
+mail noun a2
+mail verb a2
+major adjective a2
+male adjective a2
+male noun a2
+manage verb a2
+manager noun a2
+manner noun a2
+mark noun a2
+mark verb a2
+marry verb a2
+material noun a2
+mathematics noun a2
+maths noun a2
+matter noun a2
+matter verb a2
+may modal verb a2
+media noun a2
+medical adjective a2
+medicine noun a2
+memory noun a2
+mention verb a2
+metal noun a2
+method noun a2
+middle adjective a2
+middle noun a2
+might modal verb a2
+mind noun a2
+mind verb a2
+mine pronoun a2
+mirror noun a2
+missing adjective a2
+mobile adjective a2
+mobile noun a2
+monkey noun a2
+moon noun a2
+mostly adverb a2
+motorcycle noun a2
+movement noun a2
+musical adjective a2
+musician noun a2
+myself pronoun a2
+narrow adjective a2
+national adjective a2
+nature noun a2
+nearly adverb a2
+necessary adjective a2
+neck noun a2
+need noun a2
+neither determiner a2
+neither pronoun a2
+nervous adjective a2
+network noun a2
+noise noun a2
+noisy adjective a2
+none pronoun a2
+normal adjective a2
+normally adverb a2
+notice noun a2
+notice verb a2
+novel noun a2
+nowhere adverb a2
+number verb a2
+nut noun a2
+ocean noun a2
+offer noun a2
+offer verb a2
+officer noun a2
+oil noun a2
+onto preposition a2
+opportunity noun a2
+option noun a2
+ordinary adjective a2
+organization noun a2
+organize verb a2
+original adjective a2
+ourselves pronoun a2
+outside adjective a2
+outside noun a2
+outside preposition a2
+oven noun a2
+own verb a2
+owner noun a2
+pack verb a2
+pain noun a2
+painter noun a2
+palace noun a2
+pants noun a2
+parking noun a2
+particular adjective a2
+pass verb a2
+passenger noun a2
+past adverb a2
+patient noun a2
+pattern noun a2
+pay noun a2
+peace noun a2
+penny noun a2
+per preposition a2
+per cent adjective a2
+per cent adverb a2
+per cent noun a2
+perform verb a2
+perhaps adverb a2
+permission noun a2
+personality noun a2
+pet noun a2
+petrol noun a2
+photograph verb a2
+physical adjective a2
+physics noun a2
+pick verb a2
+pilot noun a2
+planet noun a2
+plant verb a2
+plastic adjective a2
+plastic noun a2
+plate noun a2
+platform noun a2
+please verb a2
+pleased adjective a2
+pocket noun a2
+polite adjective a2
+pollution noun a2
+pop adjective a2
+pop noun a2
+population noun a2
+position noun a2
+possession noun a2
+possibility noun a2
+poster noun a2
+power noun a2
+predict verb a2
+present verb a2
+president noun a2
+prevent verb a2
+print verb a2
+printer noun a2
+prison noun a2
+prize noun a2
+process noun a2
+produce verb a2
+professional adjective a2
+professor noun a2
+profile noun a2
+program noun a2
+progress noun a2
+promise noun a2
+promise verb a2
+pronounce verb a2
+protect verb a2
+provide verb a2
+pub noun a2
+public adjective a2
+public noun a2
+publish verb a2
+pull verb a2
+purpose noun a2
+push verb a2
+quality noun a2
+quantity noun a2
+queen noun a2
+question verb a2
+quietly adverb a2
+race noun a2
+race verb a2
+railway noun a2
+raise verb a2
+rate noun a2
+rather adverb a2
+reach verb a2
+react verb a2
+realize verb a2
+receive verb a2
+recent adjective a2
+recently adverb a2
+reception noun a2
+recipe noun a2
+recognize verb a2
+recommend verb a2
+record noun a2
+record verb a2
+recording noun a2
+recycle verb a2
+reduce verb a2
+refer verb a2
+refuse verb a2
+region noun a2
+regular adjective a2
+relationship noun a2
+remove verb a2
+repair verb a2
+replace verb a2
+reply noun a2
+reply verb a2
+report verb a2
+reporter noun a2
+request noun a2
+research noun a2
+research verb a2
+researcher noun a2
+respond verb a2
+response noun a2
+rest noun a2
+rest verb a2
+review noun a2
+review verb a2
+ride noun a2
+ring noun a2
+ring verb a2
+rise verb a2
+rock noun a2
+role noun a2
+roof noun a2
+round adjective a2
+round adverb a2
+round preposition a2
+route noun a2
+rubbish noun a2
+rude adjective a2
+run noun a2
+runner noun a2
+running noun a2
+sadly adverb a2
+safe adjective a2
+sail verb a2
+sailing noun a2
+salary noun a2
+sale noun a2
+sauce noun a2
+save verb a2
+scared adjective a2
+scary adjective a2
+scene noun a2
+schedule noun a2
+score noun a2
+score verb a2
+screen noun a2
+search noun a2
+search verb a2
+season noun a2
+seat noun a2
+second adverb a2
+secondly adverb a2
+secret adjective a2
+secret noun a2
+secretary noun a2
+seem linking verb a2
+sense noun a2
+separate adjective a2
+series noun a2
+serious adjective a2
+serve verb a2
+service noun a2
+several determiner a2
+several pronoun a2
+shake verb a2
+shall modal verb a2
+shape noun a2
+sheet noun a2
+ship noun a2
+shoulder noun a2
+shout noun a2
+shout verb a2
+shut adjective a2
+shut verb a2
+side noun a2
+sign noun a2
+sign verb a2
+silver adjective a2
+silver noun a2
+simple adjective a2
+since conjunction a2
+since preposition a2
+singing noun a2
+single adjective a2
+single noun a2
+sir noun a2
+site noun a2
+size noun a2
+ski adjective a2
+ski noun a2
+ski verb a2
+skiing noun a2
+skin noun a2
+sky noun a2
+sleep noun a2
+slowly adverb a2
+smartphone noun a2
+smell noun a2
+smell verb a2
+smile noun a2
+smile verb a2
+smoke noun a2
+smoke verb a2
+smoking noun a2
+soap noun a2
+soccer noun a2
+social adjective a2
+society noun a2
+sock noun a2
+soft adjective a2
+soldier noun a2
+solution noun a2
+solve verb a2
+somewhere adverb a2
+somewhere pronoun a2
+sort noun a2
+source noun a2
+speaker noun a2
+specific adjective a2
+speech noun a2
+speed noun a2
+spider noun a2
+spoon noun a2
+square adjective a2
+square noun a2
+stage noun a2
+stair noun a2
+stamp noun a2
+star verb a2
+start noun a2
+state noun a2
+stay noun a2
+steal verb a2
+step noun a2
+stomach noun a2
+stone noun a2
+store noun a2
+storm noun a2
+straight adjective a2
+straight adverb a2
+strange adjective a2
+strategy noun a2
+stress noun a2
+stress verb a2
+structure noun a2
+stupid adjective a2
+succeed verb a2
+successful adjective a2
+such determiner a2
+such pronoun a2
+suddenly adverb a2
+suggest verb a2
+suggestion noun a2
+suit noun a2
+support noun a2
+support verb a2
+suppose verb a2
+sure adverb a2
+surprise noun a2
+surprise verb a2
+surprised adjective a2
+surprising adjective a2
+survey noun a2
+sweet adjective a2
+sweet noun a2
+symbol noun a2
+system noun a2
+tablet noun a2
+talk noun a2
+target noun a2
+task noun a2
+taste noun a2
+taste verb a2
+teaching noun a2
+technology noun a2
+teenage adjective a2
+temperature noun a2
+term noun a2
+text verb a2
+themselves pronoun a2
+thick adjective a2
+thief noun a2
+thin adjective a2
+thinking noun a2
+third noun a2
+thought noun a2
+throw verb a2
+tidy adjective a2
+tidy verb a2
+tie noun a2
+tie verb a2
+tip noun a2
+tool noun a2
+top adjective a2
+top noun a2
+touch verb a2
+tour noun a2
+tourism noun a2
+towards preposition a2
+towel noun a2
+tower noun a2
+toy adjective a2
+toy noun a2
+track noun a2
+tradition noun a2
+traditional adjective a2
+train verb a2
+trainer noun a2
+training noun a2
+transport noun a2
+traveller noun a2
+trouble noun a2
+truck noun a2
+twin adjective a2
+twin noun a2
+typical adjective a2
+underground adjective a2
+underground adverb a2
+understanding noun a2
+unfortunately adverb a2
+unhappy adjective a2
+uniform noun a2
+unit noun a2
+united adjective a2
+unusual adjective a2
+upstairs adjective a2
+use noun a2
+used to modal verb a2
+user noun a2
+usual adjective a2
+valley noun a2
+van noun a2
+variety noun a2
+vehicle noun a2
+view noun a2
+virus noun a2
+voice noun a2
+wait noun a2
+war noun a2
+wash noun a2
+washing noun a2
+wave noun a2
+weak adjective a2
+web noun a2
+wedding noun a2
+weight noun a2
+welcome noun a2
+wet adjective a2
+wheel noun a2
+while conjunction a2
+whole adjective a2
+whose determiner a2
+whose pronoun a2
+wide adjective a2
+wild adjective a2
+wind noun a2
+winner noun a2
+wish noun a2
+wish verb a2
+wood noun a2
+wooden adjective a2
+working adjective a2
+worried adjective a2
+worry verb a2
+worse adjective a2
+worst adjective a2
+wow exclamation a2
+yet adverb a2
+yours pronoun a2
+zero number a2
